@@ -1,0 +1,55 @@
+<svg viewBox="0 0 1400 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ep-title ep-desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="ep-title">From commercial presence to Company and Crown colonialism</title>
+  <desc id="ep-desc">Timeline showing permanent commercial presence from 1600 onward, military intervention from the 1740s to 1764, territorial revenue in 1765, Company colonialism from 1765 to 1858, and Crown colonialism from 1858. Territorial revenue financed armies, and armies acquired more territory.</desc>
+
+  <rect width="1400" height="360" fill="#ffffff"/>
+
+  <line x1="70" y1="156" x2="1348" y2="156" stroke="#041e42" stroke-width="4"/>
+  <polygon points="1348,146 1380,156 1348,166" fill="#041e42"/>
+
+  <g text-anchor="middle">
+    <g>
+      <text x="150" y="64" font-size="18" font-weight="700" letter-spacing="1.1" fill="#1f4e79">PERMANENT PRESENCE</text>
+      <text x="150" y="100" font-size="23" font-weight="600" fill="#6b7280">1600 onward</text>
+      <circle cx="150" cy="156" r="12" fill="#1f4e79"/>
+      <text x="150" y="204" font-size="21" fill="#041e42">Charter, factories,</text>
+      <text x="150" y="232" font-size="21" fill="#041e42">fortified settlements</text>
+    </g>
+
+    <g>
+      <text x="420" y="64" font-size="20" font-weight="700" letter-spacing="1.4" fill="#8a7a5c">INTERVENTION</text>
+      <text x="420" y="100" font-size="23" font-weight="600" fill="#6b7280">1740s–1764</text>
+      <circle cx="420" cy="156" r="12" fill="#8a7a5c"/>
+      <text x="420" y="204" font-size="21" fill="#041e42">Rival wars, alliances,</text>
+      <text x="420" y="232" font-size="21" fill="#041e42">sepoy armies</text>
+    </g>
+
+    <g>
+      <text x="700" y="64" font-size="20" font-weight="700" letter-spacing="1.4" fill="#a33a3a">REVENUE</text>
+      <text x="700" y="100" font-size="23" font-weight="700" fill="#a33a3a">1765</text>
+      <circle cx="700" cy="156" r="15" fill="#a33a3a"/>
+      <text x="700" y="204" font-size="21" font-weight="600" fill="#041e42">Bengal diwani</text>
+      <text x="700" y="232" font-size="21" fill="#041e42">taxation funds Company rule</text>
+    </g>
+
+    <g>
+      <text x="980" y="64" font-size="18" font-weight="700" letter-spacing="1.1" fill="#6b4a72">COMPANY COLONIALISM</text>
+      <text x="980" y="100" font-size="23" font-weight="600" fill="#6b7280">1765–1858</text>
+      <circle cx="980" cy="156" r="12" fill="#6b4a72"/>
+      <text x="980" y="204" font-size="21" fill="#041e42">Company governs territories</text>
+      <text x="980" y="232" font-size="21" fill="#041e42">Parliament supervises</text>
+    </g>
+
+    <g>
+      <text x="1250" y="64" font-size="18" font-weight="700" letter-spacing="1.1" fill="#041e42">CROWN COLONIALISM</text>
+      <text x="1250" y="100" font-size="23" font-weight="700" fill="#041e42">from 1858</text>
+      <circle cx="1250" cy="156" r="12" fill="#041e42"/>
+      <text x="1250" y="204" font-size="21" fill="#041e42">Territories and armies</text>
+      <text x="1250" y="232" font-size="21" fill="#041e42">transfer to the Crown</text>
+    </g>
+  </g>
+
+  <line x1="565" y1="288" x2="835" y2="288" stroke="#a33a3a" stroke-width="3"/>
+  <polygon points="835,280 858,288 835,296" fill="#a33a3a"/>
+  <text x="700" y="326" text-anchor="middle" font-size="22" font-weight="600" fill="#a33a3a">TAX REVENUE → ARMY → MORE TERRITORY</text>
+</svg>

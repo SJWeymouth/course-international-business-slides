@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Freight costs and proximity protection</title>
+  <desc id="desc">High freight costs protected nearby producers. Low freight costs allowed distant factories to compete in the local market.</desc>
+  <rect width="1600" height="600" fill="#ffffff"/>
+  <defs><marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#365f91"/></marker></defs>
+  <line x1="800" y1="65" x2="800" y2="535" stroke="#d7dde5" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="65" font-size="34" font-weight="700" fill="#041e42">HIGH FREIGHT COST</text>
+    <text x="1200" y="65" font-size="34" font-weight="700" fill="#041e42">LOW FREIGHT COST</text>
+    <g transform="translate(220 250)"><rect x="-105" y="-70" width="210" height="140" fill="#041e42"/><path d="M-70 -70 L-25 -110 L20 -70 L65 -110 L105 -70" fill="#041e42"/><text y="-5" font-size="24" font-weight="700" fill="#ffffff">NEARBY</text><text y="29" font-size="24" font-weight="700" fill="#ffffff">FACTORY</text></g>
+    <g transform="translate(600 250)" opacity="0.42"><rect x="-105" y="-70" width="210" height="140" fill="#7f95b2"/><path d="M-70 -70 L-25 -110 L20 -70 L65 -110 L105 -70" fill="#7f95b2"/><text y="-5" font-size="24" font-weight="700" fill="#ffffff">DISTANT</text><text y="29" font-size="24" font-weight="700" fill="#ffffff">FACTORY</text></g>
+    <circle cx="400" cy="485" r="56" fill="#b3a394"/><text x="400" y="495" font-size="25" font-weight="700" fill="#041e42">MARKET</text>
+    <path d="M245 315 Q285 405 350 455" fill="none" stroke="#365f91" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M575 315 Q525 370 470 450" fill="none" stroke="#c5ccd5" stroke-width="8" stroke-dasharray="14 12"/>
+    <rect x="480" y="370" width="145" height="58" rx="8" fill="#eef1f5"/><text x="553" y="408" font-size="21" font-weight="700" fill="#6c7783">COST BARRIER</text>
+    <g transform="translate(1020 250)"><rect x="-105" y="-70" width="210" height="140" fill="#041e42"/><path d="M-70 -70 L-25 -110 L20 -70 L65 -110 L105 -70" fill="#041e42"/><text y="-5" font-size="24" font-weight="700" fill="#ffffff">NEARBY</text><text y="29" font-size="24" font-weight="700" fill="#ffffff">FACTORY</text></g>
+    <g transform="translate(1400 250)"><rect x="-105" y="-70" width="210" height="140" fill="#365f91"/><path d="M-70 -70 L-25 -110 L20 -70 L65 -110 L105 -70" fill="#365f91"/><text y="-5" font-size="24" font-weight="700" fill="#ffffff">DISTANT</text><text y="29" font-size="24" font-weight="700" fill="#ffffff">FACTORY</text></g>
+    <circle cx="1200" cy="485" r="56" fill="#b3a394"/><text x="1200" y="495" font-size="25" font-weight="700" fill="#041e42">MARKET</text>
+    <path d="M1045 315 Q1085 405 1150 455" fill="none" stroke="#365f91" stroke-width="8" marker-end="url(#arr)"/>
+    <path d="M1375 315 Q1325 405 1250 455" fill="none" stroke="#365f91" stroke-width="8" marker-end="url(#arr)"/>
+  </g>
+</svg>

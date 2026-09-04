@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" role="img" aria-labelledby="title desc">
+  <title id="title">Reported reserves and the cash actually left to defend the baht</title>
+  <desc id="desc">Thailand reported 38 billion dollars of reserves in early 1997. By late May, 23 billion dollars had been committed through forward contracts. Continued intervention left only a couple of billion dollars usable by June.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0 0 L12 6 L0 12 Z" fill="#7088a4"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="470" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <line x1="330" y1="215" x2="520" y2="215" stroke="#7088a4" stroke-width="6" marker-end="url(#arrow)"/>
+    <line x1="870" y1="215" x2="1060" y2="215" stroke="#7088a4" stroke-width="6" marker-end="url(#arrow)"/>
+
+    <g text-anchor="middle">
+      <text x="180" y="86" font-size="24" font-weight="700" letter-spacing="1.2" fill="#365f8a">EARLY 1997</text>
+      <text x="180" y="205" font-size="102" font-weight="700" fill="#041e42">$38B</text>
+      <text x="180" y="255" font-size="28" font-weight="700" fill="#041e42">published reserves</text>
+      <text x="180" y="294" font-size="24" fill="#3d4b5b">the visible headline</text>
+
+      <text x="700" y="86" font-size="24" font-weight="700" letter-spacing="1.2" fill="#9a4a42">LATE MAY</text>
+      <text x="700" y="205" font-size="102" font-weight="700" fill="#9a4a42">$23B</text>
+      <text x="700" y="255" font-size="28" font-weight="700" fill="#041e42">committed forward</text>
+      <text x="700" y="294" font-size="24" fill="#3d4b5b">an off-balance-sheet claim</text>
+
+      <text x="1220" y="86" font-size="24" font-weight="700" letter-spacing="1.2" fill="#a28e7d">JUNE</text>
+      <text x="1220" y="205" font-size="102" font-weight="700" fill="#a28e7d">≈$2B</text>
+      <text x="1220" y="255" font-size="28" font-weight="700" fill="#041e42">usable reserves</text>
+      <text x="1220" y="294" font-size="24" fill="#3d4b5b">after the defense continued</text>
+
+      <text x="700" y="406" font-size="27" font-weight="700" fill="#041e42">These are checkpoints, not parts of one accounting total.</text>
+    </g>
+  </g>
+</svg>

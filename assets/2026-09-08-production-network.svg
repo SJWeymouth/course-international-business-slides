@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">From separate national plants to an integrated production network</title>
+  <desc id="desc">Separate plants once made complete products. Specialized plants now exchange components across borders before final assembly.</desc>
+  <rect width="1600" height="620" fill="#ffffff"/>
+  <defs><marker id="arr" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto"><path d="M0,0 L12,6 L0,12 z" fill="#7f95b2"/></marker></defs>
+  <line x1="800" y1="60" x2="800" y2="555" stroke="#d7dde5" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="62" font-size="34" font-weight="700" fill="#041e42">SEPARATE NATIONAL PLANTS</text>
+    <text x="1200" y="62" font-size="34" font-weight="700" fill="#041e42">ONE INTERNATIONAL NETWORK</text>
+    <g transform="translate(210 220)"><rect x="-105" y="-65" width="210" height="130" fill="#041e42"/><text y="0" font-size="27" font-weight="700" fill="#fff">PLANT A</text><text y="38" font-size="20" fill="#fff">complete product</text><text y="108" font-size="22" fill="#4a5663">COUNTRY A</text></g>
+    <g transform="translate(590 220)"><rect x="-105" y="-65" width="210" height="130" fill="#365f91"/><text y="0" font-size="27" font-weight="700" fill="#fff">PLANT B</text><text y="38" font-size="20" fill="#fff">complete product</text><text y="108" font-size="22" fill="#4a5663">COUNTRY B</text></g>
+    <g transform="translate(400 440)"><rect x="-105" y="-65" width="210" height="130" fill="#7f95b2"/><text y="0" font-size="27" font-weight="700" fill="#fff">PLANT C</text><text y="38" font-size="20" fill="#fff">complete product</text><text y="108" font-size="22" fill="#4a5663">COUNTRY C</text></g>
+    <g transform="translate(960 220)"><rect x="-100" y="-60" width="200" height="120" fill="#365f91"/><text y="-2" font-size="27" font-weight="700" fill="#fff">COMPONENT</text><text y="34" font-size="22" fill="#fff">Country A</text></g>
+    <g transform="translate(1200 430)"><rect x="-110" y="-60" width="220" height="120" fill="#7f95b2"/><text y="-2" font-size="27" font-weight="700" fill="#fff">ASSEMBLY</text><text y="34" font-size="22" fill="#fff">Country C</text></g>
+    <g transform="translate(1440 220)"><rect x="-100" y="-60" width="200" height="120" fill="#b3a394"/><text y="-2" font-size="27" font-weight="700" fill="#041e42">COMPONENT</text><text y="34" font-size="22" fill="#041e42">Country B</text></g>
+    <path d="M1025 270 Q1080 340 1155 395" fill="none" stroke="#7f95b2" stroke-width="7" marker-end="url(#arr)"/>
+    <path d="M1375 270 Q1325 340 1250 395" fill="none" stroke="#7f95b2" stroke-width="7" marker-end="url(#arr)"/>
+    <path d="M1310 430 H1490" fill="none" stroke="#365f91" stroke-width="7" marker-end="url(#arr)"/>
+    <text x="1400" y="500" font-size="22" fill="#4a5663">finished goods</text>
+    <text x="1400" y="530" font-size="22" fill="#4a5663">to markets</text>
+  </g>
+</svg>

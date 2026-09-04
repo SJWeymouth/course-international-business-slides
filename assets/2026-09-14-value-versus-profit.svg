@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="vp-title vp-desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="vp-title">Value is created in many places; profit is booked in one</title>
+  <desc id="vp-desc">The upper row shows activities spread across many countries: design and engineering, component supply, assembly, distribution, retail, and customer support. The lower row shows a single jurisdiction where the profit from those activities is reported. Arrows run from every activity into that one box.</desc>
+
+  <defs>
+    <marker id="vp-arrow" markerWidth="11" markerHeight="11" refX="9" refY="5.5" orient="auto">
+      <path d="M0,0 L11,5.5 L0,11 Z" fill="#7088a4"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="420" fill="#ffffff"/>
+
+  <text x="30" y="44" font-size="22" font-weight="600" letter-spacing="1.4" fill="#8a7a5c">WHERE THE WORK HAPPENS</text>
+
+  <g text-anchor="middle">
+    <g transform="translate(30,66)"><rect width="200" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="100" y="40" font-size="21" fill="#041e42">Design and</text><text x="100" y="68" font-size="21" fill="#041e42">engineering</text></g>
+    <g transform="translate(254,66)"><rect width="200" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="100" y="54" font-size="21" fill="#041e42">Components</text></g>
+    <g transform="translate(478,66)"><rect width="200" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="100" y="54" font-size="21" fill="#041e42">Assembly</text></g>
+    <g transform="translate(702,66)"><rect width="200" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="100" y="54" font-size="21" fill="#041e42">Distribution</text></g>
+    <g transform="translate(926,66)"><rect width="200" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="100" y="54" font-size="21" fill="#041e42">Retail</text></g>
+    <g transform="translate(1150,66)"><rect width="220" height="86" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/><text x="110" y="40" font-size="21" fill="#041e42">Customer</text><text x="110" y="68" font-size="21" fill="#041e42">support</text></g>
+  </g>
+
+  <path d="M130 158 V226 H700" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M354 158 V226" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M578 158 V226" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M802 158 V226" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M1026 158 V226" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M1260 158 V226 H700" fill="none" stroke="#7088a4" stroke-width="3"/>
+  <path d="M700 226 V284" fill="none" stroke="#7088a4" stroke-width="7" marker-end="url(#vp-arrow)"/>
+
+  <text x="726" y="264" font-size="21" font-style="italic" fill="#7088a4">internal prices decide how much travels down this arrow</text>
+
+  <text x="30" y="330" font-size="22" font-weight="600" letter-spacing="1.4" fill="#1f4e79">WHERE THE PROFIT IS REPORTED</text>
+
+  <g transform="translate(450,344)">
+    <rect width="500" height="60" rx="6" fill="#041e42"/>
+    <text x="250" y="39" text-anchor="middle" font-size="24" font-weight="700" fill="#ffffff">One low-tax jurisdiction</text>
+  </g>
+</svg>

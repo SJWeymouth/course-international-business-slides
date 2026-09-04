@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="470" viewBox="0 0 1400 470" role="img" aria-labelledby="rp-title rp-desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="rp-title">Each wave of reform enlarged what Ireland collects</title>
+  <desc id="rp-desc">The first wave of reform closed the zero-tax island structures, which pushed intellectual property into Ireland rather than out of it. The second wave added a fifteen per cent minimum rate for large multinationals, which raised the rate applied to profit already booked in Ireland. Both waves ran through Ireland and increased Irish corporate tax revenue.</desc>
+
+  <defs>
+    <marker id="rp-arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="470" fill="#ffffff"/>
+
+  <!-- wave one -->
+  <text x="30" y="52" font-size="21" font-weight="600" letter-spacing="1.4" fill="#8a7a5c">FIRST WAVE · THE HAVENS CLOSE</text>
+  <g text-anchor="middle">
+    <g transform="translate(30,72)">
+      <rect width="340" height="112" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/>
+      <text x="170" y="46" font-size="23" fill="#041e42">The Double Irish closes and</text>
+      <text x="170" y="80" font-size="23" fill="#041e42">the zero-tax stop disappears</text>
+    </g>
+    <g transform="translate(530,72)">
+      <rect width="340" height="112" rx="6" fill="#f0ece3" stroke="#8a7a5c" stroke-width="2"/>
+      <text x="170" y="46" font-size="23" fill="#041e42">Firms move the IP</text>
+      <text x="170" y="80" font-size="23" fill="#041e42">onshore, into Ireland</text>
+    </g>
+    <g transform="translate(1030,72)">
+      <rect width="340" height="112" rx="6" fill="#041e42"/>
+      <text x="170" y="46" font-size="23" fill="#ffffff">Ireland gains a</text>
+      <text x="170" y="80" font-size="23" font-weight="700" fill="#ffffff">much larger tax base</text>
+    </g>
+  </g>
+  <path d="M378 128 H518" fill="none" stroke="#52749a" stroke-width="6" marker-end="url(#rp-arrow)"/>
+  <path d="M878 128 H1018" fill="none" stroke="#52749a" stroke-width="6" marker-end="url(#rp-arrow)"/>
+
+  <!-- wave two -->
+  <text x="30" y="272" font-size="21" font-weight="600" letter-spacing="1.4" fill="#1f4e79">SECOND WAVE · THE MINIMUM RATE</text>
+  <g text-anchor="middle">
+    <g transform="translate(30,292)">
+      <rect width="340" height="112" rx="6" fill="#e6ecf3" stroke="#1f4e79" stroke-width="2"/>
+      <text x="170" y="46" font-size="23" fill="#041e42">A 15% minimum is added</text>
+      <text x="170" y="80" font-size="23" fill="#041e42">for large multinationals</text>
+    </g>
+    <g transform="translate(530,292)">
+      <rect width="340" height="112" rx="6" fill="#e6ecf3" stroke="#1f4e79" stroke-width="2"/>
+      <text x="170" y="46" font-size="23" fill="#041e42">The higher rate applies</text>
+      <text x="170" y="80" font-size="23" fill="#041e42">to that larger base</text>
+    </g>
+    <g transform="translate(1030,292)">
+      <rect width="340" height="112" rx="6" fill="#041e42"/>
+      <text x="170" y="46" font-size="23" fill="#ffffff">Ireland collects</text>
+      <text x="170" y="80" font-size="23" font-weight="700" fill="#ffffff">more than before</text>
+    </g>
+  </g>
+  <path d="M378 348 H518" fill="none" stroke="#52749a" stroke-width="6" marker-end="url(#rp-arrow)"/>
+  <path d="M878 348 H1018" fill="none" stroke="#52749a" stroke-width="6" marker-end="url(#rp-arrow)"/>
+
+  <text x="700" y="446" text-anchor="middle" font-size="25" font-style="italic" fill="#1f4e79">Both reforms were designed to stop profit shifting. Both ran through Ireland.</text>
+</svg>
