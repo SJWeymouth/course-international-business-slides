@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="460" viewBox="0 0 1400 460" role="img" aria-labelledby="title desc">
+  <title id="title">Currency mismatch in dollar borrowing</title>
+  <desc id="desc">A foreign lender supplies dollars, Thai financial intermediaries convert the dollars into baht, the baht finances domestic borrowers that earn baht, but the debt remains payable in dollars.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto">
+      <path d="M0 0 L16 8 L0 16 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="460" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <line x1="220" y1="190" x2="420" y2="190" stroke="#365f8a" stroke-width="8" marker-end="url(#arrow)"/>
+    <line x1="575" y1="190" x2="775" y2="190" stroke="#365f8a" stroke-width="8" marker-end="url(#arrow)"/>
+    <line x1="930" y1="190" x2="1128" y2="190" stroke="#9a4a42" stroke-width="8" marker-end="url(#arrow)"/>
+
+    <circle cx="145" cy="190" r="68" fill="#041e42"/>
+    <text x="145" y="211" font-size="66" font-weight="700" fill="#ffffff">$</text>
+    <text x="145" y="305" font-size="25" font-weight="700" fill="#041e42">FOREIGN LENDER</text>
+    <text x="145" y="340" font-size="25" fill="#3d4b5b">supplies dollars</text>
+
+    <circle cx="500" cy="190" r="68" fill="#365f8a"/>
+    <text x="500" y="211" font-size="58" font-weight="700" fill="#ffffff">฿</text>
+    <text x="500" y="298" font-size="25" font-weight="700" fill="#041e42">
+      <tspan x="500" y="298">THAI FINANCIAL</tspan>
+      <tspan x="500" y="329">INTERMEDIARIES</tspan>
+    </text>
+    <text x="500" y="372" font-size="25" fill="#3d4b5b">converts to baht</text>
+
+    <circle cx="855" cy="190" r="68" fill="#a28e7d"/>
+    <path d="M813 216 V162 L855 132 L897 162 V216 Z" fill="#ffffff"/>
+    <rect x="845" y="178" width="20" height="38" fill="#a28e7d"/>
+    <text x="855" y="305" font-size="25" font-weight="700" fill="#041e42">DOMESTIC BORROWERS</text>
+    <text x="855" y="340" font-size="25" fill="#3d4b5b">earns baht</text>
+
+    <circle cx="1210" cy="190" r="68" fill="#9a4a42"/>
+    <text x="1210" y="211" font-size="66" font-weight="700" fill="#ffffff">$</text>
+    <text x="1210" y="305" font-size="25" font-weight="700" fill="#9a4a42">DEBT DUE</text>
+    <text x="1210" y="340" font-size="25" fill="#3d4b5b">still in dollars</text>
+
+  </g>
+</svg>

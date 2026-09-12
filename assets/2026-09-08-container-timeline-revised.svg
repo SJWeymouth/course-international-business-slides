@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc">
+  <title id="title">Containerization timeline from 1956 to 1968</title>
+  <desc id="desc">The Ideal-X voyage came before international service, global standards, and the Vietnam demonstration.</desc>
+  <rect width="1600" height="540" fill="#ffffff"/>
+  <defs><marker id="arrow" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto"><path d="M0,0 L14,7 L0,14 z" fill="#7f95b2"/></marker></defs>
+  <line x1="150" y1="280" x2="1450" y2="280" stroke="#9cadc4" stroke-width="10" marker-end="url(#arrow)"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(240 280)"><circle r="22" fill="#041e42"/><text y="-82" font-size="32" font-weight="700" fill="#041e42">1956</text><text y="92" font-size="27" font-weight="700" fill="#041e42">IDEAL-X</text><text y="128" font-size="22" fill="#4a5663">domestic proof</text></g>
+    <g transform="translate(610 280)"><circle r="22" fill="#365f91"/><text y="-82" font-size="32" font-weight="700" fill="#041e42">1961</text><text y="92" font-size="27" font-weight="700" fill="#041e42">ISO/TC 104</text><text y="128" font-size="22" fill="#4a5663">standards committee</text></g>
+    <g transform="translate(980 280)"><circle r="22" fill="#7f95b2"/><text y="-82" font-size="32" font-weight="700" fill="#041e42">1966</text><text y="92" font-size="27" font-weight="700" fill="#041e42">INTERNATIONAL SERVICE</text><text y="128" font-size="22" fill="#4a5663">network crosses borders</text></g>
+    <g transform="translate(1340 280)"><circle r="24" fill="#b3a394"/><text y="-82" font-size="32" font-weight="700" fill="#041e42">1968</text><text y="92" font-size="27" font-weight="700" fill="#041e42">ISO 668 + VIETNAM</text><text y="128" font-size="22" fill="#4a5663">compatibility and scale</text></g>
+  </g>
+</svg>

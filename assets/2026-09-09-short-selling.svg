@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="276" viewBox="0 0 1400 276" role="img" aria-labelledby="ss-title ss-desc" font-family="Arial, Helvetica, sans-serif">
+  <title id="ss-title">How to short a currency</title>
+  <desc id="ss-desc">Four steps. Borrow baht. Sell the baht for dollars at the pegged rate of 25. Wait for the peg to break. Buy the baht back more cheaply at 32 and repay the loan, keeping the difference. Step one is borrowing the baht, which is the step the Bank of Thailand blocked on 15 May 1997.</desc>
+
+  <defs>
+    <marker id="ss-arrow" markerWidth="11" markerHeight="11" refX="9.5" refY="5.5" orient="auto">
+      <path d="M0,0 L11,5.5 L0,11 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+
+  <rect width="1400" height="276" fill="#ffffff"/>
+
+  <!-- Step 1 -->
+  <rect x="34" y="24" width="288" height="196" rx="3" fill="#eaf0f6" stroke="#b9c7d8" stroke-width="1.5"/>
+  <circle cx="70" cy="60" r="20" fill="#041e42"/>
+  <text x="70" y="68" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">1</text>
+  <text x="102" y="68" font-size="23" font-weight="bold" fill="#041e42">Borrow baht</text>
+  <text x="58" y="114" font-size="21" fill="#24303c">Borrow 25 million baht</text>
+  <text x="58" y="144" font-size="21" fill="#24303c">from a Thai bank</text>
+  <text x="58" y="186" font-size="19" font-style="italic" fill="#8a7f75">You now owe baht</text>
+
+  <!-- Step 2 -->
+  <rect x="356" y="24" width="288" height="196" rx="3" fill="#eaf0f6" stroke="#b9c7d8" stroke-width="1.5"/>
+  <circle cx="392" cy="60" r="20" fill="#041e42"/>
+  <text x="392" y="68" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">2</text>
+  <text x="424" y="68" font-size="23" font-weight="bold" fill="#041e42">Sell it for dollars</text>
+  <text x="380" y="114" font-size="21" fill="#24303c">At the pegged rate of 25,</text>
+  <text x="380" y="144" font-size="21" font-weight="bold" fill="#041e42">you get $1 million</text>
+  <text x="380" y="186" font-size="19" font-style="italic" fill="#8a7f75">The bank must sell at 25</text>
+
+  <!-- Step 3 -->
+  <rect x="678" y="24" width="288" height="196" rx="3" fill="#f7f3ee" stroke="#d6c8b4" stroke-width="1.5"/>
+  <circle cx="714" cy="60" r="20" fill="#041e42"/>
+  <text x="714" y="68" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">3</text>
+  <text x="746" y="68" font-size="23" font-weight="bold" fill="#041e42">Wait for the break</text>
+  <text x="702" y="114" font-size="21" fill="#24303c">The peg gives way and</text>
+  <text x="702" y="144" font-size="21" fill="#24303c">the rate moves to 32</text>
+  <text x="702" y="186" font-size="19" font-style="italic" fill="#8a7f75">Baht is now cheaper</text>
+
+  <!-- Step 4 -->
+  <rect x="1000" y="24" width="366" height="196" rx="3" fill="#f0ece3" stroke="#8a7f75" stroke-width="2"/>
+  <circle cx="1036" cy="60" r="20" fill="#041e42"/>
+  <text x="1036" y="68" font-size="22" font-weight="bold" text-anchor="middle" fill="#ffffff">4</text>
+  <text x="1068" y="68" font-size="23" font-weight="bold" fill="#041e42">Buy back and repay</text>
+  <text x="1024" y="114" font-size="21" fill="#24303c">25m baht now costs $781,000</text>
+  <text x="1024" y="144" font-size="21" fill="#24303c">Repay the loan, keep the rest</text>
+  <text x="1024" y="188" font-size="26" font-weight="bold" fill="#041e42">Profit: about $219,000</text>
+
+  <line x1="330" y1="122" x2="348" y2="122" stroke="#52749a" stroke-width="2.5" marker-end="url(#ss-arrow)"/>
+  <line x1="652" y1="122" x2="670" y2="122" stroke="#52749a" stroke-width="2.5" marker-end="url(#ss-arrow)"/>
+  <line x1="974" y1="122" x2="992" y2="122" stroke="#52749a" stroke-width="2.5" marker-end="url(#ss-arrow)"/>
+
+</svg>

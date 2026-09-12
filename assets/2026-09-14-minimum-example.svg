@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="340" viewBox="0 80 1400 340" role="img" aria-labelledby="title desc" font-family="Segoe UI, Arial, sans-serif">
+<title id="title">A 15 percent minimum: simplified example</title><desc id="desc">100 dollars of covered profit: 12 dollars in local tax plus 3 dollars of top-up tax equals 15 dollars. The tax base and which country collects depend on applicable rules.</desc>
+<rect width="1400" height="440" fill="white"/>
+<g fill="#f7f5f1" stroke="#8a7f75" stroke-width="2"><rect x="30" y="100" width="380" height="225"/><rect x="510" y="100" width="380" height="225"/><rect x="990" y="100" width="380" height="225"/></g>
+<g text-anchor="middle" fill="#041e42"><text x="220" y="150" font-size="28">Local tax</text><text x="220" y="243" font-size="78" font-weight="650">$12</text><text x="220" y="290" font-size="27">12% effective rate</text>
+<text x="700" y="150" font-size="28">Top-up tax</text><text x="700" y="243" font-size="78" font-weight="650">$3</text><text x="700" y="290" font-size="27">3 percentage points</text>
+<text x="1180" y="150" font-size="28">Total tax</text><text x="1180" y="243" font-size="78" font-weight="650">$15</text><text x="1180" y="290" font-size="27">15% effective rate</text>
+<text x="460" y="230" font-size="58" fill="#365f91">+</text><text x="940" y="230" font-size="58" fill="#365f91">=</text>
+<text x="700" y="398" font-size="29">An extra $3 brings total tax on $100 of profit to $15.</text></g></svg>
