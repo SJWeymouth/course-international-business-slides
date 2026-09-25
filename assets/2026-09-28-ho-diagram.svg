@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Heckscher-Ohlin: endowments, intensities, and the pattern of trade</title>
+<desc id="desc">Three panels. Endowments: China has much labor and little capital, the United States the reverse. Intensities: apparel uses mostly labor, aircraft mostly capital. Trade: China exports apparel to the United States and the United States exports aircraft to China.</desc>
+<rect width="1600" height="470" fill="#ffffff"/>
+<defs><marker id="an" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" refX="20" refY="13" orient="auto"><path d="M0 0 L26 13 L0 26 z" fill="#041e42"/></marker><marker id="at" markerUnits="userSpaceOnUse" markerWidth="26" markerHeight="26" refX="20" refY="13" orient="auto"><path d="M0 0 L26 13 L0 26 z" fill="#8a7a5c"/></marker></defs>
+<text x="240" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">ENDOWMENTS</text>
+<text x="222" y="138.08" text-anchor="end" font-size="32" fill="#041e42">China</text>
+<rect x="240" y="100" width="240" height="56" fill="#041e42"/>
+<rect x="480" y="100" width="60" height="56" fill="#8a7a5c"/>
+<text x="240" y="188" font-size="26" fill="#5b6672">cheap labor</text>
+<text x="222" y="268.08" text-anchor="end" font-size="32" fill="#041e42">United States</text>
+<rect x="240" y="230" width="75" height="56" fill="#041e42"/>
+<rect x="315" y="230" width="225" height="56" fill="#8a7a5c"/>
+<text x="240" y="318" font-size="26" fill="#5b6672">cheap capital</text>
+<rect x="240" y="378" width="30" height="24" fill="#041e42"/><text x="280" y="398" font-size="26" fill="#041e42">Labor</text>
+<rect x="390" y="378" width="30" height="24" fill="#8a7a5c"/><text x="430" y="398" font-size="26" fill="#041e42">Capital</text>
+<text x="760" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">INTENSITIES</text>
+<text x="742" y="138.08" text-anchor="end" font-size="32" fill="#041e42">Apparel</text>
+<rect x="760" y="100" width="255" height="56" fill="#041e42"/>
+<rect x="1015" y="100" width="45" height="56" fill="#8a7a5c"/>
+<text x="760" y="188" font-size="26" fill="#5b6672">mostly labor</text>
+<text x="742" y="268.08" text-anchor="end" font-size="32" fill="#041e42">Aircraft</text>
+<rect x="760" y="230" width="60" height="56" fill="#041e42"/>
+<rect x="820" y="230" width="240" height="56" fill="#8a7a5c"/>
+<text x="760" y="318" font-size="26" fill="#5b6672">mostly capital</text>
+<text x="1200" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">TRADE</text>
+<rect x="1200" y="92" width="300" height="60" rx="6" fill="none" stroke="#041e42" stroke-width="3"/>
+<text x="1350.0" y="131.6" text-anchor="middle" font-size="32" fill="#041e42">China</text>
+<rect x="1200" y="330" width="300" height="60" rx="6" fill="none" stroke="#041e42" stroke-width="3"/>
+<text x="1350.0" y="369.6" text-anchor="middle" font-size="32" fill="#041e42">United States</text>
+<line x1="1270" y1="158" x2="1270" y2="322" stroke="#041e42" stroke-width="6" marker-end="url(#an)"/>
+<text x="1254" y="250.0" text-anchor="end" font-size="26" fill="#041e42">apparel</text>
+<line x1="1430" y1="324" x2="1430" y2="160" stroke="#8a7a5c" stroke-width="6" marker-end="url(#at)"/>
+<text x="1446" y="250.0" font-size="26" fill="#8a7a5c">aircraft</text>
+</svg>

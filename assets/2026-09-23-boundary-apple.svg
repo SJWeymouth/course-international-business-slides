@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="650" viewBox="0 0 1000 650" role="img" aria-label="The firm-boundary figure for Apple around 2000: the cost of doing it inside shifts up after the crash, the cost of buying shifts down with Foxconn's offer, and the crossing moves far to the left, so much less is done inside" font-family="Source Sans Pro, Arial, sans-serif">
+<title>Both curves moved, and Apple's boundary moved with them</title>
+<defs>
+<marker id="arrowA" markerWidth="14" markerHeight="14" refX="12" refY="7" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L14 7 L0 14 Z" fill="#4a5663"/></marker>
+<marker id="arrowB" markerWidth="16" markerHeight="16" refX="13" refY="8" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L16 8 L0 16 Z" fill="#041e42"/></marker>
+</defs>
+<!-- inside region, before and after -->
+<rect x="120" y="60" width="383" height="440" fill="#eef2f7"/>
+<rect x="503" y="60" width="162" height="440" fill="#eef2f7" opacity="0.45"/>
+<!-- axes -->
+<path d="M120 500 L960 500" stroke="#4a5663" stroke-width="3" fill="none" marker-end="url(#arrowA)"/>
+<path d="M120 500 L120 60" stroke="#4a5663" stroke-width="3" fill="none" marker-end="url(#arrowA)"/>
+<text x="42" y="280" font-size="26" fill="#4a5663" text-anchor="middle" transform="rotate(-90 42 280)">Cost of one more transaction</text>
+<text x="120" y="540" font-size="26" fill="#4a5663">Hardest to buy</text>
+<text x="960" y="540" font-size="26" fill="#4a5663" text-anchor="end">Easiest to buy</text>
+<text x="120" y="570" font-size="24" fill="#4a5663">Solid lines: before 2000. Dashed lines: after 2000.</text>
+<!-- inside curves -->
+<path d="M120 470 C450 455, 720 380, 930 130" stroke="#365f91" stroke-width="6" fill="none"/>
+<path d="M120 405 C450 390, 720 300, 930 75" stroke="#365f91" stroke-width="6" fill="none" stroke-dasharray="14 10"/>
+<text x="925" y="60" font-size="28" fill="#365f91" font-weight="600" text-anchor="end">Cost of doing it inside</text>
+<!-- buying curves -->
+<path d="M120 130 C360 170, 650 380, 930 430" stroke="#b3a394" stroke-width="6" fill="none"/>
+<path d="M120 250 C360 285, 650 405, 930 432" stroke="#8a7a5c" stroke-width="6" fill="none" stroke-dasharray="14 10"/>
+<text x="132" y="112" font-size="28" fill="#8a7a5c" font-weight="600">Cost of buying it</text>
+<!-- crossings -->
+<line x1="665" y1="346" x2="665" y2="500" stroke="#4a5663" stroke-width="2" stroke-dasharray="8 8"/>
+<circle cx="665" cy="346" r="10" fill="#b3ada4"/>
+<line x1="503" y1="342" x2="503" y2="500" stroke="#041e42" stroke-width="2" stroke-dasharray="8 8"/>
+<circle cx="503" cy="342" r="11" fill="#041e42"/>
+<!-- shift arrow -->
+<path d="M665 594 L512 594" stroke="#041e42" stroke-width="4" fill="none" marker-end="url(#arrowB)"/>
+<text x="584" y="634" font-size="27" fill="#041e42" font-weight="600" text-anchor="middle">Apple's boundary moved left: assembly went outside</text>
+</svg>

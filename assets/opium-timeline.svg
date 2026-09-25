@@ -1,0 +1,62 @@
+<svg viewBox="0 0 1400 340" xmlns="http://www.w3.org/2000/svg" role="img" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+
+  <!-- era bands -->
+  <rect x="30" y="70" width="669" height="200" fill="#f0ece3"/>
+  <rect x="701" y="70" width="669" height="200" fill="#e6ecf3"/>
+
+  <text x="364" y="52" text-anchor="middle" font-size="21" letter-spacing="1.5" fill="#8a7a5c">COMPANY ERA</text>
+  <text x="1035" y="52" text-anchor="middle" font-size="21" letter-spacing="1.5" fill="#1f4e79">AFTER THE MONOPOLY</text>
+
+  <!-- baseline -->
+  <line x1="50" y1="175" x2="1368" y2="175" stroke="#041e42" stroke-width="3"/>
+  <polygon points="1368,166 1390,175 1368,184" fill="#041e42"/>
+
+  <!-- 1757 -->
+  <circle cx="80" cy="175" r="9" fill="#041e42"/>
+  <text x="80" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1757</text>
+  <text x="80" y="212" text-anchor="middle" font-size="22" fill="#041e42">One legal</text>
+  <text x="80" y="238" text-anchor="middle" font-size="22" fill="#041e42">port</text>
+
+  <!-- 1773 -->
+  <circle cx="257" cy="175" r="9" fill="#041e42"/>
+  <text x="257" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1773</text>
+  <text x="257" y="212" text-anchor="middle" font-size="22" fill="#041e42">Bengal opium</text>
+  <text x="257" y="238" text-anchor="middle" font-size="22" fill="#041e42">monopoly</text>
+
+  <!-- 1820s -->
+  <circle cx="434" cy="175" r="9" fill="#041e42"/>
+  <text x="434" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1820s</text>
+  <text x="434" y="212" text-anchor="middle" font-size="22" fill="#041e42">Silver flow</text>
+  <text x="434" y="238" text-anchor="middle" font-size="22" fill="#041e42">reverses</text>
+
+  <!-- 1834 -->
+  <circle cx="611" cy="175" r="9" fill="#041e42"/>
+  <text x="611" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1834</text>
+  <text x="611" y="212" text-anchor="middle" font-size="22" fill="#041e42">Private trade</text>
+  <text x="611" y="238" text-anchor="middle" font-size="22" fill="#041e42">opens</text>
+
+  <!-- 1839 seizure -->
+  <circle cx="788" cy="175" r="9" fill="#1f4e79"/>
+  <text x="788" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1839</text>
+  <text x="788" y="212" text-anchor="middle" font-size="22" fill="#041e42">Lin seizes</text>
+  <text x="788" y="238" text-anchor="middle" font-size="22" fill="#041e42">the opium</text>
+
+  <!-- 1839 pledge -->
+  <circle cx="965" cy="175" r="9" fill="#1f4e79"/>
+  <text x="965" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1839</text>
+  <text x="965" y="212" text-anchor="middle" font-size="22" fill="#041e42">Elliot pledges</text>
+  <text x="965" y="238" text-anchor="middle" font-size="22" fill="#041e42">compensation</text>
+
+  <!-- war -->
+  <circle cx="1142" cy="175" r="9" fill="#1f4e79"/>
+  <text x="1142" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1839–42</text>
+  <text x="1142" y="212" text-anchor="middle" font-size="22" fill="#041e42">Britain sends</text>
+  <text x="1142" y="238" text-anchor="middle" font-size="22" fill="#041e42">the fleet</text>
+
+  <!-- 1842 -->
+  <circle cx="1319" cy="175" r="9" fill="#1f4e79"/>
+  <text x="1319" y="145" text-anchor="middle" font-size="22" fill="#6b7280">1842</text>
+  <text x="1319" y="212" text-anchor="middle" font-size="22" fill="#041e42">Indemnity,</text>
+  <text x="1319" y="238" text-anchor="middle" font-size="22" fill="#041e42">five ports</text>
+
+</svg>

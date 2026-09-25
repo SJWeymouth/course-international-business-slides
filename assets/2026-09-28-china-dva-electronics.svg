@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Domestic value added as a share of China's gross exports of computer, electronic, and optical products, 2000 to 2022</title>
+<desc id="desc">A line falling from 63 percent in 2000 to 56 percent in 2004, then rising to about 71 percent by 2015 and staying there through 2022.</desc>
+<rect width="1000" height="680" fill="#ffffff"/>
+<text x="120" y="42" font-size="35" font-weight="600" letter-spacing="1.2" fill="#1f4e79">SHARE OF EXPORT VALUE MADE IN CHINA</text>
+<line x1="120" y1="600.0" x2="810" y2="600.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="609.0" text-anchor="end" font-size="35" fill="#5b6672">40%</text>
+<line x1="120" y1="472.5" x2="810" y2="472.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="481.5" text-anchor="end" font-size="35" fill="#5b6672">50%</text>
+<line x1="120" y1="345.0" x2="810" y2="345.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="354.0" text-anchor="end" font-size="35" fill="#5b6672">60%</text>
+<line x1="120" y1="217.5" x2="810" y2="217.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="226.5" text-anchor="end" font-size="35" fill="#5b6672">70%</text>
+<line x1="120" y1="90.0" x2="810" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="99.0" text-anchor="end" font-size="35" fill="#5b6672">80%</text>
+<text x="120.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2000</text>
+<text x="276.8" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2005</text>
+<text x="433.6" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2010</text>
+<text x="590.5" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2015</text>
+<text x="747.3" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2020</text>
+<line x1="120" y1="600" x2="810" y2="600" stroke="#5b6672" stroke-width="2"/>
+<path d="M120.0 300.4 L151.4 273.6 L182.7 268.5 L214.1 365.4 L245.5 397.3 L276.8 328.4 L308.2 393.4 L339.5 337.4 L370.9 311.9 L402.3 243.0 L433.6 232.8 L465.0 254.5 L496.4 223.9 L527.7 239.2 L559.1 213.7 L590.5 181.8 L621.8 206.0 L653.2 189.4 L684.5 180.5 L715.9 211.1 L747.3 181.8 L778.6 212.4 L810.0 202.2" fill="none" stroke="#041e42" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="810.0" cy="202.2" r="9" fill="#041e42"/>
+<text x="828.0" y="211.2" font-size="38" font-weight="700" fill="#041e42">China</text>
+<text x="828.0" y="242.2" font-size="35" fill="#5b6672">71%</text>
+</svg>

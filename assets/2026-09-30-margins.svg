@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Wal-Mart's operating income as a share of net sales, United States stores and International, fiscal 2005 to 2007 and 2024 to 2025</title>
+<desc id="desc">Paired bars for each fiscal year: the United States segment earns 7.4, 7.3, 7.5, 5.0 and 5.2 percent; International earns 6.1, 5.9, 5.5, 4.3 and 4.5 percent.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<text x="120" y="50" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">OPERATING INCOME, PERCENTAGE OF NET SALES</text>
+<line x1="120" y1="470.0" x2="1520" y2="470.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="480.0" text-anchor="end" font-size="28" fill="#5b6672">0%</text>
+<line x1="120" y1="390.0" x2="1520" y2="390.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="400.0" text-anchor="end" font-size="28" fill="#5b6672">2%</text>
+<line x1="120" y1="310.0" x2="1520" y2="310.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="320.0" text-anchor="end" font-size="28" fill="#5b6672">4%</text>
+<line x1="120" y1="230.0" x2="1520" y2="230.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="240.0" text-anchor="end" font-size="28" fill="#5b6672">6%</text>
+<line x1="120" y1="150.0" x2="1520" y2="150.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="160.0" text-anchor="end" font-size="28" fill="#5b6672">8%</text>
+<rect x="175.6" y="174.7" width="78.4" height="295.3" fill="#041e42"/>
+<text x="214.8" y="162.7" text-anchor="middle" font-size="28" fill="#5b6672">7.4%</text>
+<rect x="266.0" y="226.6" width="78.4" height="243.4" fill="#8a7a5c"/>
+<text x="305.2" y="214.6" text-anchor="middle" font-size="28" fill="#5b6672">6.1%</text>
+<text x="260.0" y="510" text-anchor="middle" font-size="30" fill="#041e42">Fiscal 2005</text>
+<rect x="455.6" y="178.0" width="78.4" height="292.0" fill="#041e42"/>
+<text x="494.8" y="166.0" text-anchor="middle" font-size="28" fill="#5b6672">7.3%</text>
+<rect x="546.0" y="233.3" width="78.4" height="236.7" fill="#8a7a5c"/>
+<text x="585.2" y="221.3" text-anchor="middle" font-size="28" fill="#5b6672">5.9%</text>
+<text x="540.0" y="510" text-anchor="middle" font-size="30" fill="#041e42">Fiscal 2006</text>
+<rect x="735.6" y="169.0" width="78.4" height="301.0" fill="#041e42"/>
+<text x="774.8" y="157.0" text-anchor="middle" font-size="28" fill="#5b6672">7.5%</text>
+<rect x="826.0" y="249.1" width="78.4" height="220.9" fill="#8a7a5c"/>
+<text x="865.2" y="237.1" text-anchor="middle" font-size="28" fill="#5b6672">5.5%</text>
+<text x="820.0" y="510" text-anchor="middle" font-size="30" fill="#041e42">Fiscal 2007</text>
+<rect x="1015.6" y="269.4" width="78.4" height="200.6" fill="#041e42"/>
+<text x="1054.8" y="257.4" text-anchor="middle" font-size="28" fill="#5b6672">5.0%</text>
+<rect x="1106.0" y="298.7" width="78.4" height="171.3" fill="#8a7a5c"/>
+<text x="1145.2" y="286.7" text-anchor="middle" font-size="28" fill="#5b6672">4.3%</text>
+<text x="1100.0" y="510" text-anchor="middle" font-size="30" fill="#041e42">Fiscal 2024</text>
+<rect x="1295.6" y="263.4" width="78.4" height="206.6" fill="#041e42"/>
+<text x="1334.8" y="251.4" text-anchor="middle" font-size="28" fill="#5b6672">5.2%</text>
+<rect x="1386.0" y="289.5" width="78.4" height="180.5" fill="#8a7a5c"/>
+<text x="1425.2" y="277.5" text-anchor="middle" font-size="28" fill="#5b6672">4.5%</text>
+<text x="1380.0" y="510" text-anchor="middle" font-size="30" fill="#041e42">Fiscal 2025</text>
+<line x1="120" y1="470" x2="1520" y2="470" stroke="#5b6672" stroke-width="2"/>
+<rect x="1080" y="86" width="30" height="30" fill="#041e42"/><text x="1122" y="110" font-size="28" fill="#041e42">U.S. stores</text>
+<rect x="1340" y="86" width="30" height="30" fill="#8a7a5c"/><text x="1382" y="110" font-size="28" fill="#041e42">International</text>
+</svg>

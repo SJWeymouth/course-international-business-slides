@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="680" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Nominal and real effective exchange rates of the renminbi, 2000 to 2025, indexed to 2005 = 100</title>
+<desc id="desc">Two lines from 100 in 2005: the real rate rises to 153 in 2015, holds near 150 to 2022, and falls to 130 by 2025; the nominal rate rises to 143 in 2015 and stays near 142 in 2025.</desc>
+<rect width="1000" height="680" fill="#ffffff"/>
+<text x="120" y="42" font-size="35" font-weight="600" letter-spacing="1.2" fill="#1f4e79">INDEX, 2005 = 100, ANNUAL AVERAGES</text>
+<line x1="120" y1="527.1" x2="750" y2="527.1" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="536.1" text-anchor="end" font-size="35" fill="#5b6672">100</text>
+<line x1="120" y1="381.4" x2="750" y2="381.4" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="390.4" text-anchor="end" font-size="35" fill="#5b6672">120</text>
+<line x1="120" y1="235.7" x2="750" y2="235.7" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="244.7" text-anchor="end" font-size="35" fill="#5b6672">140</text>
+<line x1="120" y1="90.0" x2="750" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="106" y="99.0" text-anchor="end" font-size="35" fill="#5b6672">160</text>
+<line x1="120" y1="527.1" x2="750" y2="527.1" stroke="#5b6672" stroke-width="2" stroke-dasharray="8 8"/>
+<text x="120.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2000</text>
+<text x="246.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2005</text>
+<text x="372.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2010</text>
+<text x="498.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2015</text>
+<text x="624.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2020</text>
+<text x="750.0" y="636" text-anchor="middle" font-size="35" fill="#5b6672">2025</text>
+<line x1="120" y1="600" x2="750" y2="600" stroke="#5b6672" stroke-width="2"/>
+<path d="M120.0 452.8 L145.2 416.4 L170.4 437.5 L195.6 495.8 L220.8 519.1 L246.0 527.1 L271.2 517.7 L296.4 491.4 L321.6 425.1 L346.8 387.3 L372.0 394.5 L397.2 372.0 L422.4 318.8 L447.6 259.0 L472.8 235.7 L498.0 139.5 L523.2 181.8 L548.4 213.9 L573.6 200.7 L598.8 204.4 L624.0 186.2 L649.2 153.4 L674.4 148.3 L699.6 243.7 L724.8 267.0 L750.0 308.6" fill="none" stroke="#8a7a5c" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="750.0" cy="308.6" r="9" fill="#8a7a5c"/>
+<text x="768.0" y="339.6" font-size="38" font-weight="700" fill="#8a7a5c">Real</text>
+<text x="768.0" y="370.6" font-size="35" fill="#5b6672">130</text>
+<path d="M120.0 479.1 L145.2 432.4 L170.4 434.6 L195.6 487.1 L220.8 523.5 L246.0 527.1 L271.2 510.4 L296.4 502.4 L321.6 451.4 L346.8 401.8 L372.0 420.0 L397.2 418.6 L422.4 370.5 L447.6 321.0 L472.8 298.4 L498.0 211.7 L523.2 257.6 L548.4 283.1 L573.6 270.0 L598.8 286.0 L624.0 282.3 L649.2 233.5 L674.4 173.1 L699.6 213.9 L724.8 205.1 L750.0 221.1" fill="none" stroke="#041e42" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="750.0" cy="221.1" r="9" fill="#041e42"/>
+<text x="768.0" y="216.1" font-size="38" font-weight="700" fill="#041e42">Nominal</text>
+<text x="768.0" y="247.1" font-size="35" fill="#5b6672">142</text>
+</svg>

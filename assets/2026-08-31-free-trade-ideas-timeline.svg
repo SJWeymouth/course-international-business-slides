@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-labelledby="title desc">
+  <title id="title">From economic critique to policy alternative</title>
+  <desc id="desc">Timeline: economic critique (Smith 1776, Ricardo 1817), political campaign (Anti-Corn Law League 1838), policy alternative ready before the crisis.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="260" fill="#ffffff"/>
+  <line x1="135" y1="150" x2="1265" y2="150" stroke="#52749a" stroke-width="6" marker-end="url(#arrow)"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(245,150)">
+      <circle r="20" fill="#041e42" stroke="#ffffff" stroke-width="6"/>
+      <text y="-58" fill="#041e42" font-size="30" font-weight="700">ECONOMIC CRITIQUE</text>
+      <text y="64" fill="#3d4b5b" font-size="26">1776 · 1817</text>
+    </g>
+    <g transform="translate(700,150)">
+      <circle r="20" fill="#365f8a" stroke="#ffffff" stroke-width="6"/>
+      <text y="-58" fill="#041e42" font-size="30" font-weight="700">POLITICAL CAMPAIGN</text>
+      <text y="64" fill="#3d4b5b" font-size="26">1838</text>
+    </g>
+    <g transform="translate(1135,150)">
+      <circle r="20" fill="#a28e7d" stroke="#ffffff" stroke-width="6"/>
+      <text y="-58" fill="#041e42" font-size="30" font-weight="700">POLICY ALTERNATIVE</text>
+      <text y="64" fill="#3d4b5b" font-size="26">1845</text>
+    </g>
+  </g>
+</svg>

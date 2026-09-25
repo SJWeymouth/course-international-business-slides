@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">High-technology exports of China and Vietnam, 2008 to 2023, US dollars billions</title>
+<desc id="desc">Two panels. Left: China rises from 392 billion dollars in 2008 to 825 billion in 2023. Right: Vietnam rises from 3 billion to 133 billion on its own scale.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<text x="130" y="50" font-size="26" font-weight="700" fill="#041e42">China</text>
+<text x="240" y="50" font-size="22" letter-spacing="1" fill="#1f4e79">US$ BILLIONS</text>
+<line x1="130" y1="490.0" x2="730" y2="490.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="116" y="499.0" text-anchor="end" font-size="24" fill="#5b6672">0</text>
+<line x1="130" y1="390.0" x2="730" y2="390.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="116" y="399.0" text-anchor="end" font-size="24" fill="#5b6672">250</text>
+<line x1="130" y1="290.0" x2="730" y2="290.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="116" y="299.0" text-anchor="end" font-size="24" fill="#5b6672">500</text>
+<line x1="130" y1="190.0" x2="730" y2="190.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="116" y="199.0" text-anchor="end" font-size="24" fill="#5b6672">750</text>
+<line x1="130" y1="90.0" x2="730" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="116" y="99.0" text-anchor="end" font-size="24" fill="#5b6672">1,000</text>
+<text x="130.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2008</text>
+<text x="210.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2010</text>
+<text x="410.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2015</text>
+<text x="610.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2020</text>
+<text x="730.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2023</text>
+<path d="M130.0 333.2 L170.0 346.1 L210.0 300.1 L250.0 273.8 L290.0 252.4 L330.0 227.6 L370.0 228.4 L410.0 229.0 L450.0 252.1 L490.0 228.3 L530.0 197.4 L570.0 203.9 L610.0 187.0 L650.0 115.4 L690.0 120.2 L730.0 160.0" fill="none" stroke="#041e42" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="130.0" cy="333.2" r="9" fill="#041e42"/>
+<text x="130.0" y="315.2" text-anchor="start" font-size="24" fill="#5b6672">392</text>
+<circle cx="730.0" cy="160.0" r="9" fill="#041e42"/>
+<text x="746.0" y="169.0" text-anchor="start" font-size="24" fill="#5b6672">825</text>
+<text x="930" y="50" font-size="26" font-weight="700" fill="#041e42">Vietnam</text>
+<text x="1040" y="50" font-size="22" letter-spacing="1" fill="#1f4e79">US$ BILLIONS</text>
+<line x1="930" y1="490.0" x2="1530" y2="490.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="916" y="499.0" text-anchor="end" font-size="24" fill="#5b6672">0</text>
+<line x1="930" y1="356.7" x2="1530" y2="356.7" stroke="#cdd9e6" stroke-width="2"/>
+<text x="916" y="365.7" text-anchor="end" font-size="24" fill="#5b6672">50</text>
+<line x1="930" y1="223.3" x2="1530" y2="223.3" stroke="#cdd9e6" stroke-width="2"/>
+<text x="916" y="232.3" text-anchor="end" font-size="24" fill="#5b6672">100</text>
+<line x1="930" y1="90.0" x2="1530" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="916" y="99.0" text-anchor="end" font-size="24" fill="#5b6672">150</text>
+<text x="930.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2008</text>
+<text x="1010.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2010</text>
+<text x="1210.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2015</text>
+<text x="1410.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2020</text>
+<text x="1530.0" y="526" text-anchor="middle" font-size="24" fill="#5b6672">2023</text>
+<path d="M930.0 482.0 L970.0 480.7 L1010.0 473.7 L1050.0 458.8 L1090.0 433.2 L1130.0 402.5 L1170.0 392.9 L1210.0 363.3 L1250.0 342.8 L1290.0 292.4 L1330.0 269.7 L1370.0 248.9 L1410.0 219.3 L1450.0 168.7 L1490.0 127.6 L1530.0 135.9" fill="none" stroke="#8a7a5c" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="930.0" cy="482.0" r="9" fill="#8a7a5c"/>
+<text x="930.0" y="464.0" text-anchor="start" font-size="24" fill="#5b6672">3</text>
+<circle cx="1530.0" cy="135.9" r="9" fill="#8a7a5c"/>
+<text x="1546.0" y="144.9" text-anchor="start" font-size="24" fill="#5b6672">133</text>
+</svg>
