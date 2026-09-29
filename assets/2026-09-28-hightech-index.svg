@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">High-technology exports of China and Vietnam, 2008 to 2023, indexed to 2008 = 100 on a doubling scale</title>
+<desc id="desc">Two lines from 100 in 2008 on a logarithmic axis where each gridline doubles: Vietnam climbs to about 4,430 by 2023 and China to about 210. Labels give the dollar levels: China 392 billion dollars in 2008 and 825 billion in 2023; Vietnam 3 billion and 133 billion.</desc>
+<rect width="1600" height="620" fill="#ffffff"/>
+<text x="150" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">INDEX, 2008 = 100, EACH GRIDLINE DOUBLES</text>
+<line x1="150" y1="540.0" x2="1180" y2="540.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="549.0" text-anchor="end" font-size="28" fill="#5b6672">100</text>
+<line x1="150" y1="465.0" x2="1180" y2="465.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="474.0" text-anchor="end" font-size="28" fill="#5b6672">200</text>
+<line x1="150" y1="390.0" x2="1180" y2="390.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="399.0" text-anchor="end" font-size="28" fill="#5b6672">400</text>
+<line x1="150" y1="315.0" x2="1180" y2="315.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="324.0" text-anchor="end" font-size="28" fill="#5b6672">800</text>
+<line x1="150" y1="240.0" x2="1180" y2="240.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="249.0" text-anchor="end" font-size="28" fill="#5b6672">1,600</text>
+<line x1="150" y1="165.0" x2="1180" y2="165.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="174.0" text-anchor="end" font-size="28" fill="#5b6672">3,200</text>
+<line x1="150" y1="90.0" x2="1180" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="136" y="99.0" text-anchor="end" font-size="28" fill="#5b6672">6,400</text>
+<text x="287.3" y="580" text-anchor="middle" font-size="28" fill="#5b6672">2010</text>
+<text x="630.7" y="580" text-anchor="middle" font-size="28" fill="#5b6672">2015</text>
+<text x="974.0" y="580" text-anchor="middle" font-size="28" fill="#5b6672">2020</text>
+<text x="1180.0" y="580" text-anchor="middle" font-size="28" fill="#5b6672">2023</text>
+<path d="M150.0 540.0 L218.7 523.3 L287.3 463.2 L356.0 392.7 L424.7 327.9 L493.3 281.2 L562.0 269.9 L630.7 241.1 L699.3 224.9 L768.0 193.0 L836.7 181.3 L905.3 171.5 L974.0 159.0 L1042.7 140.4 L1111.3 127.4 L1180.0 129.9" fill="none" stroke="#8a7a5c" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1180.0" cy="129.9" r="9" fill="#8a7a5c"/>
+<text x="1198.0" y="117.9" font-size="30" font-weight="700" fill="#8a7a5c">Vietnam</text>
+<text x="1198.0" y="149.9" font-size="26" fill="#5b6672">$133 billion in 2023</text>
+<path d="M150.0 540.0 L218.7 549.3 L287.3 519.3 L356.0 505.2 L424.7 495.0 L493.3 484.2 L562.0 484.6 L630.7 484.9 L699.3 494.9 L768.0 484.5 L836.7 472.5 L905.3 474.9 L974.0 468.7 L1042.7 445.8 L1111.3 447.1 L1180.0 459.5" fill="none" stroke="#041e42" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1180.0" cy="459.5" r="9" fill="#041e42"/>
+<text x="1198.0" y="471.5" font-size="30" font-weight="700" fill="#041e42">China</text>
+<text x="1198.0" y="503.5" font-size="26" fill="#5b6672">$825 billion in 2023</text>
+<text x="162" y="124" font-size="26" fill="#5b6672">2008 levels: China $392 billion, Vietnam $3 billion</text>
+</svg>

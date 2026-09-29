@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="230" viewBox="0 0 1400 230" role="img" aria-labelledby="ov-title ov-desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="ov-title">The House vote to override Reagan's veto of the Jenkins bill</title>
+  <desc id="ov-desc">A single bar of 425 votes. 276 members voted to override, shown in navy. 149 voted to sustain the veto, shown in light blue. A dashed line marks 284, the two-thirds needed. The override fell 8 votes short.</desc>
+
+  <rect width="1400" height="230" fill="#ffffff"/>
+
+  <text x="30" y="36" font-size="22" font-weight="600" letter-spacing="1.4" fill="#1f4e79">HOUSE VOTE TO OVERRIDE THE VETO, AUGUST 1986 · 425 MEMBERS VOTING</text>
+
+  <!-- scale: 1340px / 425 votes = 3.153 px per vote -->
+  <rect x="30" y="66" width="870" height="80" fill="#041e42"/>
+  <rect x="900" y="66" width="470" height="80" fill="#cdd9e6"/>
+  <text x="60" y="116" font-size="30" font-weight="700" fill="#ffffff">276 to override</text>
+  <text x="1340" y="116" text-anchor="end" font-size="30" font-weight="700" fill="#041e42">149 to sustain</text>
+
+  <line x1="925" y1="52" x2="925" y2="162" stroke="#8a7a5c" stroke-width="4" stroke-dasharray="10 7"/>
+  <text x="925" y="192" text-anchor="middle" font-size="21" font-weight="700" fill="#8a7a5c">284 needed for two thirds</text>
+  <text x="912" y="218" text-anchor="end" font-size="20" font-style="italic" fill="#041e42">8 votes short</text>
+</svg>

@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="702" viewBox="0 0 1040 702" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Share of China's manufactured exports by industry, 2005 and 2022, industries ordered by labor's share of value added</title>
+<desc id="desc">Paired horizontal bars for ten industries: textiles and apparel 21 percent in 2005 and 11 in 2022; furniture 6 and 8; electrical equipment 8 and 12; machinery 6 and 8; motor vehicles 2 and 5; computers and electronics 32 and 24; aircraft and other transport 2 and 2; pharmaceuticals 0.5 and 0.7; chemicals 5 and 7; refined petroleum 1 and 2.</desc>
+<rect width="1040" height="702" fill="#ffffff"/>
+<text x="440" y="36" font-size="34" font-weight="600" letter-spacing="1.2" fill="#1f4e79">PERCENT OF CHINA'S EXPORTS</text>
+<rect x="440" y="60" width="30" height="23" fill="#8a7a5c"/>
+<text x="480" y="78.4" font-size="36" fill="#041e42">2005</text>
+<rect x="596" y="60" width="30" height="23" fill="#041e42"/>
+<text x="636" y="78.4" font-size="36" fill="#041e42">2022</text>
+<text x="424" y="145" text-anchor="end" font-size="36" fill="#041e42">Textiles and apparel</text>
+<rect x="440" y="112" width="331.6" height="20" fill="#8a7a5c"/>
+<text x="781.6" y="129.02" font-size="31" fill="#5b6672">21%</text>
+<rect x="440" y="135" width="178.4" height="20" fill="#041e42"/>
+<text x="628.4" y="152.02" font-size="31" fill="#5b6672">11%</text>
+<text x="424" y="201" text-anchor="end" font-size="36" fill="#041e42">Furniture and other</text>
+<rect x="440" y="168" width="99.5" height="20" fill="#8a7a5c"/>
+<text x="549.5" y="185.02" font-size="31" fill="#5b6672">6%</text>
+<rect x="440" y="191" width="118.4" height="20" fill="#041e42"/>
+<text x="568.4" y="208.02" font-size="31" fill="#5b6672">8%</text>
+<text x="424" y="257" text-anchor="end" font-size="36" fill="#041e42">Electrical equipment</text>
+<rect x="440" y="224" width="124.7" height="20" fill="#8a7a5c"/>
+<text x="574.7" y="241.02" font-size="31" fill="#5b6672">8%</text>
+<rect x="440" y="247" width="186.3" height="20" fill="#041e42"/>
+<text x="636.3" y="264.02" font-size="31" fill="#5b6672">12%</text>
+<text x="424" y="313" text-anchor="end" font-size="36" fill="#041e42">Machinery</text>
+<rect x="440" y="280" width="94.7" height="20" fill="#8a7a5c"/>
+<text x="544.7" y="297.02" font-size="31" fill="#5b6672">6%</text>
+<rect x="440" y="303" width="127.9" height="20" fill="#041e42"/>
+<text x="577.9" y="320.02" font-size="31" fill="#5b6672">8%</text>
+<text x="424" y="369" text-anchor="end" font-size="36" fill="#041e42">Motor vehicles</text>
+<rect x="440" y="336" width="30.0" height="20" fill="#8a7a5c"/>
+<text x="480.0" y="353.02" font-size="31" fill="#5b6672">2%</text>
+<rect x="440" y="359" width="71.1" height="20" fill="#041e42"/>
+<text x="521.1" y="376.02" font-size="31" fill="#5b6672">4%</text>
+<text x="424" y="425" text-anchor="end" font-size="36" fill="#041e42">Computers, electronics</text>
+<rect x="440" y="392" width="510.0" height="20" fill="#8a7a5c"/>
+<text x="960.0" y="409.02" font-size="31" fill="#5b6672">32%</text>
+<rect x="440" y="415" width="377.4" height="20" fill="#041e42"/>
+<text x="827.4" y="432.02" font-size="31" fill="#5b6672">24%</text>
+<text x="424" y="481" text-anchor="end" font-size="36" fill="#041e42">Aircraft, other transport</text>
+<rect x="440" y="448" width="28.4" height="20" fill="#8a7a5c"/>
+<text x="478.4" y="465.02" font-size="31" fill="#5b6672">2%</text>
+<rect x="440" y="471" width="36.3" height="20" fill="#041e42"/>
+<text x="486.3" y="488.02" font-size="31" fill="#5b6672">2%</text>
+<text x="424" y="537" text-anchor="end" font-size="36" fill="#041e42">Pharmaceuticals</text>
+<rect x="440" y="504" width="7.9" height="20" fill="#8a7a5c"/>
+<text x="457.9" y="521.02" font-size="31" fill="#5b6672">0.5%</text>
+<rect x="440" y="527" width="11.1" height="20" fill="#041e42"/>
+<text x="461.1" y="544.02" font-size="31" fill="#5b6672">0.7%</text>
+<text x="424" y="593" text-anchor="end" font-size="36" fill="#041e42">Chemicals</text>
+<rect x="440" y="560" width="75.8" height="20" fill="#8a7a5c"/>
+<text x="525.8" y="577.02" font-size="31" fill="#5b6672">5%</text>
+<rect x="440" y="583" width="113.7" height="20" fill="#041e42"/>
+<text x="563.7" y="600.02" font-size="31" fill="#5b6672">7%</text>
+<text x="424" y="649" text-anchor="end" font-size="36" fill="#041e42">Refined petroleum</text>
+<rect x="440" y="616" width="18.9" height="20" fill="#8a7a5c"/>
+<text x="468.9" y="633.02" font-size="31" fill="#5b6672">1%</text>
+<rect x="440" y="639" width="26.8" height="20" fill="#041e42"/>
+<text x="476.8" y="656.02" font-size="31" fill="#5b6672">2%</text>
+<line x1="440" y1="106" x2="440" y2="668" stroke="#5b6672" stroke-width="2"/>
+</svg>

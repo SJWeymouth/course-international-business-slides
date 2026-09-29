@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Wal-Mart's stores outside the United States by country, January 31, 2006</title>
+<desc id="desc">Horizontal bars: Mexico 774, Japan 398, United Kingdom 315, Brazil 295, Canada 278, Germany 88, China 56, Puerto Rico 54, South Korea 16, Argentina 11; Germany and South Korea are highlighted as the two markets left in 2006.</desc>
+<rect width="1600" height="600" fill="#ffffff"/>
+<text x="380" y="42" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">STORES, JANUARY 31, 2006</text>
+<text x="364" y="97.36" text-anchor="end" font-size="34" fill="#041e42">Mexico</text>
+<rect x="380" y="70" width="1030.0" height="38" fill="#041e42"/>
+<text x="1422.0" y="97.36" font-size="34" fill="#5b6672">774</text>
+<text x="364" y="146.36" text-anchor="end" font-size="34" fill="#041e42">Japan</text>
+<rect x="380" y="119" width="529.6" height="38" fill="#041e42"/>
+<text x="921.6" y="146.36" font-size="34" fill="#5b6672">398</text>
+<text x="364" y="195.36" text-anchor="end" font-size="34" fill="#041e42">United Kingdom</text>
+<rect x="380" y="168" width="419.2" height="38" fill="#041e42"/>
+<text x="811.2" y="195.36" font-size="34" fill="#5b6672">315</text>
+<text x="364" y="244.36" text-anchor="end" font-size="34" fill="#041e42">Brazil</text>
+<rect x="380" y="217" width="392.6" height="38" fill="#041e42"/>
+<text x="784.6" y="244.36" font-size="34" fill="#5b6672">295</text>
+<text x="364" y="293.36" text-anchor="end" font-size="34" fill="#041e42">Canada</text>
+<rect x="380" y="266" width="369.9" height="38" fill="#041e42"/>
+<text x="761.9" y="293.36" font-size="34" fill="#5b6672">278</text>
+<text x="364" y="342.36" text-anchor="end" font-size="34" fill="#041e42">Germany</text>
+<rect x="380" y="315" width="117.1" height="38" fill="#8a7a5c"/>
+<text x="509.1" y="342.36" font-size="34" fill="#5b6672">88</text>
+<text x="364" y="391.36" text-anchor="end" font-size="34" fill="#041e42">China</text>
+<rect x="380" y="364" width="74.5" height="38" fill="#041e42"/>
+<text x="466.5" y="391.36" font-size="34" fill="#5b6672">56</text>
+<text x="364" y="440.36" text-anchor="end" font-size="34" fill="#041e42">Puerto Rico</text>
+<rect x="380" y="413" width="71.9" height="38" fill="#041e42"/>
+<text x="463.9" y="440.36" font-size="34" fill="#5b6672">54</text>
+<text x="364" y="489.36" text-anchor="end" font-size="34" fill="#041e42">South Korea</text>
+<rect x="380" y="462" width="21.3" height="38" fill="#8a7a5c"/>
+<text x="413.3" y="489.36" font-size="34" fill="#5b6672">16</text>
+<text x="364" y="538.36" text-anchor="end" font-size="34" fill="#041e42">Argentina</text>
+<rect x="380" y="511" width="14.6" height="38" fill="#041e42"/>
+<text x="406.6" y="538.36" font-size="34" fill="#5b6672">11</text>
+<line x1="380" y1="64" x2="380" y2="555" stroke="#5b6672" stroke-width="2"/>
+</svg>
