@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="490" viewBox="0 0 1000 490" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">What changed between Anthropic's 2023 and 2026 Responsible Scaling Policies</title>
+<desc id="desc">A grid of four commitments by two policy versions. The 2023 policy had a binding pledge to pause. The 2026 policy drops it and adds public risk reports, a pledge to match rivals' safeguards, and a delay only if Anthropic leads and judges the risk significant.</desc>
+<rect width="1000" height="490" fill="#ffffff"/>
+<text x="652.5" y="56" text-anchor="middle" font-size="34" font-weight="600" fill="#1f4e79">2023 policy</text>
+<text x="877.5" y="56" text-anchor="middle" font-size="34" font-weight="600" fill="#1f4e79">2026 policy</text>
+<line x1="10" y1="180.0" x2="990" y2="180.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="146" font-size="34" fill="#041e42">Binding pledge to pause</text>
+<circle cx="652.5" cy="134" r="20" fill="#041e42"/>
+<circle cx="877.5" cy="134" r="18" fill="none" stroke="#5b6672" stroke-width="3"/>
+<line x1="10" y1="280.0" x2="990" y2="280.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="246" font-size="34" fill="#041e42">Public risk reports</text>
+<circle cx="652.5" cy="234" r="18" fill="none" stroke="#5b6672" stroke-width="3"/>
+<circle cx="877.5" cy="234" r="20" fill="#8a7a5c"/>
+<line x1="10" y1="380.0" x2="990" y2="380.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="346" font-size="34" fill="#041e42">Match rivals’ safeguards</text>
+<circle cx="652.5" cy="334" r="18" fill="none" stroke="#5b6672" stroke-width="3"/>
+<circle cx="877.5" cy="334" r="20" fill="#8a7a5c"/>
+<line x1="10" y1="480.0" x2="990" y2="480.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="446" font-size="34" fill="#041e42">Delay if leading and risky</text>
+<circle cx="652.5" cy="434" r="18" fill="none" stroke="#5b6672" stroke-width="3"/>
+<circle cx="877.5" cy="434" r="20" fill="#8a7a5c"/>
+</svg>

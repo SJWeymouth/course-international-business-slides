@@ -1,0 +1,59 @@
+<svg viewBox="0 0 1060 410" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="fx-t fx-d" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="fx-t">How a shift in demand for dollars moves the yen-dollar rate</title>
+  <desc id="fx-d">Two panels showing the market for dollars priced in yen per dollar, with supply sloping upward and demand sloping downward. In the left panel demand for dollars rises, the demand curve shifts right, and the rate moves from 150 to 165 yen, so the dollar appreciates and the yen depreciates. In the right panel demand falls, the curve shifts left, and the rate moves from 150 to 135 yen, so the dollar depreciates and the yen appreciates.</desc>
+  <rect width="1060" height="410" fill="#ffffff"/>
+
+  <g transform="translate(0,0)">
+    <text x="70" y="30" font-size="24" font-weight="700" fill="#041e42">Demand for dollars rises</text>
+    <text x="70" y="57" font-size="20" font-weight="700" fill="#8a5c2c">the dollar appreciates</text>
+    <text x="70" y="86" font-size="17" font-weight="700" fill="#6b7280">¥ per $</text>
+
+    <line x1="70" y1="96" x2="70" y2="366" stroke="#24303c" stroke-width="3"/>
+    <line x1="70" y1="346" x2="460" y2="346" stroke="#24303c" stroke-width="3"/>
+    <text x="265" y="386" text-anchor="middle" font-size="17" fill="#3d4b5b">dollars traded</text>
+
+    <line x1="70" y1="234" x2="241" y2="234" stroke="#9aa4af" stroke-width="1.6" stroke-dasharray="6 5"/>
+    <line x1="70" y1="203" x2="285" y2="203" stroke="#8a5c2c" stroke-width="1.8" stroke-dasharray="6 5"/>
+
+    <line x1="95" y1="336" x2="410" y2="116" stroke="#041e42" stroke-width="4.5"/>
+    <line x1="95" y1="136" x2="410" y2="346" stroke="#365f8a" stroke-width="4.5"/>
+    <line x1="185" y1="136" x2="450" y2="313" stroke="#8a5c2c" stroke-width="4.5"/>
+
+    <circle cx="241" cy="234" r="7.5" fill="#24303c"/>
+    <circle cx="285" cy="203" r="7.5" fill="#8a5c2c"/>
+
+    <text x="418" y="112" font-size="20" font-weight="700" fill="#041e42">S</text>
+    <text x="420" y="334" font-size="20" font-weight="700" fill="#365f8a">D</text>
+    <text x="458" y="309" font-size="20" font-weight="700" fill="#8a5c2c">D′</text>
+
+    <text x="60" y="210" text-anchor="end" font-size="21" font-weight="700" fill="#8a5c2c">¥165</text>
+    <text x="60" y="241" text-anchor="end" font-size="21" font-weight="700" fill="#24303c">¥150</text>
+  </g>
+
+  <g transform="translate(530,0)">
+    <text x="70" y="30" font-size="24" font-weight="700" fill="#041e42">Demand for dollars falls</text>
+    <text x="70" y="57" font-size="20" font-weight="700" fill="#1f4e79">the dollar depreciates</text>
+    <text x="70" y="86" font-size="17" font-weight="700" fill="#6b7280">¥ per $</text>
+
+    <line x1="70" y1="96" x2="70" y2="366" stroke="#24303c" stroke-width="3"/>
+    <line x1="70" y1="346" x2="460" y2="346" stroke="#24303c" stroke-width="3"/>
+    <text x="265" y="386" text-anchor="middle" font-size="17" fill="#3d4b5b">dollars traded</text>
+
+    <line x1="70" y1="234" x2="241" y2="234" stroke="#9aa4af" stroke-width="1.6" stroke-dasharray="6 5"/>
+    <line x1="70" y1="264" x2="197" y2="264" stroke="#1f4e79" stroke-width="1.8" stroke-dasharray="6 5"/>
+
+    <line x1="95" y1="336" x2="410" y2="116" stroke="#041e42" stroke-width="4.5"/>
+    <line x1="95" y1="136" x2="410" y2="346" stroke="#365f8a" stroke-width="4.5"/>
+    <line x1="70" y1="179" x2="320" y2="346" stroke="#1f4e79" stroke-width="4.5" stroke-dasharray="11 7"/>
+
+    <circle cx="241" cy="234" r="7.5" fill="#24303c"/>
+    <circle cx="197" cy="264" r="7.5" fill="#1f4e79"/>
+
+    <text x="418" y="112" font-size="20" font-weight="700" fill="#041e42">S</text>
+    <text x="420" y="334" font-size="20" font-weight="700" fill="#365f8a">D</text>
+    <text x="328" y="330" font-size="20" font-weight="700" fill="#1f4e79">D″</text>
+
+    <text x="60" y="241" text-anchor="end" font-size="21" font-weight="700" fill="#24303c">¥150</text>
+    <text x="60" y="271" text-anchor="end" font-size="21" font-weight="700" fill="#1f4e79">¥135</text>
+  </g>
+</svg>
