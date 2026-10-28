@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">U.S. oil consumption, supplied from home and from net imports, 1950 to 1974</title>
+<desc id="desc">Stacked areas in million barrels a day. The top edge is U.S. consumption, rising from 6.5 in 1950 to 14.7 in 1970 and 17.3 in 1973. The lower band, supplied from U.S. production, rises to about 11.5 in 1970 and then stays flat; the upper band, net imports, widens from 0.5 in 1950 to 3.2 in 1970 and 6.0 in 1973. A dashed line marks 1970.</desc>
+<rect width="1600" height="470" fill="#ffffff"/>
+<text x="100" y="40" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">U.S. OIL CONSUMPTION, MILLION BARRELS A DAY</text>
+<polygon points="100.0,400.0 100.0,294.9 148.8,282.8 197.5,280.0 246.2,276.1 295.0,274.5 343.8,265.3 392.5,261.9 441.2,261.3 490.0,263.2 538.8,258.5 587.5,254.5 636.2,253.6 685.0,249.1 733.8,243.1 782.5,240.6 831.2,235.9 880.0,227.4 928.8,216.4 977.5,208.3 1026.2,200.8 1075.0,194.9 1123.8,195.4 1172.5,189.4 1221.2,199.4 1270.0,208.7 1270.0,400.0" fill="#041e42"/>
+<polygon points="100.0,285.2 148.8,275.3 197.5,270.8 246.2,264.9 295.0,262.1 343.8,249.7 392.5,244.0 441.2,243.4 490.0,237.9 538.8,230.6 587.5,225.8 636.2,222.6 685.0,215.1 733.8,209.0 782.5,204.0 831.2,195.3 880.0,185.2 928.8,176.7 977.5,161.9 1026.2,148.7 1075.0,138.7 1123.8,129.6 1172.5,109.0 1221.2,92.3 1270.0,103.9 1270.0,208.7 1221.2,199.4 1172.5,189.4 1123.8,195.4 1075.0,194.9 1026.2,200.8 977.5,208.3 928.8,216.4 880.0,227.4 831.2,235.9 782.5,240.6 733.8,243.1 685.0,249.1 636.2,253.6 587.5,254.5 538.8,258.5 490.0,263.2 441.2,261.3 392.5,261.9 343.8,265.3 295.0,274.5 246.2,276.1 197.5,280.0 148.8,282.8 100.0,294.9" fill="#8a7a5c"/>
+<line x1="100" y1="400.0" x2="1270" y2="400.0" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="86" y="410.0" text-anchor="end" font-size="28" fill="#5b6672">0</text>
+<line x1="100" y1="328.9" x2="1270" y2="328.9" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="86" y="338.9" text-anchor="end" font-size="28" fill="#5b6672">4</text>
+<line x1="100" y1="257.8" x2="1270" y2="257.8" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="86" y="267.8" text-anchor="end" font-size="28" fill="#5b6672">8</text>
+<line x1="100" y1="186.7" x2="1270" y2="186.7" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="86" y="196.7" text-anchor="end" font-size="28" fill="#5b6672">12</text>
+<line x1="100" y1="115.6" x2="1270" y2="115.6" stroke="#ffffff" stroke-opacity="0.35" stroke-width="2"/>
+<text x="86" y="125.6" text-anchor="end" font-size="28" fill="#5b6672">16</text>
+<text x="100.0" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1950</text>
+<text x="343.8" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1955</text>
+<text x="587.5" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1960</text>
+<text x="831.2" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1965</text>
+<text x="1075.0" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1970</text>
+<text x="1270.0" y="440" text-anchor="middle" font-size="28" fill="#5b6672">1974</text>
+<line x1="1075.0" y1="80.0" x2="1075.0" y2="400" stroke="#5b6672" stroke-width="3" stroke-dasharray="8 8"/>
+<line x1="100" y1="400" x2="1270" y2="400" stroke="#5b6672" stroke-width="2"/>
+<text x="1290" y="166.3" font-size="30" font-weight="700" fill="#8a7a5c">Net imports</text>
+<text x="1290" y="298.3" font-size="30" font-weight="700" fill="#041e42">Supplied from</text>
+<text x="1290" y="334.3" font-size="30" font-weight="700" fill="#041e42">U.S. production</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="460" viewBox="0 0 1600 460" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Oil's share of primary energy, world 1900 to 2025 and United States 1965 to 2025</title>
+<desc id="desc">Two lines in percent. The world line rises from 3 percent in 1900 to 27 in 1950 and a peak of 51 in 1973, highlighted, then falls to 41 in 1990 and 33 in 2025. The United States line starts at 46 in 1965, peaks at 50 in 1978, and is 39 in 2025.</desc>
+<rect width="1600" height="460" fill="#ffffff"/>
+<text x="10" y="40" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">% OF ALL ENERGY USED THAT COMES FROM OIL</text>
+<line x1="90" y1="390.0" x2="1370" y2="390.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="76" y="400.0" text-anchor="end" font-size="28" fill="#5b6672">0</text>
+<line x1="90" y1="286.7" x2="1370" y2="286.7" stroke="#cdd9e6" stroke-width="2"/>
+<text x="76" y="296.7" text-anchor="end" font-size="28" fill="#5b6672">20</text>
+<line x1="90" y1="183.3" x2="1370" y2="183.3" stroke="#cdd9e6" stroke-width="2"/>
+<text x="76" y="193.3" text-anchor="end" font-size="28" fill="#5b6672">40</text>
+<line x1="90" y1="80.0" x2="1370" y2="80.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="76" y="90.0" text-anchor="end" font-size="28" fill="#5b6672">60</text>
+<text x="90.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">1900</text>
+<text x="346.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">1925</text>
+<text x="602.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">1950</text>
+<text x="858.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">1975</text>
+<text x="1114.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">2000</text>
+<text x="1370.0" y="430" text-anchor="middle" font-size="28" fill="#5b6672">2025</text>
+<line x1="90" y1="390" x2="1370" y2="390" stroke="#5b6672" stroke-width="2"/>
+<path d="M90.0 374.5 L192.4 367.8 L294.8 348.1 L397.2 318.2 L499.6 300.6 L602.0 252.6 L704.4 209.2 L755.6 166.3 L765.8 161.1 L776.1 153.9 L786.3 148.7 L796.6 145.1 L806.8 138.9 L817.0 135.8 L827.3 130.1 L837.5 125.5 L847.8 129.6 L858.0 133.7 L868.2 131.7 L878.5 132.2 L888.7 130.6 L899.0 135.8 L909.2 144.6 L919.4 152.3 L929.7 158.0 L939.9 162.7 L950.2 169.4 L960.4 175.1 L970.6 173.5 L980.9 176.1 L991.1 177.7 L1001.4 178.7 L1011.6 178.7 L1021.8 179.7 L1032.1 178.2 L1042.3 180.2 L1052.6 178.2 L1062.8 179.7 L1073.0 180.8 L1083.3 177.7 L1093.5 177.7 L1103.8 178.2 L1114.0 180.2 L1124.2 181.3 L1134.5 184.4 L1144.7 186.9 L1155.0 189.0 L1165.2 193.7 L1175.4 196.8 L1185.7 200.4 L1195.9 204.0 L1206.2 205.0 L1216.4 207.1 L1226.6 209.7 L1236.9 209.2 L1247.1 210.2 L1257.4 210.2 L1267.6 208.1 L1277.8 206.1 L1288.1 206.6 L1298.3 209.2 L1308.6 210.2 L1318.8 219.5 L1329.0 218.5 L1339.3 215.4 L1349.5 214.3 L1359.8 216.4 L1370.0 216.9" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<text x="1386.0" y="250.9" font-size="30" font-weight="700" fill="#041e42">World</text>
+<path d="M755.6 153.9 L765.8 155.9 L776.1 154.4 L786.3 153.4 L796.6 153.4 L806.8 151.3 L817.0 148.2 L827.3 142.0 L837.5 138.4 L847.8 141.5 L858.0 141.0 L868.2 136.8 L878.5 131.7 L888.7 130.1 L899.0 138.9 L909.2 149.2 L919.4 159.1 L929.7 160.6 L939.9 160.1 L950.2 165.2 L960.4 166.8 L970.6 158.0 L980.9 162.2 L991.1 163.7 L1001.4 168.9 L1011.6 174.0 L1021.8 178.2 L1032.1 177.7 L1042.3 180.2 L1052.6 178.7 L1062.8 182.8 L1073.0 181.8 L1083.3 180.8 L1093.5 179.2 L1103.8 177.1 L1114.0 180.2 L1124.2 176.6 L1134.5 179.2 L1144.7 176.6 L1155.0 173.5 L1165.2 173.0 L1175.4 174.0 L1185.7 178.7 L1195.9 187.5 L1206.2 188.0 L1216.4 191.6 L1226.6 192.6 L1236.9 192.1 L1247.1 194.2 L1257.4 194.7 L1267.6 189.0 L1277.8 186.4 L1288.1 184.4 L1298.3 186.9 L1308.6 185.4 L1318.8 195.2 L1329.0 188.0 L1339.3 189.5 L1349.5 186.4 L1359.8 187.5 L1370.0 189.5" fill="none" stroke="#1f4e79" stroke-width="4" stroke-linejoin="round"/>
+<text x="1386.0" y="181.5" font-size="30" font-weight="700" fill="#1f4e79">United States</text>
+<circle cx="837.5" cy="125.5" r="11" fill="#8a7a5c"/>
+<text x="837.5" y="103.5" text-anchor="middle" font-size="28" font-weight="700" fill="#8a7a5c">1973</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="702" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Oil and natural gas prices in Europe and Asia relative to the U.S. price, 2025</title>
+<desc id="desc">Four horizontal bars, U.S. price equals 100: oil in Europe (Brent), 104; oil in the Middle East (Dubai), 106; natural gas in Europe, 328, highlighted; liquefied natural gas in Asia, 333, highlighted.</desc>
+<rect width="1000" height="540" fill="#ffffff"/>
+<text x="10" y="46" font-size="32" font-weight="600" letter-spacing="1.2" fill="#1f4e79">PRICE IN 2025, U.S. PRICE = 100</text>
+<text x="10" y="130" font-size="34" fill="#041e42">Oil in Europe (Brent)</text>
+<rect x="10" y="144" width="214.4" height="50" fill="#041e42"/>
+<text x="240.4" y="181.0" font-size="34" font-weight="400" fill="#5b6672">104</text>
+<text x="10" y="240" font-size="34" fill="#041e42">Oil in the Middle East (Dubai)</text>
+<rect x="10" y="254" width="217.9" height="50" fill="#041e42"/>
+<text x="243.9" y="291.0" font-size="34" font-weight="400" fill="#5b6672">106</text>
+<text x="10" y="350" font-size="34" fill="#041e42">Gas in Europe</text>
+<rect x="10" y="364" width="674.4" height="50" fill="#8a7a5c"/>
+<text x="700.4" y="401.0" font-size="34" font-weight="700" fill="#8a7a5c">328</text>
+<text x="10" y="460" font-size="34" fill="#041e42">Gas in Asia (LNG)</text>
+<rect x="10" y="474" width="684.7" height="50" fill="#8a7a5c"/>
+<text x="710.7" y="511.0" font-size="34" font-weight="700" fill="#8a7a5c">333</text>
+</svg>

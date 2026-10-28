@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="772" viewBox="0 0 1000 772" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Fuel used per dollar of goods shipped by U.S. manufacturing industry, 2018</title>
+<desc id="desc">Horizontal bars in thousand British thermal units per dollar of shipments: paper 10.0, nonmetallic minerals such as cement and glass 6.9, primary metals 6.2, petroleum and coal products 5.1, chemicals 5.0, wood products 3.4, food 1.4, plastics and rubber 1.2, machinery 0.4, computers and electronics 0.4, transportation equipment 0.4. Paper, primary metals, and chemicals are highlighted.</desc>
+<rect width="1000" height="772" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">THOUSAND BTU PER DOLLAR OF SHIPMENTS, 2018</text>
+<text x="424" y="110.0" text-anchor="end" font-size="30" font-weight="700" fill="#8a7a5c">Paper</text>
+<rect x="440" y="80" width="447.6" height="40" fill="#8a7a5c"/>
+<text x="899.6" y="110.0" font-size="30" font-weight="700" fill="#8a7a5c">10.0</text>
+<text x="424" y="172.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Cement and glass</text>
+<rect x="440" y="142" width="308.9" height="40" fill="#041e42"/>
+<text x="760.9" y="172.0" font-size="30" font-weight="400" fill="#5b6672">6.9</text>
+<text x="424" y="234.0" text-anchor="end" font-size="30" font-weight="700" fill="#8a7a5c">Primary metals</text>
+<rect x="440" y="204" width="277.5" height="40" fill="#8a7a5c"/>
+<text x="729.5" y="234.0" font-size="30" font-weight="700" fill="#8a7a5c">6.2</text>
+<text x="424" y="296.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Petroleum products</text>
+<rect x="440" y="266" width="228.3" height="40" fill="#041e42"/>
+<text x="680.3" y="296.0" font-size="30" font-weight="400" fill="#5b6672">5.1</text>
+<text x="424" y="358.0" text-anchor="end" font-size="30" font-weight="700" fill="#8a7a5c">Chemicals</text>
+<rect x="440" y="328" width="223.8" height="40" fill="#8a7a5c"/>
+<text x="675.8" y="358.0" font-size="30" font-weight="700" fill="#8a7a5c">5.0</text>
+<text x="424" y="420.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Wood products</text>
+<rect x="440" y="390" width="152.2" height="40" fill="#041e42"/>
+<text x="604.2" y="420.0" font-size="30" font-weight="400" fill="#5b6672">3.4</text>
+<text x="424" y="482.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Food</text>
+<rect x="440" y="452" width="62.7" height="40" fill="#041e42"/>
+<text x="514.7" y="482.0" font-size="30" font-weight="400" fill="#5b6672">1.4</text>
+<text x="424" y="544.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Plastics and rubber</text>
+<rect x="440" y="514" width="53.7" height="40" fill="#041e42"/>
+<text x="505.7" y="544.0" font-size="30" font-weight="400" fill="#5b6672">1.2</text>
+<text x="424" y="606.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Machinery</text>
+<rect x="440" y="576" width="17.9" height="40" fill="#041e42"/>
+<text x="469.9" y="606.0" font-size="30" font-weight="400" fill="#5b6672">0.4</text>
+<text x="424" y="668.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Computers and electronics</text>
+<rect x="440" y="638" width="17.9" height="40" fill="#041e42"/>
+<text x="469.9" y="668.0" font-size="30" font-weight="400" fill="#5b6672">0.4</text>
+<text x="424" y="730.0" text-anchor="end" font-size="30" font-weight="400" fill="#041e42">Transportation equipment</text>
+<rect x="440" y="700" width="17.9" height="40" fill="#041e42"/>
+<text x="469.9" y="730.0" font-size="30" font-weight="400" fill="#5b6672">0.4</text>
+</svg>

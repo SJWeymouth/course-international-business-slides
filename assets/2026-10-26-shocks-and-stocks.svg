@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Oil supply removed in major shocks, and emergency stock releases by IEA members</title>
+<desc id="desc">Two panels of horizontal bars. Left, share of world oil supply removed, as the Dallas Fed states it: 1973 Arab embargo, a little over 6 percent; 1979 Iranian revolution, about 4 percent; 1980 Iran-Iraq war, about 4 percent; 1990 Iraq invades Kuwait, a little over 6 percent; 2026 Hormuz closed, close to 20 percent, highlighted. Right, IEA emergency stock releases in million barrels: 2005 Hurricane Katrina, 60; 2011 war in Libya, 60; March 2022 Russia invades Ukraine, 60; April 2022, 120; March 2026 Hormuz closed, 400, highlighted.</desc>
+<rect width="1600" height="500" fill="#ffffff"/>
+<text x="10" y="44" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">% OF WORLD OIL SUPPLY REMOVED</text>
+<text x="10" y="116" font-size="28" fill="#041e42">1973, Arab embargo</text>
+<rect x="10" y="128" width="183.0" height="34" fill="#041e42"/>
+<text x="205.0" y="154.5" font-size="28" font-weight="400" fill="#5b6672">a little over 6%</text>
+<text x="10" y="198" font-size="28" fill="#041e42">1979, Iranian revolution</text>
+<rect x="10" y="210" width="116.2" height="34" fill="#041e42"/>
+<text x="138.2" y="236.5" font-size="28" font-weight="400" fill="#5b6672">about 4%</text>
+<text x="10" y="280" font-size="28" fill="#041e42">1980, Iran-Iraq war</text>
+<rect x="10" y="292" width="116.2" height="34" fill="#041e42"/>
+<text x="138.2" y="318.5" font-size="28" font-weight="400" fill="#5b6672">about 4%</text>
+<text x="10" y="362" font-size="28" fill="#041e42">1990, Iraq invades Kuwait</text>
+<rect x="10" y="374" width="183.0" height="34" fill="#041e42"/>
+<text x="205.0" y="400.5" font-size="28" font-weight="400" fill="#5b6672">a little over 6%</text>
+<text x="10" y="444" font-size="28" fill="#041e42">2026, Hormuz closed</text>
+<rect x="10" y="456" width="581.0" height="34" fill="#8a7a5c"/>
+<text x="603.0" y="482.5" font-size="28" font-weight="700" fill="#8a7a5c">close to 20%</text>
+<text x="840" y="44" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">IEA STOCK RELEASES, MILLION BARRELS</text>
+<text x="840" y="116" font-size="28" fill="#041e42">2005, Hurricane Katrina</text>
+<rect x="840" y="128" width="87.1" height="34" fill="#041e42"/>
+<text x="939.1" y="154.5" font-size="28" font-weight="400" fill="#5b6672">60</text>
+<text x="840" y="198" font-size="28" fill="#041e42">2011, war in Libya</text>
+<rect x="840" y="210" width="87.1" height="34" fill="#041e42"/>
+<text x="939.1" y="236.5" font-size="28" font-weight="400" fill="#5b6672">60</text>
+<text x="840" y="280" font-size="28" fill="#041e42">Mar. 2022, Russia invades Ukraine</text>
+<rect x="840" y="292" width="87.1" height="34" fill="#041e42"/>
+<text x="939.1" y="318.5" font-size="28" font-weight="400" fill="#5b6672">60</text>
+<text x="840" y="362" font-size="28" fill="#041e42">Apr. 2022, Russia invades Ukraine</text>
+<rect x="840" y="374" width="174.3" height="34" fill="#041e42"/>
+<text x="1026.3" y="400.5" font-size="28" font-weight="400" fill="#5b6672">120</text>
+<text x="840" y="444" font-size="28" fill="#041e42">Mar. 2026, Hormuz closed</text>
+<rect x="840" y="456" width="581.0" height="34" fill="#8a7a5c"/>
+<text x="1433.0" y="482.5" font-size="28" font-weight="700" fill="#8a7a5c">400</text>
+<line x1="800" y1="20" x2="800" y2="480" stroke="#cdd9e6" stroke-width="2"/>
+</svg>
