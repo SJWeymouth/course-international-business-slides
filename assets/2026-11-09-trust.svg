@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Percent of U.S. adults who trust the federal government to do what is right just about always or most of the time, selected polls, 1958 to 2025</title>
+<desc id="desc">Dots on a time axis, in percent: 73 in 1958, 77 in 1964, 36 in 1974, 25 in 1980, 44 in 1984, 31 in January 2001, 60 in October 2001 after September 11, 31 in 2007, about 25 in 2008, highlighted, 22 in 2010, 19 in 2015, 17 in 2019, 16 in 2023, 22 in 2024, and 17 in 2025.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">ALWAYS OR MOST OF THE TIME, PERCENT</text>
+<line x1="80" y1="530.0" x2="970" y2="530.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="542.0" text-anchor="end" font-size="32" fill="#5b6672">0</text>
+<line x1="80" y1="422.5" x2="970" y2="422.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="434.5" text-anchor="end" font-size="32" fill="#5b6672">20</text>
+<line x1="80" y1="315.0" x2="970" y2="315.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="327.0" text-anchor="end" font-size="32" fill="#5b6672">40</text>
+<line x1="80" y1="207.5" x2="970" y2="207.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="219.5" text-anchor="end" font-size="32" fill="#5b6672">60</text>
+<line x1="80" y1="100.0" x2="970" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="112.0" text-anchor="end" font-size="32" fill="#5b6672">80</text>
+<text x="141.8" y="574" text-anchor="middle" font-size="32" fill="#5b6672">1960</text>
+<text x="389.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">1980</text>
+<text x="636.2" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2000</text>
+<text x="883.5" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2020</text>
+<path d="M127.0 137.6 L201.1 116.1 L324.7 336.5 L398.9 395.6 L448.4 293.5 L648.6 363.4 L658.5 207.5 L722.8 363.4 L745.0 395.6 L762.3 411.8 L831.6 427.9 L873.6 438.6 L926.7 444.0 L937.9 411.8 L953.9 438.6" fill="none" stroke="#5b6672" stroke-width="2" stroke-dasharray="6 6"/>
+<circle cx="127.0" cy="137.6" r="9" fill="#041e42"/>
+<circle cx="201.1" cy="116.1" r="9" fill="#041e42"/>
+<circle cx="324.7" cy="336.5" r="9" fill="#041e42"/>
+<circle cx="398.9" cy="395.6" r="9" fill="#041e42"/>
+<circle cx="448.4" cy="293.5" r="9" fill="#041e42"/>
+<circle cx="648.6" cy="363.4" r="9" fill="#041e42"/>
+<circle cx="658.5" cy="207.5" r="9" fill="#041e42"/>
+<circle cx="722.8" cy="363.4" r="9" fill="#041e42"/>
+<circle cx="745.0" cy="395.6" r="11" fill="#8a7a5c"/>
+<circle cx="762.3" cy="411.8" r="9" fill="#041e42"/>
+<circle cx="831.6" cy="427.9" r="9" fill="#041e42"/>
+<circle cx="873.6" cy="438.6" r="9" fill="#041e42"/>
+<circle cx="926.7" cy="444.0" r="9" fill="#041e42"/>
+<circle cx="937.9" cy="411.8" r="9" fill="#041e42"/>
+<circle cx="953.9" cy="438.6" r="9" fill="#041e42"/>
+<text x="201.1" y="96.1" text-anchor="middle" font-size="32" font-weight="400" fill="#5b6672">77</text>
+<text x="658.5" y="187.5" text-anchor="middle" font-size="32" font-weight="400" fill="#5b6672">60</text>
+<text x="729.0" y="443.6" text-anchor="end" font-size="32" font-weight="700" fill="#8a7a5c">25</text>
+</svg>

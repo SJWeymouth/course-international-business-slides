@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Illustration: the same cut in oil supply raises the price more when demand is inelastic</title>
+<desc id="desc">Price on the vertical axis, quantity of oil on the horizontal. A steep upward-sloping supply curve shifts left after a cut. A steep short-run demand curve meets the new supply at a much higher price; a flatter long-run demand curve, dashed, meets it at a slightly higher price. Dots mark the price before the cut, after it in the short run, and after it in the long run.</desc>
+<rect width="1000" height="640" fill="#ffffff"/>
+<line x1="110" y1="560" x2="970" y2="560" stroke="#5b6672" stroke-width="3"/>
+<line x1="110" y1="560" x2="110" y2="70" stroke="#5b6672" stroke-width="3"/>
+<text x="970" y="610" text-anchor="end" font-size="30" fill="#5b6672">Quantity of oil</text>
+<text transform="translate(82,320.0) rotate(-90)" text-anchor="middle" font-size="30" fill="#5b6672">Price</text>
+<line x1="605.4" y1="545.6" x2="767.0" y2="94.4" stroke="#5b6672" stroke-width="4"/>
+<line x1="476.4" y1="545.6" x2="638.0" y2="94.4" stroke="#8a7a5c" stroke-width="5"/>
+<text x="775.0" y="84.4" font-size="28" fill="#5b6672">Supply before</text>
+<text x="630.0" y="84.4" text-anchor="end" font-size="28" font-weight="700" fill="#8a7a5c">After a cut</text>
+<line x1="550.0" y1="128.0" x2="674.7" y2="545.6" stroke="#041e42" stroke-width="5"/>
+<text x="538.0" y="137.6" text-anchor="end" font-size="28" font-weight="700" fill="#041e42">Short-run demand</text>
+<line x1="359.4" y1="281.6" x2="832.4" y2="545.6" stroke="#1f4e79" stroke-width="4" stroke-dasharray="12 10"/>
+<text x="970.0" y="478.4" text-anchor="end" font-size="28" font-weight="700" fill="#1f4e79">Long-run demand</text>
+<line x1="110" y1="440.0" x2="643.2" y2="440.0" stroke="#5b6672" stroke-width="2" stroke-dasharray="5 6"/>
+<circle cx="643.2" cy="440.0" r="10" fill="#5b6672"/>
+<text x="122" y="428.0" font-size="26" fill="#5b6672">Before</text>
+<line x1="110" y1="243.6" x2="584.6" y2="243.6" stroke="#041e42" stroke-width="2" stroke-dasharray="5 6"/>
+<circle cx="584.6" cy="243.6" r="10" fill="#041e42"/>
+<text x="122" y="231.6" font-size="26" fill="#041e42">Short run</text>
+<line x1="110" y1="380.0" x2="535.7" y2="380.0" stroke="#1f4e79" stroke-width="2" stroke-dasharray="5 6"/>
+<circle cx="535.7" cy="380.0" r="10" fill="#1f4e79"/>
+<text x="122" y="368.0" font-size="26" fill="#1f4e79">Long run</text>
+</svg>

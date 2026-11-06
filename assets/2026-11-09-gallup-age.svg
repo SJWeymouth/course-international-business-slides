@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Percent of U.S. adults with a positive view of capitalism and of socialism, by age, 2026</title>
+<desc id="desc">Paired columns in percent. Ages 18 to 34: capitalism 43, socialism 57, highlighted. Ages 35 to 54: capitalism 50, socialism 45. Ages 55 and older: capitalism 65, socialism 34.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">POSITIVE VIEW BY AGE, 2026, PERCENT</text>
+<line x1="80" y1="490.0" x2="980" y2="490.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="502.0" text-anchor="end" font-size="32" fill="#5b6672">0</text>
+<line x1="80" y1="395.0" x2="980" y2="395.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="407.0" text-anchor="end" font-size="32" fill="#5b6672">20</text>
+<line x1="80" y1="300.0" x2="980" y2="300.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="312.0" text-anchor="end" font-size="32" fill="#5b6672">40</text>
+<line x1="80" y1="205.0" x2="980" y2="205.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="217.0" text-anchor="end" font-size="32" fill="#5b6672">60</text>
+<line x1="80" y1="110.0" x2="980" y2="110.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="122.0" text-anchor="end" font-size="32" fill="#5b6672">80</text>
+<rect x="129.2" y="285.8" width="96.0" height="204.2" fill="#041e42"/>
+<text x="177.2" y="273.8" text-anchor="middle" font-size="32" font-weight="400" fill="#5b6672">43</text>
+<rect x="234.8" y="219.2" width="96.0" height="270.8" fill="#8a7a5c"/>
+<text x="282.8" y="207.2" text-anchor="middle" font-size="32" font-weight="700" fill="#8a7a5c">57</text>
+<text x="230.0" y="534" text-anchor="middle" font-size="32" fill="#5b6672">Ages 18–34</text>
+<rect x="429.2" y="252.5" width="96.0" height="237.5" fill="#041e42"/>
+<text x="477.2" y="240.5" text-anchor="middle" font-size="32" font-weight="400" fill="#5b6672">50</text>
+<rect x="534.8" y="276.2" width="96.0" height="213.8" fill="#8a7a5c"/>
+<text x="582.8" y="264.2" text-anchor="middle" font-size="32" font-weight="400" fill="#8a7a5c">45</text>
+<text x="530.0" y="534" text-anchor="middle" font-size="32" fill="#5b6672">Ages 35–54</text>
+<rect x="729.2" y="181.2" width="96.0" height="308.8" fill="#041e42"/>
+<text x="777.2" y="169.2" text-anchor="middle" font-size="32" font-weight="400" fill="#5b6672">65</text>
+<rect x="834.8" y="328.5" width="96.0" height="161.5" fill="#8a7a5c"/>
+<text x="882.8" y="316.5" text-anchor="middle" font-size="32" font-weight="400" fill="#8a7a5c">34</text>
+<text x="830.0" y="534" text-anchor="middle" font-size="32" fill="#5b6672">Ages 55+</text>
+<line x1="80" y1="490" x2="980" y2="490" stroke="#5b6672" stroke-width="2"/>
+<rect x="80" y="562" width="28" height="28" fill="#041e42"/><text x="120" y="586" font-size="32" fill="#5b6672">Capitalism</text>
+<rect x="340" y="562" width="28" height="28" fill="#8a7a5c"/><text x="380" y="586" font-size="32" fill="#5b6672">Socialism</text>
+</svg>

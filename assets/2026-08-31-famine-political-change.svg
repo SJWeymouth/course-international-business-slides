@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="300" viewBox="0 0 1400 300" role="img" aria-labelledby="title desc">
+  <title id="title">Interests, institutions, and ideas; then famine; then repeal</title>
+  <desc id="desc">Three boxes labelled interests, institutions, and ideas lead to a circle labelled 1845 famine, which leads to a box labelled repeal.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="300" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-weight="700">
+    <g fill="#eef1f4" stroke="#cbd3db" stroke-width="2">
+      <rect x="60" y="40" width="420" height="62" rx="12"/>
+      <rect x="60" y="119" width="420" height="62" rx="12"/>
+      <rect x="60" y="198" width="420" height="62" rx="12"/>
+    </g>
+    <g fill="#041e42" font-size="26">
+      <text x="270" y="80">INTERESTS</text>
+      <text x="270" y="159">INSTITUTIONS</text>
+      <text x="270" y="238">IDEAS</text>
+    </g>
+    <path d="M500 150 H590" stroke="#52749a" stroke-width="6" marker-end="url(#arrow)"/>
+    <g transform="translate(720,150)">
+      <circle r="100" fill="#9a4a42"/>
+      <text y="-6" fill="#ffffff" font-size="28">1845</text>
+      <text y="30" fill="#ffffff" font-size="28">FAMINE</text>
+    </g>
+    <path d="M830 150 H920" stroke="#52749a" stroke-width="6" marker-end="url(#arrow)"/>
+    <g transform="translate(1140,150)">
+      <rect x="-200" y="-62" width="400" height="124" rx="18" fill="#041e42"/>
+      <text y="12" fill="#ffffff" font-size="32">REPEAL</text>
+    </g>
+  </g>
+</svg>

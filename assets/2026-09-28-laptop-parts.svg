@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="500" viewBox="180 30 1320 500" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Where the parts of a brand-name laptop came from, 2007</title>
+<desc id="desc">An outline of an open laptop with labels pointing to each part and the place it came from: the screen from Korea or Japan, the disk drive from Taiwan or Singapore, chips and software from Intel and Microsoft, the keyboard and power supply from plants in China, assembly in Shanghai, and the brand from the United States or Japan.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<rect x="600" y="70" width="400" height="250" rx="14" fill="#041e42"/>
+<rect x="616" y="86" width="368" height="210" rx="6" fill="#cdd9e6"/>
+<path d="M540 320 H1060 L1100 346 H500 Z" fill="#365f91"/>
+<rect x="640" y="324" width="320" height="16" rx="3" fill="#cdd9e6" opacity="0.9"/>
+<rect x="1110" y="290" width="70" height="44" rx="6" fill="#365f91"/>
+<path d="M1180 312 H1220" stroke="#365f91" stroke-width="4" fill="none"/>
+<path d="M470 150 L640 150" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="640" cy="150" r="6" fill="#5b6672"/>
+<text x="455" y="150" text-anchor="end" font-size="32" font-weight="700" fill="#041e42">Screen</text><text x="455" y="184" text-anchor="end" font-size="29" fill="#1f4e79">Korea · Japan</text>
+<path d="M1130 110 L970 110" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="970" cy="110" r="6" fill="#5b6672"/>
+<text x="1145" y="110" text-anchor="start" font-size="32" font-weight="700" fill="#041e42">Brand</text><text x="1145" y="144" text-anchor="start" font-size="29" fill="#1f4e79">United States · Japan</text>
+<path d="M1130 210 L960 230" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="960" cy="230" r="6" fill="#5b6672"/>
+<text x="1145" y="210" text-anchor="start" font-size="32" font-weight="700" fill="#041e42">Chips, software</text><text x="1145" y="244" text-anchor="start" font-size="29" fill="#1f4e79">Intel · Microsoft</text>
+<path d="M470 300 L600 333" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="600" cy="333" r="6" fill="#5b6672"/>
+<text x="455" y="300" text-anchor="end" font-size="32" font-weight="700" fill="#041e42">Disk drive</text><text x="455" y="334" text-anchor="end" font-size="29" fill="#1f4e79">Taiwan · Singapore</text>
+<path d="M560 430 L700 332" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="700" cy="332" r="6" fill="#5b6672"/>
+<text x="560" y="470" text-anchor="middle" font-size="32" font-weight="700" fill="#041e42">Keyboard</text><text x="560" y="504" text-anchor="middle" font-size="29" fill="#1f4e79">China</text>
+<path d="M800 430 L800 346" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="800" cy="346" r="6" fill="#5b6672"/>
+<text x="800" y="470" text-anchor="middle" font-size="32" font-weight="700" fill="#041e42">Assembly</text><text x="800" y="504" text-anchor="middle" font-size="29" fill="#1f4e79">Shanghai</text>
+<path d="M1145 430 L1145 334" stroke="#5b6672" stroke-width="3" fill="none"/><circle cx="1145" cy="334" r="6" fill="#5b6672"/>
+<text x="1145" y="470" text-anchor="middle" font-size="32" font-weight="700" fill="#041e42">Power supply</text><text x="1145" y="504" text-anchor="middle" font-size="29" fill="#1f4e79">China</text>
+</svg>

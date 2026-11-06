@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Grid for the dependence activity</title>
+<desc id="desc">A square grid. The horizontal axis runs from a low cost of switching suppliers on the left to a high cost on the right; the vertical axis runs from low government need at the bottom to essential at the top. The top-right quarter is shaded. A dot for Claude sits in the top-right quarter.</desc>
+<rect width="900" height="700" fill="#ffffff"/>
+<rect x="490.0" y="30" width="380.0" height="280.0" fill="#cdd9e6" opacity="0.6"/>
+<rect x="110" y="30" width="760" height="560" fill="none" stroke="#5b6672" stroke-width="2"/>
+<line x1="490.0" y1="30" x2="490.0" y2="590" stroke="#5b6672" stroke-width="2" stroke-dasharray="8 8"/>
+<line x1="110" y1="310.0" x2="870" y2="310.0" stroke="#5b6672" stroke-width="2" stroke-dasharray="8 8"/>
+<text x="110" y="632" font-size="32" fill="#5b6672">Low</text>
+<text x="870" y="632" text-anchor="end" font-size="32" fill="#5b6672">High</text>
+<text x="490.0" y="678" text-anchor="middle" font-size="34" font-weight="600" fill="#1f4e79">COST OF SWITCHING</text>
+<text x="96" y="590" text-anchor="end" font-size="32" fill="#5b6672">Low</text>
+<text x="96" y="56" text-anchor="end" font-size="32" fill="#5b6672">High</text>
+<text transform="translate(70,310.0) rotate(-90)" text-anchor="middle" font-size="34" font-weight="600" fill="#1f4e79">GOVERNMENT NEED</text>
+<circle cx="718.0" cy="142.0" r="18" fill="#041e42"/>
+<text x="718.0" y="198.0" text-anchor="middle" font-size="30" fill="#041e42">Claude</text>
+</svg>
