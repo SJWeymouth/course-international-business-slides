@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="656" viewBox="0 0 1000 656" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Structural fiscal tightening from peak to trough after the financial crisis, 2007 to 2017, percent of potential GDP</title>
+<desc id="desc">Horizontal bars, approximate: Greece 17.2, Spain 8.8, Portugal 8.1, United Kingdom 6.9 and United States 6.1, both highlighted, Canada 4.8, Japan 4.8, France 3.8, Italy 3.8, Germany 3.5.</desc>
+<rect width="1000" height="656" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">STRUCTURAL TIGHTENING, 2007–17, PERCENT OF POTENTIAL GDP</text>
+<text x="234" y="127.2" text-anchor="end" font-size="30" fill="#041e42">Greece</text>
+<rect x="250" y="96" width="630.7" height="40" fill="#041e42"/>
+<text x="894.7" y="127.2" font-size="30" font-weight="400" fill="#5b6672">17</text>
+<text x="234" y="183.2" text-anchor="end" font-size="30" fill="#041e42">Spain</text>
+<rect x="250" y="152" width="322.7" height="40" fill="#041e42"/>
+<text x="586.7" y="183.2" font-size="30" font-weight="400" fill="#5b6672">9</text>
+<text x="234" y="239.2" text-anchor="end" font-size="30" fill="#041e42">Portugal</text>
+<rect x="250" y="208" width="297.0" height="40" fill="#041e42"/>
+<text x="561.0" y="239.2" font-size="30" font-weight="400" fill="#5b6672">8</text>
+<text x="234" y="295.2" text-anchor="end" font-size="30" fill="#041e42">United Kingdom</text>
+<rect x="250" y="264" width="253.0" height="40" fill="#8a7a5c"/>
+<text x="517.0" y="295.2" font-size="30" font-weight="700" fill="#8a7a5c">7</text>
+<text x="234" y="351.2" text-anchor="end" font-size="30" fill="#041e42">United States</text>
+<rect x="250" y="320" width="223.7" height="40" fill="#8a7a5c"/>
+<text x="487.7" y="351.2" font-size="30" font-weight="700" fill="#8a7a5c">6</text>
+<text x="234" y="407.2" text-anchor="end" font-size="30" fill="#041e42">Japan</text>
+<rect x="250" y="376" width="176.0" height="40" fill="#041e42"/>
+<text x="440.0" y="407.2" font-size="30" font-weight="400" fill="#5b6672">5</text>
+<text x="234" y="463.2" text-anchor="end" font-size="30" fill="#041e42">Canada</text>
+<rect x="250" y="432" width="176.0" height="40" fill="#041e42"/>
+<text x="440.0" y="463.2" font-size="30" font-weight="400" fill="#5b6672">5</text>
+<text x="234" y="519.2" text-anchor="end" font-size="30" fill="#041e42">France</text>
+<rect x="250" y="488" width="139.3" height="40" fill="#041e42"/>
+<text x="403.3" y="519.2" font-size="30" font-weight="400" fill="#5b6672">4</text>
+<text x="234" y="575.2" text-anchor="end" font-size="30" fill="#041e42">Italy</text>
+<rect x="250" y="544" width="139.3" height="40" fill="#041e42"/>
+<text x="403.3" y="575.2" font-size="30" font-weight="400" fill="#5b6672">4</text>
+<text x="234" y="631.2" text-anchor="end" font-size="30" fill="#041e42">Germany</text>
+<rect x="250" y="600" width="128.3" height="40" fill="#041e42"/>
+<text x="392.3" y="631.2" font-size="30" font-weight="400" fill="#5b6672">4</text>
+</svg>

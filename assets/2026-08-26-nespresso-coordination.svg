@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700">
+  <rect width="900" height="700" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <circle cx="450" cy="350" r="112" fill="#041e42"/>
+    <text x="450" y="334" text-anchor="middle" font-size="32" font-weight="700" fill="#ffffff">NESPRESSO</text>
+    <text x="450" y="374" text-anchor="middle" font-size="28" font-weight="700" fill="#ffffff">CAPSULE</text>
+
+    <g stroke="#9cadc4" stroke-width="5">
+      <line x1="450" y1="238" x2="450" y2="120"/>
+      <line x1="542" y1="286" x2="675" y2="205"/>
+      <line x1="555" y1="408" x2="700" y2="482"/>
+      <line x1="450" y1="462" x2="450" y2="585"/>
+      <line x1="345" y1="408" x2="205" y2="485"/>
+      <line x1="358" y1="286" x2="225" y2="205"/>
+    </g>
+
+    <g>
+      <circle cx="450" cy="90" r="74" fill="#f7f5f1" stroke="#8a7f75" stroke-width="5"/>
+      <text x="450" y="84" text-anchor="middle" font-size="25" font-weight="700" fill="#041e42">Prices</text>
+      <text x="450" y="113" text-anchor="middle" font-size="18" fill="#4b5967">signals</text>
+
+      <circle cx="705" cy="190" r="80" fill="#f7f5f1" stroke="#365f91" stroke-width="5"/>
+      <text x="705" y="184" text-anchor="middle" font-size="24" font-weight="700" fill="#041e42">Contracts</text>
+      <text x="705" y="214" text-anchor="middle" font-size="18" fill="#4b5967">commitments</text>
+
+      <circle cx="730" cy="505" r="80" fill="#f7f5f1" stroke="#8a7f75" stroke-width="5"/>
+      <text x="730" y="499" text-anchor="middle" font-size="24" font-weight="700" fill="#041e42">Standards</text>
+      <text x="730" y="529" text-anchor="middle" font-size="18" fill="#4b5967">compatibility</text>
+
+      <circle cx="450" cy="610" r="74" fill="#f7f5f1" stroke="#365f91" stroke-width="5"/>
+      <text x="450" y="604" text-anchor="middle" font-size="24" font-weight="700" fill="#041e42">Rules</text>
+      <text x="450" y="634" text-anchor="middle" font-size="18" fill="#4b5967">enforcement</text>
+
+      <circle cx="175" cy="505" r="80" fill="#f7f5f1" stroke="#8a7f75" stroke-width="5"/>
+      <text x="175" y="499" text-anchor="middle" font-size="24" font-weight="700" fill="#041e42">Finance</text>
+      <text x="175" y="529" text-anchor="middle" font-size="18" fill="#4b5967">risk &amp; payment</text>
+
+      <circle cx="195" cy="190" r="80" fill="#f7f5f1" stroke="#365f91" stroke-width="5"/>
+      <text x="195" y="184" text-anchor="middle" font-size="23" font-weight="700" fill="#041e42">Logistics</text>
+      <text x="195" y="214" text-anchor="middle" font-size="18" fill="#4b5967">movement</text>
+    </g>
+  </g>
+</svg>

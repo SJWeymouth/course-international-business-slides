@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How mortgages were turned into rated securities</title>
+<desc id="desc">Diagram with illustrative sizes. A pool of mortgages feeds a mortgage bond split into three layers: AAA, 80 percent, on top; BBB, 15 percent, in the middle; first loss, 5 percent, at the bottom. An arrow marks that the top layer is paid first and a highlighted arrow that the bottom layer loses first. A second arrow carries BBB layers from many bonds into a CDO, which is split again, with an AAA layer of 80 percent on top.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="80" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">Mortgages</text>
+<rect x="18" y="170" width="30" height="30" fill="#5b6672"/><polygon points="15,172 33,156 51,172" fill="#5b6672"/>
+<rect x="60" y="170" width="30" height="30" fill="#5b6672"/><polygon points="57,172 75,156 93,172" fill="#5b6672"/>
+<rect x="102" y="170" width="30" height="30" fill="#5b6672"/><polygon points="99,172 117,156 135,172" fill="#5b6672"/>
+<rect x="18" y="226" width="30" height="30" fill="#5b6672"/><polygon points="15,228 33,212 51,228" fill="#5b6672"/>
+<rect x="60" y="226" width="30" height="30" fill="#5b6672"/><polygon points="57,228 75,212 93,228" fill="#5b6672"/>
+<rect x="102" y="226" width="30" height="30" fill="#5b6672"/><polygon points="99,228 117,212 135,228" fill="#5b6672"/>
+<rect x="18" y="282" width="30" height="30" fill="#5b6672"/><polygon points="15,284 33,268 51,284" fill="#5b6672"/>
+<rect x="60" y="282" width="30" height="30" fill="#5b6672"/><polygon points="57,284 75,268 93,284" fill="#5b6672"/>
+<rect x="102" y="282" width="30" height="30" fill="#5b6672"/><polygon points="99,284 117,268 135,284" fill="#5b6672"/>
+<rect x="18" y="338" width="30" height="30" fill="#5b6672"/><polygon points="15,340 33,324 51,340" fill="#5b6672"/>
+<rect x="60" y="338" width="30" height="30" fill="#5b6672"/><polygon points="57,340 75,324 93,340" fill="#5b6672"/>
+<rect x="102" y="338" width="30" height="30" fill="#5b6672"/><polygon points="99,340 117,324 135,340" fill="#5b6672"/>
+<rect x="18" y="394" width="30" height="30" fill="#5b6672"/><polygon points="15,396 33,380 51,396" fill="#5b6672"/>
+<rect x="60" y="394" width="30" height="30" fill="#5b6672"/><polygon points="57,396 75,380 93,396" fill="#5b6672"/>
+<rect x="102" y="394" width="30" height="30" fill="#5b6672"/><polygon points="99,396 117,380 135,396" fill="#5b6672"/>
+<rect x="18" y="450" width="30" height="30" fill="#5b6672"/><polygon points="15,452 33,436 51,452" fill="#5b6672"/>
+<rect x="60" y="450" width="30" height="30" fill="#5b6672"/><polygon points="57,452 75,436 93,452" fill="#5b6672"/>
+<rect x="102" y="450" width="30" height="30" fill="#5b6672"/><polygon points="99,452 117,436 135,452" fill="#5b6672"/>
+<line x1="150" y1="340.0" x2="196" y2="340.0" stroke="#5b6672" stroke-width="5"/><polygon points="210,340.0 192,330.0 192,350.0" fill="#5b6672"/>
+<text x="390.0" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">Mortgage bond</text>
+<rect x="290" y="150.0" width="200" height="304.0" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<rect x="290" y="454.0" width="200" height="57.0" fill="#1f4e79" stroke="#ffffff" stroke-width="3"/>
+<rect x="290" y="511.0" width="200" height="19.0" fill="#8a7a5c" stroke="#ffffff" stroke-width="3"/>
+<text x="390.0" y="313" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">AAA 80%</text>
+<text x="390.0" y="492" text-anchor="middle" font-size="28" fill="#ffffff">BBB 15%</text>
+<text x="390.0" y="564" text-anchor="middle" font-size="28" font-weight="700" fill="#8a7a5c">First loss 5%</text>
+<line x1="260" y1="158" x2="260" y2="270" stroke="#041e42" stroke-width="5"/><polygon points="260,286 249,266 271,266" fill="#041e42"/>
+<text x="242" y="200" text-anchor="end" font-size="26" fill="#041e42">Paid</text><text x="242" y="232" text-anchor="end" font-size="26" fill="#041e42">first</text>
+<line x1="260" y1="522" x2="260" y2="410" stroke="#8a7a5c" stroke-width="5"/><polygon points="260,394 249,414 271,414" fill="#8a7a5c"/>
+<text x="242" y="460" text-anchor="end" font-size="26" font-weight="700" fill="#8a7a5c">Loses</text><text x="242" y="492" text-anchor="end" font-size="26" font-weight="700" fill="#8a7a5c">first</text>
+<path d="M496 482 C 560 482, 560 340, 608 340" fill="none" stroke="#5b6672" stroke-width="5"/>
+<polygon points="624,340 606,330 606,350" fill="#5b6672"/>
+<text x="594" y="278" text-anchor="middle" font-size="26" fill="#5b6672">BBB layers</text><text x="594" y="310" text-anchor="middle" font-size="26" fill="#5b6672">of many bonds</text>
+<text x="840.0" y="120" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">CDO</text>
+<rect x="740" y="150.0" width="200" height="304.0" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<rect x="740" y="454.0" width="200" height="57.0" fill="#1f4e79" stroke="#ffffff" stroke-width="3"/>
+<rect x="740" y="511.0" width="200" height="19.0" fill="#8a7a5c" stroke="#ffffff" stroke-width="3"/>
+<text x="840.0" y="313" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">AAA 80%</text>
+<text x="840.0" y="492" text-anchor="middle" font-size="28" fill="#ffffff">BBB 15%</text>
+<text x="840.0" y="564" text-anchor="middle" font-size="28" font-weight="700" fill="#8a7a5c">First loss 5%</text>
+</svg>

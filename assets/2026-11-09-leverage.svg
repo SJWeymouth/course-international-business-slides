@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">A firm with 40 dollars of assets for each dollar of capital, before and after a 2.5 percent fall in asset values</title>
+<desc id="desc">Two bars. Before: 40 dollars of assets, 39 borrowed and 1 of own capital, highlighted. After asset values fall 2.5 percent: 39 dollars of assets, all owed to lenders, and no capital left.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">DOLLARS, PER $1 OF CAPITAL</text>
+<rect x="180" y="150.0" width="220" height="390.0" fill="#041e42"/>
+<text x="290" y="356" text-anchor="middle" font-size="32" fill="#ffffff">Borrowed $39</text>
+<rect x="180" y="140.0" width="220" height="10.0" fill="#8a7a5c"/>
+<text x="290" y="122.0" text-anchor="middle" font-size="30" font-weight="700" fill="#8a7a5c">Own capital $1</text>
+<text x="290" y="584" text-anchor="middle" font-size="32" fill="#5b6672">Before</text>
+<rect x="560" y="150.0" width="220" height="390.0" fill="#041e42"/>
+<text x="670" y="356" text-anchor="middle" font-size="32" fill="#ffffff">Borrowed $39</text>
+<text x="670" y="122.0" text-anchor="middle" font-size="30" font-weight="700" fill="#8a7a5c">Capital $0</text>
+<text x="670" y="584" text-anchor="middle" font-size="32" fill="#5b6672">Assets fall 2.5%</text>
+<line x1="120" y1="540" x2="960" y2="540" stroke="#5b6672" stroke-width="2"/>
+</svg>

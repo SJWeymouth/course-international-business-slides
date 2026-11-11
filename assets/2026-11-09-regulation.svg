@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">U.S. financial laws and rules, 1999 to 2004</title>
+<desc id="desc">A timeline with four events: 1999, Gramm-Leach-Bliley Act; 2000, Commodity Futures Modernization Act; 2002, Sarbanes-Oxley Act; 2004, SEC capital rule for investment banks.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<line x1="130" y1="300" x2="820" y2="300" stroke="#5b6672" stroke-width="4"/>
+<circle cx="186.0" cy="300" r="14" fill="#041e42"/>
+<line x1="186.0" y1="300" x2="186.0" y2="260" stroke="#041e42" stroke-width="3"/>
+<text x="186.0" y="220.0" text-anchor="middle" font-size="34" font-weight="700" fill="#041e42">1999</text>
+<text x="186.0" y="137.0" text-anchor="middle" font-size="30" fill="#041e42">Gramm-Leach-</text>
+<text x="186.0" y="175.0" text-anchor="middle" font-size="30" fill="#041e42">Bliley Act</text>
+<circle cx="339.5" cy="300" r="14" fill="#8a7a5c"/>
+<line x1="339.5" y1="300" x2="339.5" y2="340" stroke="#8a7a5c" stroke-width="3"/>
+<text x="339.5" y="380.0" text-anchor="middle" font-size="34" font-weight="700" fill="#8a7a5c">2000</text>
+<text x="339.5" y="425.0" text-anchor="middle" font-size="30" fill="#041e42">Commodity Futures</text>
+<text x="339.5" y="463.0" text-anchor="middle" font-size="30" fill="#041e42">Modernization Act</text>
+<circle cx="562.1" cy="300" r="14" fill="#041e42"/>
+<line x1="562.1" y1="300" x2="562.1" y2="260" stroke="#041e42" stroke-width="3"/>
+<text x="562.1" y="220.0" text-anchor="middle" font-size="34" font-weight="700" fill="#041e42">2002</text>
+<text x="562.1" y="137.0" text-anchor="middle" font-size="30" fill="#041e42">Sarbanes-</text>
+<text x="562.1" y="175.0" text-anchor="middle" font-size="30" fill="#041e42">Oxley Act</text>
+<circle cx="800.0" cy="300" r="14" fill="#041e42"/>
+<line x1="800.0" y1="300" x2="800.0" y2="340" stroke="#041e42" stroke-width="3"/>
+<text x="800.0" y="380.0" text-anchor="middle" font-size="34" font-weight="700" fill="#041e42">2004</text>
+<text x="800.0" y="425.0" text-anchor="middle" font-size="30" fill="#041e42">SEC capital rule</text>
+<text x="800.0" y="463.0" text-anchor="middle" font-size="30" fill="#041e42">for investment banks</text>
+</svg>

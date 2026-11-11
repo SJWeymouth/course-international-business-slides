@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">S&amp;P CoreLogic Case-Shiller U.S. National Home Price Index, 1998 to 2020, January 2000 = 100</title>
+<desc id="desc">A line rising from 87 in January 1998 to a peak of 185 in July 2006, falling to a low of 134 in February 2012, highlighted, and recovering to 212 by January 2020.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">U.S. HOME PRICES, INDEX, JANUARY 2000 = 100</text>
+<line x1="80" y1="530.0" x2="960" y2="530.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="542.0" text-anchor="end" font-size="32" fill="#5b6672">50</text>
+<line x1="80" y1="422.5" x2="960" y2="422.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="434.5" text-anchor="end" font-size="32" fill="#5b6672">100</text>
+<line x1="80" y1="315.0" x2="960" y2="315.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="327.0" text-anchor="end" font-size="32" fill="#5b6672">150</text>
+<line x1="80" y1="207.5" x2="960" y2="207.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="219.5" text-anchor="end" font-size="32" fill="#5b6672">200</text>
+<line x1="80" y1="100.0" x2="960" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="112.0" text-anchor="end" font-size="32" fill="#5b6672">250</text>
+<text x="160.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2000</text>
+<text x="360.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2005</text>
+<text x="560.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2010</text>
+<text x="760.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2015</text>
+<text x="960.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2020</text>
+<rect x="420.0" y="100" width="223.3" height="430" fill="#8a7a5c" fill-opacity="0.15"/>
+<path d="M80.0 450.1 L120.0 438.2 L160.0 422.5 L200.0 402.7 L240.0 387.2 L280.0 363.0 L320.0 335.0 L360.0 293.2 L400.0 248.7 L420.0 240.6 L440.0 244.7 L480.0 269.7 L520.0 316.4 L560.0 325.7 L600.0 338.6 L640.0 349.1 L643.3 349.4 L680.0 327.2 L720.0 294.9 L760.0 280.1 L800.0 261.2 L840.0 240.6 L880.0 215.9 L920.0 198.5 L960.0 180.9" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="420.0" cy="240.6" r="9" fill="#041e42"/>
+<text x="420.0" y="218.6" text-anchor="middle" font-size="30" fill="#041e42">Peak, 2006</text>
+<circle cx="643.3" cy="349.4" r="9" fill="#8a7a5c"/>
+<text x="643.3" y="397.4" text-anchor="middle" font-size="30" font-weight="700" fill="#8a7a5c">−27%, 2012</text>
+</svg>

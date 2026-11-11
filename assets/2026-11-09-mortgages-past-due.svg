@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Share of single-family mortgages at U.S. banks 30 days or more past due, quarterly, 2000 to 2012, percent</title>
+<desc id="desc">A line in percent, with the years of falling home prices, July 2006 to February 2012, shaded. The share is about 2 from 2000 to 2006, 1.6 in early 2006, then rises to 3.7 in early 2008, 8.0 in early 2009, and a peak of 11.5 in early 2010, highlighted, and stays near 10 through 2012.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">MORTGAGES 30 DAYS OR MORE PAST DUE, PERCENT</text>
+<rect x="520.0" y="90" width="377.9" height="440" fill="#cdd9e6" opacity="0.55"/>
+<text x="709.0" y="516" text-anchor="middle" font-size="28" fill="#5b6672">Home prices falling</text>
+<line x1="80" y1="530.0" x2="960" y2="530.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="542.0" text-anchor="end" font-size="34" fill="#5b6672">0</text>
+<line x1="80" y1="422.5" x2="960" y2="422.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="434.5" text-anchor="end" font-size="34" fill="#5b6672">3</text>
+<line x1="80" y1="315.0" x2="960" y2="315.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="327.0" text-anchor="end" font-size="34" fill="#5b6672">6</text>
+<line x1="80" y1="207.5" x2="960" y2="207.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="219.5" text-anchor="end" font-size="34" fill="#5b6672">9</text>
+<line x1="80" y1="100.0" x2="960" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="112.0" text-anchor="end" font-size="34" fill="#5b6672">12</text>
+<text x="80.0" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2000</text>
+<text x="350.8" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2004</text>
+<text x="621.5" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2008</text>
+<text x="892.3" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2012</text>
+<path d="M88.5 460.1 L105.4 459.1 L122.3 455.1 L139.2 450.4 L156.2 446.1 L173.1 443.6 L190.0 451.5 L206.9 449.0 L223.8 449.7 L240.8 452.6 L257.7 454.8 L274.6 458.7 L291.5 459.1 L308.5 464.4 L325.4 468.0 L342.3 466.6 L359.2 471.2 L376.2 472.7 L393.1 474.1 L410.0 479.5 L426.9 479.1 L443.8 474.5 L460.8 473.0 L477.7 471.2 L494.6 472.3 L511.5 471.9 L528.5 467.6 L545.4 461.2 L562.3 455.5 L579.2 447.9 L596.2 432.9 L613.1 418.9 L630.0 398.1 L646.9 373.4 L663.8 341.5 L680.8 293.5 L697.7 243.7 L714.6 222.6 L731.5 189.9 L748.5 157.0 L765.4 118.6 L782.3 133.0 L799.2 148.4 L816.2 159.8 L833.1 158.4 L850.0 152.0 L866.9 153.8 L883.8 162.7 L900.8 159.8 L917.7 155.5 L934.6 154.8 L951.5 170.6" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="494.6" cy="472.3" r="9" fill="#041e42"/>
+<text x="494.6" y="450.3" text-anchor="middle" font-size="32" fill="#5b6672">2006: 1.6</text>
+<circle cx="765.4" cy="118.6" r="10" fill="#8a7a5c"/>
+<text x="747.4" y="128.6" text-anchor="end" font-size="32" font-weight="700" fill="#8a7a5c">2010: 11.5</text>
+</svg>

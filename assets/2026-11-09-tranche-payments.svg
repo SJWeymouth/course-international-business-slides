@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How one mortgage bond pays its layers, illustrative, dollars a month</title>
+<desc id="desc">Two stacked columns, filled from the bottom in order of payment. Normal month: homeowners pay 100 dollars; AAA gets 80, BBB 15, and first loss 5. Bad month: homeowners pay 85; AAA still gets 80, BBB gets 5 of its 15, and first loss gets nothing. The amounts not paid are drawn as dashed outlines.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">ONE MORTGAGE BOND, DOLLARS A MONTH, ILLUSTRATIVE</text>
+<rect x="10" y="74" width="28" height="28" fill="#041e42"/><text x="48" y="98" font-size="28" fill="#5b6672">AAA</text>
+<rect x="133" y="74" width="28" height="28" fill="#1f4e79"/><text x="171" y="98" font-size="28" fill="#5b6672">BBB</text>
+<rect x="256" y="74" width="28" height="28" fill="#5b6672"/><text x="294" y="98" font-size="28" fill="#5b6672">First loss</text>
+<rect x="486" y="76" width="24" height="24" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="6 4"/><text x="522" y="98" font-size="28" fill="#5b6672">Owed, not paid</text>
+<line x1="40" y1="484" x2="40" y2="166" stroke="#5b6672" stroke-width="4"/>
+<polygon points="40,146 28,170 52,170" fill="#5b6672"/>
+<text x="0" y="0" transform="translate(24 315.0) rotate(-90)" text-anchor="middle" font-size="26" fill="#5b6672">ORDER OF PAYMENT</text>
+<rect x="197.5" y="210.0" width="230.0" height="280.0" fill="#041e42" stroke="#ffffff" stroke-width="2"/>
+<text x="312.5" y="361.0" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$80</text>
+<rect x="197.5" y="157.5" width="230.0" height="52.5" fill="#1f4e79" stroke="#ffffff" stroke-width="2"/>
+<text x="312.5" y="194.8" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$15</text>
+<rect x="197.5" y="140.0" width="230.0" height="17.5" fill="#5b6672" stroke="#ffffff" stroke-width="2"/>
+<text x="439.5" y="157.8" font-size="26" font-weight="700" fill="#5b6672">$5</text>
+<text x="312.5" y="530" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">Normal month</text>
+<text x="312.5" y="568" text-anchor="middle" font-size="30" fill="#5b6672">$100 paid in</text>
+<rect x="642.5" y="210.0" width="230.0" height="280.0" fill="#041e42" stroke="#ffffff" stroke-width="2"/>
+<text x="757.5" y="361.0" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$80</text>
+<rect x="642.5" y="192.5" width="230.0" height="17.5" fill="#1f4e79" stroke="#ffffff" stroke-width="2"/>
+<text x="884.5" y="210.2" font-size="26" font-weight="700" fill="#1f4e79">$5</text>
+<rect x="644.5" y="157.5" width="226.0" height="35.0" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<rect x="644.5" y="140.0" width="226.0" height="17.5" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<text x="757.5" y="530" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">Bad month</text>
+<text x="757.5" y="568" text-anchor="middle" font-size="30" fill="#5b6672">$85 paid in</text>
+<line x1="70" y1="490" x2="980" y2="490" stroke="#5b6672" stroke-width="2"/>
+</svg>

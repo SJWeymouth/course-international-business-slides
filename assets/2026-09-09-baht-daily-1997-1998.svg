@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="570" viewBox="0 0 1400 570" role="img" aria-labelledby="title desc">
+  <title id="title">Thai baht per U.S. dollar during the 1997 financial crisis</title>
+  <desc id="desc">Daily FRED observations show the Thai baht near 25 per U.S. dollar before the July 2, 1997 float, rising above 50 in January 1998, then settling near 36.5 by the end of 1998. A higher number means a weaker baht.</desc>
+  <rect width="1400" height="570" fill="#ffffff"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="120" y="40" font-size="28" font-weight="700" fill="#041e42">Thai baht per U.S. dollar, 1997-1998</text>
+    <text x="1320" y="40" text-anchor="end" font-size="22" fill="#9a4a42">Higher = weaker baht</text>
+
+    <rect x="418" y="70" width="320" height="385" fill="#f1e5e2" opacity="0.64"/>
+    <text x="432" y="96" font-size="20" font-weight="700" fill="#9a4a42">July 2 float</text>
+
+    <g stroke="#d8e1eb" stroke-width="2">
+      <line x1="120" y1="455" x2="1320" y2="455"/>
+      <line x1="120" y1="358.8" x2="1320" y2="358.8"/>
+      <line x1="120" y1="262.5" x2="1320" y2="262.5"/>
+      <line x1="120" y1="166.3" x2="1320" y2="166.3"/>
+      <line x1="120" y1="70" x2="1320" y2="70"/>
+    </g>
+    <line x1="120" y1="455" x2="1320" y2="455" stroke="#7088a4" stroke-width="3"/>
+    <line x1="120" y1="70" x2="120" y2="455" stroke="#7088a4" stroke-width="3"/>
+    <line x1="418" y1="70" x2="418" y2="455" stroke="#9a4a42" stroke-width="3" stroke-dasharray="10 8"/>
+
+    <g font-size="23" fill="#3d4b5b" text-anchor="end">
+      <text x="100" y="463">20</text>
+      <text x="100" y="366.8">30</text>
+      <text x="100" y="270.5">40</text>
+      <text x="100" y="174.3">50</text>
+      <text x="100" y="78">60</text>
+    </g>
+    <text transform="translate(35 318) rotate(-90)" font-size="24" font-weight="700" fill="#041e42">Baht per U.S. dollar</text>
+
+    <path d="M120.0 400.9 L314.5 396.0 L415.1 405.4 L418.4 357.0 L456.3 337.1 L514.0 315.4 L566.7 302.4 L617.8 257.7 L718.4 197.1 L738.1 107.5 L814.0 232.2 L866.7 266.4 L964.0 258.3 L1067.8 253.4 L1168.4 266.1 L1320.0 296.2" fill="none" stroke="#041e42" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+
+    <g fill="#365f91">
+      <circle cx="120.0" cy="400.9" r="8"/>
+      <circle cx="418.4" cy="357.0" r="10" fill="#9a4a42"/>
+      <circle cx="738.1" cy="107.5" r="11" fill="#9a4a42"/>
+      <circle cx="1320.0" cy="296.2" r="8"/>
+    </g>
+
+    <g font-size="22" fill="#3d4b5b" text-anchor="middle">
+      <text x="120" y="500">Jan 1997</text>
+      <text x="418" y="500">Jul 1997</text>
+      <text x="718" y="500">Jan 1998</text>
+      <text x="1020" y="500">Jul 1998</text>
+      <text x="1320" y="500">Dec 1998</text>
+    </g>
+
+    <g font-size="24" font-weight="700">
+      <text x="150" y="386" fill="#365f91">25.6</text>
+      <text x="440" y="342" fill="#9a4a42">30.2</text>
+      <text x="760" y="102" fill="#9a4a42">56.1</text>
+      <text x="1250" y="285" fill="#365f91">36.5</text>
+    </g>
+
+    <text x="120" y="545" font-size="20" fill="#66717d">Source: FRED DEXTHUS, Board of Governors H.10 daily noon buying rates. Selected daily observations plotted from Jan. 2, 1997 to Dec. 31, 1998.</text>
+  </g>
+</svg>

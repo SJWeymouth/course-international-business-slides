@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How a CDO built from the BBB layers of 10 mortgage bonds pays its own layers, illustrative, dollars a month</title>
+<desc id="desc">Three stacked columns, filled from the bottom in order of payment. The CDO holds the BBB layers of 10 mortgage bonds; each pays the CDO 15 dollars in a normal month and 5 in a bad month. All 10 normal: 150 paid in; CDO AAA gets 120, CDO BBB 22.50, first loss 7.50. One of 10 bad: 140 paid in; CDO AAA still gets 120, CDO BBB 20, first loss nothing. All 10 bad: 50 paid in; CDO AAA gets 50 of its 120 and is 70 dollars short, highlighted.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">ONE CDO, DOLLARS A MONTH, ILLUSTRATIVE</text>
+<rect x="10" y="74" width="28" height="28" fill="#041e42"/><text x="48" y="98" font-size="28" fill="#5b6672">CDO AAA</text>
+<rect x="193" y="74" width="28" height="28" fill="#1f4e79"/><text x="231" y="98" font-size="28" fill="#5b6672">CDO BBB</text>
+<rect x="376" y="74" width="28" height="28" fill="#5b6672"/><text x="414" y="98" font-size="28" fill="#5b6672">First loss</text>
+<rect x="606" y="76" width="24" height="24" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="6 4"/><text x="642" y="98" font-size="28" fill="#5b6672">Owed, not paid</text>
+<line x1="40" y1="484" x2="40" y2="166" stroke="#5b6672" stroke-width="4"/>
+<polygon points="40,146 28,170 52,170" fill="#5b6672"/>
+<text x="0" y="0" transform="translate(24 315.0) rotate(-90)" text-anchor="middle" font-size="26" fill="#5b6672">ORDER OF PAYMENT</text>
+<rect x="149.3" y="210.0" width="178.0" height="280.0" fill="#041e42" stroke="#ffffff" stroke-width="2"/>
+<text x="238.3" y="361.0" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$120</text>
+<rect x="149.3" y="157.5" width="178.0" height="52.5" fill="#1f4e79" stroke="#ffffff" stroke-width="2"/>
+<text x="238.3" y="194.8" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$22.50</text>
+<rect x="149.3" y="140.0" width="178.0" height="17.5" fill="#5b6672" stroke="#ffffff" stroke-width="2"/>
+<text x="339.3" y="157.8" font-size="26" font-weight="700" fill="#5b6672">$7.50</text>
+<text x="238.3" y="530" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">All 10 normal</text>
+<text x="238.3" y="568" text-anchor="middle" font-size="30" fill="#5b6672">$150 paid in</text>
+<rect x="446.0" y="210.0" width="178.0" height="280.0" fill="#041e42" stroke="#ffffff" stroke-width="2"/>
+<text x="535.0" y="361.0" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$120</text>
+<rect x="446.0" y="163.3" width="178.0" height="46.7" fill="#1f4e79" stroke="#ffffff" stroke-width="2"/>
+<text x="535.0" y="197.7" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$20</text>
+<rect x="448.0" y="157.5" width="174.0" height="5.8" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<rect x="448.0" y="140.0" width="174.0" height="17.5" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<text x="535.0" y="530" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">One of 10 bad</text>
+<text x="535.0" y="568" text-anchor="middle" font-size="30" fill="#5b6672">$140 paid in</text>
+<rect x="742.7" y="373.3" width="178.0" height="116.7" fill="#041e42" stroke="#ffffff" stroke-width="2"/>
+<text x="831.7" y="442.7" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">$50</text>
+<rect x="744.7" y="210.0" width="174.0" height="163.3" fill="none" stroke="#8a7a5c" stroke-width="4" stroke-dasharray="10 7"/>
+<text x="831.7" y="302.7" text-anchor="middle" font-size="30" font-weight="700" fill="#8a7a5c">$70 short</text>
+<rect x="744.7" y="157.5" width="174.0" height="52.5" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<rect x="744.7" y="140.0" width="174.0" height="17.5" fill="none" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="10 7"/>
+<text x="831.7" y="530" text-anchor="middle" font-size="30" font-weight="700" fill="#041e42">All 10 bad</text>
+<text x="831.7" y="568" text-anchor="middle" font-size="30" fill="#5b6672">$50 paid in</text>
+<line x1="70" y1="490" x2="980" y2="490" stroke="#5b6672" stroke-width="2"/>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="340" viewBox="0 0 1600 340" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Course map: the nine modules of the course</title>
+<desc id="desc">Nine circles on a line, one per module: 1 Simple product, 2 Trade, 3 Borders, 4 Multinationals, all filled; 5 Bargaining, larger and highlighted; 6 Energy, 7 Backlash, 8 Shocks, 9 Governance, open. A bracket over Modules 1 to 4 reads How firms organize; a bracket over Modules 5 to 9 reads Firms and governments. A tick between Modules 4 and 5 marks the midterm.</desc>
+<rect width="1600" height="340" fill="#ffffff"/>
+<path d="M60.0,112 L60.0,96 L665.0,96 L665.0,112" fill="none" stroke="#5b6672" stroke-width="2"/>
+<text x="362.5" y="72" text-anchor="middle" font-size="32" font-weight="600" letter-spacing="1" fill="#1f4e79">HOW FIRMS ORGANIZE</text>
+<path d="M760.0,112 L760.0,96 L1540.0,96 L1540.0,112" fill="none" stroke="#5b6672" stroke-width="2"/>
+<text x="1150.0" y="72" text-anchor="middle" font-size="32" font-weight="600" letter-spacing="1" fill="#1f4e79">FIRMS AND GOVERNMENTS</text>
+<line x1="100.0" y1="230" x2="800.0" y2="230" stroke="#041e42" stroke-width="4"/>
+<line x1="800.0" y1="230" x2="1500.0" y2="230" stroke="#5b6672" stroke-width="3" stroke-dasharray="10 10"/>
+<line x1="712.5" y1="204" x2="712.5" y2="256" stroke="#5b6672" stroke-width="3"/>
+<text x="712.5" y="190" text-anchor="middle" font-size="26" fill="#5b6672">Midterm</text>
+<circle cx="100.0" cy="230" r="22" fill="#041e42"/>
+<text x="100.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">1</text>
+<text x="100.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#041e42">Simple product</text>
+<circle cx="275.0" cy="230" r="22" fill="#041e42"/>
+<text x="275.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">2</text>
+<text x="275.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#041e42">Trade</text>
+<circle cx="450.0" cy="230" r="22" fill="#041e42"/>
+<text x="450.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">3</text>
+<text x="450.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#041e42">Borders</text>
+<circle cx="625.0" cy="230" r="22" fill="#041e42"/>
+<text x="625.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#ffffff">4</text>
+<text x="625.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#041e42">Multinationals</text>
+<circle cx="800.0" cy="230" r="32" fill="#8a7a5c"/>
+<text x="800.0" y="240" text-anchor="middle" font-size="30" font-weight="700" fill="#ffffff">5</text>
+<text x="800.0" y="316" text-anchor="middle" font-size="26" font-weight="700" fill="#8a7a5c">Bargaining</text>
+<circle cx="975.0" cy="230" r="22" fill="#ffffff" stroke="#5b6672" stroke-width="3"/>
+<text x="975.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#5b6672">6</text>
+<text x="975.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#5b6672">Energy</text>
+<circle cx="1150.0" cy="230" r="22" fill="#ffffff" stroke="#5b6672" stroke-width="3"/>
+<text x="1150.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#5b6672">7</text>
+<text x="1150.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#5b6672">Backlash</text>
+<circle cx="1325.0" cy="230" r="22" fill="#ffffff" stroke="#5b6672" stroke-width="3"/>
+<text x="1325.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#5b6672">8</text>
+<text x="1325.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#5b6672">Shocks</text>
+<circle cx="1500.0" cy="230" r="22" fill="#ffffff" stroke="#5b6672" stroke-width="3"/>
+<text x="1500.0" y="240" text-anchor="middle" font-size="26" font-weight="700" fill="#5b6672">9</text>
+<text x="1500.0" y="316" text-anchor="middle" font-size="26" font-weight="400" fill="#5b6672">Governance</text>
+</svg>

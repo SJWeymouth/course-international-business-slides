@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Percent of U.S. adults with a great deal or quite a lot of confidence in banks, 1979 to 2026</title>
+<desc id="desc">A line chart in percent: 60 in 1979, 36 in 1990, 53 in 2004, 41 in 2007, 32 in 2008, 22 in 2009, a record low of 21 in 2012, highlighted, 38 in 2020, and 28 in 2026.</desc>
+<rect width="1600" height="470" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">CONFIDENCE IN BANKS, PERCENT OF U.S. ADULTS</text>
+<line x1="70" y1="410.0" x2="1560" y2="410.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="420.0" text-anchor="end" font-size="30" fill="#5b6672">0</text>
+<line x1="70" y1="315.7" x2="1560" y2="315.7" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="325.7" text-anchor="end" font-size="30" fill="#5b6672">20</text>
+<line x1="70" y1="221.4" x2="1560" y2="221.4" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="231.4" text-anchor="end" font-size="30" fill="#5b6672">40</text>
+<line x1="70" y1="127.1" x2="1560" y2="127.1" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="137.1" text-anchor="end" font-size="30" fill="#5b6672">60</text>
+<text x="101.7" y="452" text-anchor="middle" font-size="30" fill="#5b6672">1980</text>
+<text x="418.7" y="452" text-anchor="middle" font-size="30" fill="#5b6672">1990</text>
+<text x="735.7" y="452" text-anchor="middle" font-size="30" fill="#5b6672">2000</text>
+<text x="1052.8" y="452" text-anchor="middle" font-size="30" fill="#5b6672">2010</text>
+<text x="1369.8" y="452" text-anchor="middle" font-size="30" fill="#5b6672">2020</text>
+<rect x="979.9" y="70" width="57.1" height="340" fill="#cdd9e6" opacity="0.6"/>
+<text x="1043.3" y="100" text-anchor="start" font-size="30" fill="#5b6672">Financial crisis</text>
+<path d="M70.0 127.1 L133.4 188.4 L196.8 169.6 L228.5 169.6 L260.2 169.6 L291.9 179.0 L323.6 169.6 L355.3 179.0 L387.0 212.0 L418.7 240.3 L450.4 259.1 L513.8 235.6 L545.5 245.0 L577.2 207.3 L608.9 202.6 L640.6 216.7 L672.3 221.4 L704.0 207.3 L735.7 193.1 L767.4 202.6 L799.1 188.4 L830.9 174.3 L862.6 160.1 L894.3 179.0 L926.0 179.0 L957.7 216.7 L989.4 259.1 L1021.1 306.3 L1052.8 301.6 L1084.5 301.6 L1116.2 311.0 L1147.9 287.4 L1179.6 287.4 L1211.3 278.0 L1243.0 282.7 L1274.7 259.1 L1306.4 268.6 L1338.1 268.6 L1369.8 230.9 L1401.5 254.4 L1433.2 282.7 L1464.9 287.4 L1496.6 282.7 L1528.3 268.6 L1560.0 278.0" fill="none" stroke="#041e42" stroke-width="5" stroke-linejoin="round"/>
+<circle cx="70.0" cy="127.1" r="8" fill="#041e42"/><text x="70.0" y="111.1" text-anchor="start" font-size="30" fill="#5b6672">1979: 60</text>
+<circle cx="862.6" cy="160.1" r="8" fill="#041e42"/><text x="862.6" y="144.1" text-anchor="middle" font-size="30" fill="#5b6672">2004: 53</text>
+<circle cx="1116.2" cy="311.0" r="9" fill="#8a7a5c"/><text x="1116.2" y="355.0" text-anchor="middle" font-size="30" font-weight="700" fill="#8a7a5c">2012: 21</text>
+<circle cx="1560.0" cy="278.0" r="8" fill="#041e42"/><text x="1560.0" y="258.0" text-anchor="end" font-size="30" fill="#5b6672">2026: 28</text>
+</svg>
