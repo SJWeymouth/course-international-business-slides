@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Failures and forced sales of financial firms, April 2007 to October 2008</title>
+<desc id="desc">A timeline. 2007: New Century bankrupt (April); Bear Stearns hedge funds fail and BNP Paribas freezes funds (July and August); run on Northern Rock (September). 2008: Countrywide sold to Bank of America (January); Bear Stearns sold to JPMorgan (March); IndyMac fails (July); then, highlighted, within four weeks of September and October 2008: Fannie Mae and Freddie Mac taken over, Lehman bankrupt, Merrill Lynch sold, AIG rescued, Washington Mutual seized, and Wachovia sold.</desc>
+<rect width="1600" height="400" fill="#ffffff"/>
+<line x1="90" y1="215" x2="980" y2="215" stroke="#5b6672" stroke-width="4"/>
+<line x1="526" y1="201" x2="526" y2="229" stroke="#5b6672" stroke-width="3"/>
+<text x="80" y="226" text-anchor="end" font-size="30" fill="#5b6672">2007</text>
+<text x="526" y="380" text-anchor="middle" font-size="30" fill="#5b6672">2008</text>
+<line x1="526" y1="229" x2="526" y2="345" stroke="#cdd9e6" stroke-width="2"/>
+<line x1="120.0" y1="215" x2="120.0" y2="179" stroke="#041e42" stroke-width="3"/>
+<circle cx="120.0" cy="215" r="11" fill="#041e42"/>
+<text x="120.0" y="131.0" text-anchor="middle" font-size="28" fill="#041e42">New Century</text>
+<text x="120.0" y="165.0" text-anchor="middle" font-size="28" fill="#041e42">bankrupt</text>
+<line x1="300.6" y1="215" x2="300.6" y2="251" stroke="#041e42" stroke-width="3"/>
+<circle cx="300.6" cy="215" r="11" fill="#041e42"/>
+<text x="300.6" y="285.0" text-anchor="middle" font-size="28" fill="#041e42">Bear Stearns funds fail;</text>
+<text x="300.6" y="319.0" text-anchor="middle" font-size="28" fill="#041e42">BNP Paribas freezes funds</text>
+<line x1="366.1" y1="215" x2="366.1" y2="179" stroke="#041e42" stroke-width="3"/>
+<circle cx="366.1" cy="215" r="11" fill="#041e42"/>
+<text x="366.1" y="131.0" text-anchor="middle" font-size="28" fill="#041e42">Run on</text>
+<text x="366.1" y="165.0" text-anchor="middle" font-size="28" fill="#041e42">Northern Rock</text>
+<line x1="542.3" y1="215" x2="542.3" y2="95" stroke="#041e42" stroke-width="3"/>
+<circle cx="542.3" cy="215" r="11" fill="#041e42"/>
+<text x="542.3" y="47.0" text-anchor="middle" font-size="28" fill="#041e42">Countrywide</text>
+<text x="542.3" y="81.0" text-anchor="middle" font-size="28" fill="#041e42">sold</text>
+<line x1="639.4" y1="215" x2="639.4" y2="251" stroke="#041e42" stroke-width="3"/>
+<circle cx="639.4" cy="215" r="11" fill="#041e42"/>
+<text x="639.4" y="285.0" text-anchor="middle" font-size="28" fill="#041e42">Bear Stearns</text>
+<text x="639.4" y="319.0" text-anchor="middle" font-size="28" fill="#041e42">sold</text>
+<line x1="813.2" y1="215" x2="813.2" y2="179" stroke="#041e42" stroke-width="3"/>
+<circle cx="813.2" cy="215" r="11" fill="#041e42"/>
+<text x="813.2" y="131.0" text-anchor="middle" font-size="28" fill="#041e42">IndyMac</text>
+<text x="813.2" y="165.0" text-anchor="middle" font-size="28" fill="#041e42">fails</text>
+<rect x="888.8" y="199" width="56.6" height="32" fill="#8a7a5c"/>
+<text x="1040" y="60" font-size="30" font-weight="700" fill="#8a7a5c">Four weeks in 2008</text>
+<text x="1040" y="108" font-size="27" fill="#041e42" xml:space="preserve">Sept. 7: Fannie Mae and Freddie Mac</text>
+<text x="1040" y="148" font-size="27" fill="#041e42" xml:space="preserve">   taken over</text>
+<text x="1040" y="188" font-size="27" fill="#041e42" xml:space="preserve">Sept. 15: Lehman fails; Merrill sold</text>
+<text x="1040" y="228" font-size="27" fill="#041e42" xml:space="preserve">Sept. 16: AIG rescued</text>
+<text x="1040" y="268" font-size="27" fill="#041e42" xml:space="preserve">Sept. 25: Washington Mutual seized</text>
+<text x="1040" y="308" font-size="27" fill="#041e42" xml:space="preserve">Oct. 3: Wachovia sold</text>
+<path d="M945.4 215 C 967.4 215, 1000 215, 1030 195" fill="none" stroke="#8a7a5c" stroke-width="3"/>
+</svg>

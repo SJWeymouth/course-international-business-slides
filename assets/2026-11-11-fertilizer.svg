@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="470" viewBox="0 0 1600 470" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">World prices of urea and diammonium phosphate, January 2025 to October 2026, indexed to February 2026 = 100</title>
+<desc id="desc">Two lines indexed to February 2026 = 100, when urea cost 472 dollars a ton and diammonium phosphate 627. Urea, in navy, jumps to 182 in April 2026 and falls to 89 by October. Diammonium phosphate, highlighted, rises steadily to 128 in October.</desc>
+<rect width="1600" height="470" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">INDEX, FEBRUARY 2026 = 100 (UREA $472 A TON, PHOSPHATE $627)</text>
+<line x1="80" y1="410.0" x2="1340" y2="410.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="420.0" text-anchor="end" font-size="30" fill="#5b6672">50</text>
+<line x1="80" y1="300.0" x2="1340" y2="300.0" stroke="#5b6672" stroke-width="2"/>
+<text x="66" y="310.0" text-anchor="end" font-size="30" fill="#5b6672">100</text>
+<line x1="80" y1="190.0" x2="1340" y2="190.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="200.0" text-anchor="end" font-size="30" fill="#5b6672">150</text>
+<line x1="80" y1="80.0" x2="1340" y2="80.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="90.0" text-anchor="end" font-size="30" fill="#5b6672">200</text>
+<text x="80.0" y="452" text-anchor="middle" font-size="30" fill="#5b6672">Jan. 2025</text>
+<text x="440.0" y="452" text-anchor="middle" font-size="30" fill="#5b6672">July 2025</text>
+<text x="800.0" y="452" text-anchor="middle" font-size="30" fill="#5b6672">Jan. 2026</text>
+<text x="1160.0" y="452" text-anchor="middle" font-size="30" fill="#5b6672">July 2026</text>
+<line x1="860.0" y1="70" x2="860.0" y2="410" stroke="#5b6672" stroke-width="2" stroke-dasharray="6 6"/>
+<text x="846.0" y="113.0" text-anchor="end" font-size="30" fill="#5b6672">War begins</text>
+<path d="M80.0 342.6 L140.0 316.5 L200.0 336.1 L260.0 339.7 L320.0 337.3 L380.0 324.0 L440.0 288.8 L500.0 283.4 L560.0 305.1 L620.0 336.2 L680.0 329.2 L740.0 337.1 L800.0 326.4 L860.0 300.0 L920.0 181.8 L980.0 120.6 L1040.0 160.9 L1100.0 308.8 L1160.0 333.6 L1220.0 338.2 L1280.0 330.1 L1340.0 324.2" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="1340.0" cy="324.2" r="9" fill="#041e42"/>
+<text x="1358.0" y="334.2" font-size="30" font-weight="700" fill="#041e42">Urea 89</text>
+<path d="M80.0 315.4 L140.0 308.0 L200.0 304.0 L260.0 297.0 L320.0 285.0 L380.0 268.8 L440.0 261.5 L500.0 240.8 L560.0 245.9 L620.0 255.2 L680.0 271.3 L740.0 299.6 L800.0 302.6 L860.0 300.0 L920.0 288.8 L980.0 265.3 L1040.0 249.8 L1100.0 244.8 L1160.0 245.6 L1220.0 241.4 L1280.0 238.9 L1340.0 238.0" fill="none" stroke="#8a7a5c" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="1340.0" cy="238.0" r="9" fill="#8a7a5c"/>
+<text x="1358.0" y="248.0" font-size="30" font-weight="700" fill="#8a7a5c">Phosphate 128</text>
+<circle cx="980.0" cy="120.6" r="9" fill="#041e42"/>
+<text x="996.0" y="124.6" font-size="30" fill="#5b6672">April 2026: 182</text>
+</svg>

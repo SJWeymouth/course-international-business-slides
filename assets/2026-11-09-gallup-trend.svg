@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Percent of U.S. adults with a positive view of capitalism and of socialism, 2010 to 2026</title>
+<desc id="desc">Two lines in percent. Capitalism: 61 in 2010 and 2012, 60 in 2016, 56 in 2018, 60 in 2019 and 2021, 54 in 2025, and 55 in 2026. Socialism, highlighted: 36 in 2010, 39 in 2012, 35 in 2016, 37 in 2018, 39 in 2019, 38 in 2021, 39 in 2025, and 43 in 2026.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">POSITIVE VIEW, PERCENT OF U.S. ADULTS</text>
+<line x1="80" y1="530.0" x2="770" y2="530.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="542.0" text-anchor="end" font-size="32" fill="#5b6672">0</text>
+<line x1="80" y1="422.5" x2="770" y2="422.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="434.5" text-anchor="end" font-size="32" fill="#5b6672">20</text>
+<line x1="80" y1="315.0" x2="770" y2="315.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="327.0" text-anchor="end" font-size="32" fill="#5b6672">40</text>
+<line x1="80" y1="207.5" x2="770" y2="207.5" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="219.5" text-anchor="end" font-size="32" fill="#5b6672">60</text>
+<line x1="80" y1="100.0" x2="770" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="112.0" text-anchor="end" font-size="32" fill="#5b6672">80</text>
+<text x="80.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2010</text>
+<text x="252.5" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2014</text>
+<text x="425.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2018</text>
+<text x="597.5" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2022</text>
+<text x="770.0" y="574" text-anchor="middle" font-size="32" fill="#5b6672">2026</text>
+<path d="M80.0 202.1 L166.2 202.1 L338.8 207.5 L425.0 229.0 L468.1 207.5 L554.4 207.5 L726.9 239.8 L770.0 234.4" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="80.0" cy="202.1" r="7" fill="#041e42"/>
+<circle cx="166.2" cy="202.1" r="7" fill="#041e42"/>
+<circle cx="338.8" cy="207.5" r="7" fill="#041e42"/>
+<circle cx="425.0" cy="229.0" r="7" fill="#041e42"/>
+<circle cx="468.1" cy="207.5" r="7" fill="#041e42"/>
+<circle cx="554.4" cy="207.5" r="7" fill="#041e42"/>
+<circle cx="726.9" cy="239.8" r="7" fill="#041e42"/>
+<circle cx="770.0" cy="234.4" r="7" fill="#041e42"/>
+<text x="80.0" y="184.1" text-anchor="start" font-size="32" fill="#5b6672">61</text>
+<text x="788.0" y="245.4" font-size="32" font-weight="700" fill="#041e42">Capitalism 55</text>
+<path d="M80.0 336.5 L166.2 320.4 L338.8 341.9 L425.0 331.1 L468.1 320.4 L554.4 325.8 L726.9 320.4 L770.0 298.9" fill="none" stroke="#8a7a5c" stroke-width="6" stroke-linejoin="round"/>
+<circle cx="80.0" cy="336.5" r="7" fill="#8a7a5c"/>
+<circle cx="166.2" cy="320.4" r="7" fill="#8a7a5c"/>
+<circle cx="338.8" cy="341.9" r="7" fill="#8a7a5c"/>
+<circle cx="425.0" cy="331.1" r="7" fill="#8a7a5c"/>
+<circle cx="468.1" cy="320.4" r="7" fill="#8a7a5c"/>
+<circle cx="554.4" cy="325.8" r="7" fill="#8a7a5c"/>
+<circle cx="726.9" cy="320.4" r="7" fill="#8a7a5c"/>
+<circle cx="770.0" cy="298.9" r="7" fill="#8a7a5c"/>
+<text x="80.0" y="318.5" text-anchor="start" font-size="32" fill="#5b6672">36</text>
+<text x="788.0" y="309.9" font-size="32" font-weight="700" fill="#8a7a5c">Socialism 43</text>
+</svg>

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Names on U.S. Treasury sanctions lists at year end, 2000 to 2021</title>
+<desc id="desc">Vertical columns rising every year from 912 in 2000 to 9,421 in 2021, highlighted, about ten times as many.</desc>
+<rect width="1000" height="640" fill="#ffffff"/>
+<text x="10" y="40" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">NAMES ON THE LISTS, END OF YEAR</text>
+<line x1="70" y1="580.0" x2="990" y2="580.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="589.0" text-anchor="end" font-size="26" fill="#5b6672">0K</text>
+<line x1="70" y1="482.0" x2="990" y2="482.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="491.0" text-anchor="end" font-size="26" fill="#5b6672">2K</text>
+<line x1="70" y1="384.0" x2="990" y2="384.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="393.0" text-anchor="end" font-size="26" fill="#5b6672">4K</text>
+<line x1="70" y1="286.0" x2="990" y2="286.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="295.0" text-anchor="end" font-size="26" fill="#5b6672">6K</text>
+<line x1="70" y1="188.0" x2="990" y2="188.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="197.0" text-anchor="end" font-size="26" fill="#5b6672">8K</text>
+<line x1="70" y1="90.0" x2="990" y2="90.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="58" y="99.0" text-anchor="end" font-size="26" fill="#5b6672">10K</text>
+<rect x="75.9" y="535.3" width="30.1" height="44.7" fill="#041e42"/>
+<text x="90.9" y="618" text-anchor="middle" font-size="26" fill="#5b6672">2000</text>
+<text x="90.9" y="523.3" text-anchor="middle" font-size="28" font-weight="400" fill="#5b6672">912</text>
+<rect x="117.7" y="527.1" width="30.1" height="52.9" fill="#041e42"/>
+<rect x="159.5" y="519.2" width="30.1" height="60.8" fill="#041e42"/>
+<rect x="201.3" y="494.7" width="30.1" height="85.3" fill="#041e42"/>
+<rect x="243.1" y="475.6" width="30.1" height="104.4" fill="#041e42"/>
+<rect x="284.9" y="457.0" width="30.1" height="123.0" fill="#041e42"/>
+<text x="300.0" y="618" text-anchor="middle" font-size="26" fill="#5b6672">2005</text>
+<rect x="326.8" y="442.3" width="30.1" height="137.7" fill="#041e42"/>
+<rect x="368.6" y="421.7" width="30.1" height="158.3" fill="#041e42"/>
+<rect x="410.4" y="396.2" width="30.1" height="183.8" fill="#041e42"/>
+<rect x="452.2" y="380.1" width="30.1" height="199.9" fill="#041e42"/>
+<rect x="494.0" y="350.7" width="30.1" height="229.3" fill="#041e42"/>
+<text x="509.1" y="618" text-anchor="middle" font-size="26" fill="#5b6672">2010</text>
+<rect x="535.9" y="329.6" width="30.1" height="250.4" fill="#041e42"/>
+<rect x="577.7" y="312.0" width="30.1" height="268.0" fill="#041e42"/>
+<rect x="619.5" y="295.8" width="30.1" height="284.2" fill="#041e42"/>
+<rect x="661.3" y="287.0" width="30.1" height="293.0" fill="#041e42"/>
+<rect x="703.1" y="277.7" width="30.1" height="302.3" fill="#041e42"/>
+<text x="718.2" y="618" text-anchor="middle" font-size="26" fill="#5b6672">2015</text>
+<rect x="744.9" y="269.8" width="30.1" height="310.2" fill="#041e42"/>
+<rect x="786.8" y="244.4" width="30.1" height="335.6" fill="#041e42"/>
+<rect x="828.6" y="199.8" width="30.1" height="380.2" fill="#041e42"/>
+<rect x="870.4" y="166.9" width="30.1" height="413.1" fill="#041e42"/>
+<rect x="912.2" y="133.6" width="30.1" height="446.4" fill="#041e42"/>
+<rect x="954.0" y="118.4" width="30.1" height="461.6" fill="#8a7a5c"/>
+<text x="969.1" y="618" text-anchor="middle" font-size="26" fill="#5b6672">2021</text>
+<text x="956.0" y="106.4" text-anchor="middle" font-size="28" font-weight="700" fill="#8a7a5c">9,421</text>
+</svg>

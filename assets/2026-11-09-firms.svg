@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="618" viewBox="0 0 1600 618" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">What sank each firm in 2007 and 2008</title>
+<desc id="desc">A table of eight firms with what sank each and what happened to it. Countrywide: risky loans it made, then lost its funding; sold to Bank of America, January 2008. Bear Stearns: mortgage bonds bought with overnight loans; sold to JPMorgan, March 2008. Fannie Mae and Freddie Mac: mortgage guarantees on too little capital; government takeover, September 2008. Lehman Brothers: mortgage bonds and commercial property; bankrupt, September 15, 2008. Merrill Lynch: top layers of its own CDOs; sold to Bank of America, September 2008. AIG: credit default swaps insuring CDOs; Fed loan, September 16, 2008. Washington Mutual: risky loans, and depositors pulled out; seized and sold to JPMorgan, September 2008. Citigroup: CDOs and its off-books funds; government rescues, November 2008. The three rows where CDOs did the damage, Merrill Lynch, AIG, and Citigroup, are highlighted.</desc>
+<rect width="1600" height="618" fill="#ffffff"/>
+<text x="10" y="46" font-size="26" font-weight="600" letter-spacing="1.2" fill="#1f4e79">FIRM</text>
+<text x="410" y="46" font-size="26" font-weight="600" letter-spacing="1.2" fill="#1f4e79">WHAT SANK IT</text>
+<text x="1050" y="46" font-size="26" font-weight="600" letter-spacing="1.2" fill="#1f4e79">WHAT HAPPENED</text>
+<line x1="0" y1="138" x2="1600" y2="138" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="118" font-size="28" font-weight="700" fill="#041e42">Countrywide</text>
+<text x="410" y="118" font-size="28" font-weight="400" fill="#041e42">Risky loans it made, then lost its funding</text>
+<text x="1050" y="118" font-size="28" fill="#5b6672">Sold to Bank of America, Jan. 2008</text>
+<line x1="0" y1="198" x2="1600" y2="198" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="178" font-size="28" font-weight="700" fill="#041e42">Bear Stearns</text>
+<text x="410" y="178" font-size="28" font-weight="400" fill="#041e42">Mortgage bonds bought with overnight loans</text>
+<text x="1050" y="178" font-size="28" fill="#5b6672">Sold to JPMorgan, Mar. 2008</text>
+<line x1="0" y1="258" x2="1600" y2="258" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="238" font-size="28" font-weight="700" fill="#041e42">Fannie Mae, Freddie Mac</text>
+<text x="410" y="238" font-size="28" font-weight="400" fill="#041e42">Mortgage guarantees on too little capital</text>
+<text x="1050" y="238" font-size="28" fill="#5b6672">Government takeover, Sept. 2008</text>
+<line x1="0" y1="318" x2="1600" y2="318" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="298" font-size="28" font-weight="700" fill="#041e42">Lehman Brothers</text>
+<text x="410" y="298" font-size="28" font-weight="400" fill="#041e42">Mortgage bonds and commercial property</text>
+<text x="1050" y="298" font-size="28" fill="#5b6672">Bankrupt, Sept. 15, 2008</text>
+<rect x="0" y="318" width="1600" height="60" fill="#8a7a5c" opacity="0.14"/>
+<line x1="0" y1="378" x2="1600" y2="378" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="358" font-size="28" font-weight="700" fill="#041e42">Merrill Lynch</text>
+<text x="410" y="358" font-size="28" font-weight="700" fill="#8a7a5c">Top layers of its own CDOs</text>
+<text x="1050" y="358" font-size="28" fill="#5b6672">Sold to Bank of America, Sept. 2008</text>
+<rect x="0" y="378" width="1600" height="60" fill="#8a7a5c" opacity="0.14"/>
+<line x1="0" y1="438" x2="1600" y2="438" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="418" font-size="28" font-weight="700" fill="#041e42">AIG</text>
+<text x="410" y="418" font-size="28" font-weight="700" fill="#8a7a5c">Credit default swaps insuring CDOs</text>
+<text x="1050" y="418" font-size="28" fill="#5b6672">Fed loan, Sept. 16, 2008</text>
+<line x1="0" y1="498" x2="1600" y2="498" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="478" font-size="28" font-weight="700" fill="#041e42">Washington Mutual</text>
+<text x="410" y="478" font-size="28" font-weight="400" fill="#041e42">Risky loans; depositors pulled out</text>
+<text x="1050" y="478" font-size="28" fill="#5b6672">Seized, sold to JPMorgan, Sept. 2008</text>
+<rect x="0" y="498" width="1600" height="60" fill="#8a7a5c" opacity="0.14"/>
+<line x1="0" y1="558" x2="1600" y2="558" stroke="#cdd9e6" stroke-width="2"/>
+<text x="10" y="538" font-size="28" font-weight="700" fill="#041e42">Citigroup</text>
+<text x="410" y="538" font-size="28" font-weight="700" fill="#8a7a5c">CDOs and its off-books funds</text>
+<text x="1050" y="538" font-size="28" fill="#5b6672">Government rescues, Nov. 2008</text>
+<rect x="10" y="580" width="26" height="26" fill="#8a7a5c" opacity="0.35"/><text x="48" y="602" font-size="26" fill="#5b6672">Highlighted: losses mainly on CDOs</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Three variants of strategic digital sovereignty in the article</title>
+<desc id="desc">Diagram of three stacked boxes. AI mercantilism, United States and China: export controls and industrial policy to hold the AI stack. Alignment, UAE and Saudi Arabia, highlighted: capital, energy, or flexible rules offered for a place in a bloc. Regulatory sovereignty, European Union: market access offered for compliance with its law.</desc>
+<rect width="1000" height="640" fill="#ffffff"/>
+<rect x="10" y="6" width="980" height="190" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="10" y="6" width="980" height="60" fill="#041e42"/>
+<text x="34" y="47" font-size="29" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.5">AI MERCANTILISM</text>
+<text x="966" y="47" font-size="28" font-weight="400" fill="#ffffff" text-anchor="end">United States, China</text>
+<text x="34" y="114" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Export controls and industrial</text>
+<text x="34" y="156" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">policy to hold the AI stack</text>
+<rect x="10" y="224" width="980" height="190" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="10" y="224" width="980" height="60" fill="#8a7a5c"/>
+<text x="34" y="265" font-size="29" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.5">ALIGNMENT</text>
+<text x="966" y="265" font-size="28" font-weight="400" fill="#ffffff" text-anchor="end">UAE, Saudi Arabia</text>
+<text x="34" y="332" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Capital, energy, or flexible rules</text>
+<text x="34" y="374" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">offered for a place in a bloc</text>
+<rect x="10" y="442" width="980" height="190" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="10" y="442" width="980" height="60" fill="#041e42"/>
+<text x="34" y="483" font-size="29" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="1.5">REGULATORY SOVEREIGNTY</text>
+<text x="966" y="483" font-size="28" font-weight="400" fill="#ffffff" text-anchor="end">European Union</text>
+<text x="34" y="550" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Market access offered</text>
+<text x="34" y="592" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">for compliance with its law</text>
+</svg>

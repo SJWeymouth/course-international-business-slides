@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="520" viewBox="0 0 1400 520" role="img" aria-labelledby="title desc">
+  <title id="title">Corn Laws public hearing room assignment</title>
+  <desc id="desc">Landowners on the left side of the room, industrialists on the right, urban workers and consumers at the back, and the public hearing in the centre.</desc>
+  <rect width="1400" height="520" fill="#ffffff"/>
+  <rect x="55" y="35" width="1290" height="450" rx="28" fill="#f7f5f1" stroke="#c9c1ba" stroke-width="4"/>
+
+  <path d="M75 55 H455 V355 H75 Z" fill="#dce4ed"/>
+  <path d="M945 55 H1325 V355 H945 Z" fill="#d8e0e8"/>
+  <path d="M75 385 H1325 V465 H75 Z" fill="#e8ded5"/>
+  <circle cx="700" cy="205" r="112" fill="#041e42"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-weight="700">
+    <text x="265" y="218" fill="#041e42" font-size="40">LANDOWNERS</text>
+    <text x="1135" y="218" fill="#041e42" font-size="40">INDUSTRIALISTS</text>
+    <text x="700" y="195" fill="#ffffff" font-size="34">PUBLIC</text>
+    <text x="700" y="237" fill="#ffffff" font-size="34">HEARING</text>
+    <text x="700" y="438" fill="#041e42" font-size="34">WORKERS AND CONSUMERS</text>
+  </g>
+</svg>

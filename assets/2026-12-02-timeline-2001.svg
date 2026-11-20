@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="330" viewBox="0 0 1600 330" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How Argentina's one-to-one peg ended, March 2001 to January 2002</title>
+<desc id="desc">Timeline. March 2001: Cavallo returns as economy minister. July 2001: a zero-deficit law cuts public pay and pensions by up to 13 percent. December 1: bank withdrawals are limited to 250 dollars a week. December 20, highlighted: the president resigns amid riots. December 23: payments on foreign debt stop. January 2002: the one-to-one peg ends.</desc>
+<rect width="1600" height="330" fill="#ffffff"/>
+<line x1="30" y1="100" x2="1570" y2="100" stroke="#5b6672" stroke-width="4"/>
+<circle cx="150.0" cy="100" r="18" fill="#041e42"/>
+<text x="150.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">MAR 2001</text>
+<text x="150.0" y="172" font-size="26" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">CAVALLO</text>
+<text x="150.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">returns as</text>
+<text x="150.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">economy minister</text>
+<circle cx="410.0" cy="100" r="18" fill="#041e42"/>
+<text x="410.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">JUL 2001</text>
+<text x="410.0" y="172" font-size="26" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">ZERO DEFICIT</text>
+<text x="410.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">pay and pensions</text>
+<text x="410.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">cut up to 13%</text>
+<circle cx="670.0" cy="100" r="18" fill="#041e42"/>
+<text x="670.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">DEC 1</text>
+<text x="670.0" y="172" font-size="26" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">WITHDRAWALS</text>
+<text x="670.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">limited to $250</text>
+<text x="670.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">a week</text>
+<circle cx="930.0" cy="100" r="18" fill="#8a7a5c"/>
+<text x="930.0" y="60" font-size="36" font-weight="700" fill="#8a7a5c" text-anchor="middle">DEC 20</text>
+<text x="930.0" y="172" font-size="26" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1">RESIGNATION</text>
+<text x="930.0" y="216" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">president leaves</text>
+<text x="930.0" y="254" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">amid riots</text>
+<circle cx="1190.0" cy="100" r="18" fill="#041e42"/>
+<text x="1190.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">DEC 23</text>
+<text x="1190.0" y="172" font-size="26" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">DEFAULT</text>
+<text x="1190.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">foreign debt</text>
+<text x="1190.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">payments stop</text>
+<circle cx="1450.0" cy="100" r="18" fill="#041e42"/>
+<text x="1450.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">JAN 2002</text>
+<text x="1450.0" y="172" font-size="26" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">DEVALUATION</text>
+<text x="1450.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">one-to-one peg</text>
+<text x="1450.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">ends</text>
+</svg>

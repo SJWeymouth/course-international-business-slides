@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How the NSA copied Internet traffic at AT&amp;T in San Francisco</title>
+<desc id="desc">Diagram. A fiber-optic cable enters from the left and reaches a splitter. One beam continues right to its destination. A second, highlighted beam turns down to Room 641A, a copy for the NSA.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">AT&amp;T, 611 FOLSOM STREET, SAN FRANCISCO</text>
+<line x1="10" y1="220" x2="330" y2="220" stroke="#041e42" stroke-width="10"/>
+<text x="10" y="190" font-size="28" font-weight="700" fill="#041e42" text-anchor="start">FIBER CABLE</text>
+<polygon points="340,150 450,220 340,290" fill="#ffffff" stroke="#041e42" stroke-width="5"/>
+<text x="395" y="128" font-size="28" font-weight="700" fill="#041e42" text-anchor="middle">SPLITTER</text>
+<line x1="455.0" y1="220.0" x2="800.0" y2="220.0" stroke="#041e42" stroke-width="10"/>
+<polygon points="830.0,220.0 800.0,241.0 800.0,199.0" fill="#041e42"/>
+<text x="990" y="190" font-size="28" font-weight="700" fill="#041e42" text-anchor="end">DESTINATION</text>
+<polyline points="455,228 560,228 560,420" fill="none" stroke="#8a7a5c" stroke-width="10"/>
+<line x1="560.0" y1="410.0" x2="560.0" y2="418.0" stroke="#8a7a5c" stroke-width="10"/>
+<polygon points="560.0,448.0 539.0,418.0 581.0,418.0" fill="#8a7a5c"/>
+<rect x="380" y="452" width="360" height="120" fill="#8a7a5c"/>
+<text x="560" y="504" font-size="34" font-weight="700" fill="#ffffff" text-anchor="middle">ROOM 641A</text>
+<text x="560" y="548" font-size="28" font-weight="400" fill="#ffffff" text-anchor="middle">a copy for the NSA</text>
+</svg>

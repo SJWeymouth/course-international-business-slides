@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Five places where deep integration limits national choices, from Rodrik</title>
+<desc id="desc">Diagram of five boxes. Labor standards: outsourcing lets employers avoid national labor law. Corporate taxes: mobile capital pushes tax rates down. Health and safety: trade judges can overrule national standards. Investor lawsuits: foreign investors can sue over new regulation. Industrial policy: trade rules ban tools that East Asia used. Arrows from all five lead down to one highlighted bar labeled less room for voters to choose.</desc>
+<rect width="1600" height="420" fill="#ffffff"/>
+<rect x="26.0" y="16" width="292" height="216" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="26.0" y="16" width="292" height="60" fill="#041e42"/>
+<text x="172.0" y="57" font-size="29" font-weight="700" fill="#ffffff" text-anchor="middle">Labor standards</text>
+<text x="172.0" y="128" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Outsourcing lets</text>
+<text x="172.0" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">employers avoid</text>
+<text x="172.0" y="212" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">national labor law</text>
+<line x1="172.0" y1="238.0" x2="172.0" y2="282.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="172.0,300.0 159.4,282.0 184.6,282.0" fill="#5b6672"/>
+<rect x="340.0" y="16" width="292" height="216" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="340.0" y="16" width="292" height="60" fill="#041e42"/>
+<text x="486.0" y="57" font-size="29" font-weight="700" fill="#ffffff" text-anchor="middle">Corporate taxes</text>
+<text x="486.0" y="128" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Mobile capital</text>
+<text x="486.0" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">pushes tax rates</text>
+<text x="486.0" y="212" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">down</text>
+<line x1="486.0" y1="238.0" x2="486.0" y2="282.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="486.0,300.0 473.4,282.0 498.6,282.0" fill="#5b6672"/>
+<rect x="654.0" y="16" width="292" height="216" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="654.0" y="16" width="292" height="60" fill="#041e42"/>
+<text x="800.0" y="57" font-size="29" font-weight="700" fill="#ffffff" text-anchor="middle">Health and safety</text>
+<text x="800.0" y="128" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Trade judges can</text>
+<text x="800.0" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">overrule national</text>
+<text x="800.0" y="212" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">standards</text>
+<line x1="800.0" y1="238.0" x2="800.0" y2="282.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="800.0,300.0 787.4,282.0 812.6,282.0" fill="#5b6672"/>
+<rect x="968.0" y="16" width="292" height="216" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="968.0" y="16" width="292" height="60" fill="#041e42"/>
+<text x="1114.0" y="57" font-size="29" font-weight="700" fill="#ffffff" text-anchor="middle">Investor lawsuits</text>
+<text x="1114.0" y="128" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Foreign investors</text>
+<text x="1114.0" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">can sue over</text>
+<text x="1114.0" y="212" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">new regulation</text>
+<line x1="1114.0" y1="238.0" x2="1114.0" y2="282.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="1114.0,300.0 1101.4,282.0 1126.6,282.0" fill="#5b6672"/>
+<rect x="1282.0" y="16" width="292" height="216" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1282.0" y="16" width="292" height="60" fill="#041e42"/>
+<text x="1428.0" y="57" font-size="29" font-weight="700" fill="#ffffff" text-anchor="middle">Industrial policy</text>
+<text x="1428.0" y="128" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Trade rules ban</text>
+<text x="1428.0" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">tools that East</text>
+<text x="1428.0" y="212" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Asia used</text>
+<line x1="1428.0" y1="238.0" x2="1428.0" y2="282.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="1428.0,300.0 1415.4,282.0 1440.6,282.0" fill="#5b6672"/>
+<rect x="26.0" y="304" width="1548" height="92" fill="#8a7a5c"/>
+<text x="800.0" y="364" font-size="40" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">LESS ROOM FOR VOTERS TO CHOOSE</text>
+</svg>

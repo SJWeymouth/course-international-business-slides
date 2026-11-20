@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="596" viewBox="0 0 1000 596" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The maximum fine under five EU laws, as a percentage of a firm's worldwide annual sales</title>
+<desc id="desc">A chart of the maximum fine under five EU laws, as a percentage of a firm's worldwide annual sales: Digital Markets Act 10, and 20 if repeated; competition law 10; AI Act 7; Digital Services Act 6; GDPR 4.</desc>
+<rect width="1000" height="596" fill="#ffffff"/>
+<text x="10" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">MAXIMUM FINE, PERCENT OF WORLDWIDE ANNUAL SALES</text>
+<text x="10" y="124" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Digital Markets Act</text>
+<rect x="10" y="136" width="740.0" height="44" fill="#ffffff" stroke="#8a7a5c" stroke-width="3" stroke-dasharray="10 7"/>
+<text x="764.0" y="169" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="start">20 if repeated</text>
+<rect x="10" y="136" width="370.0" height="44" fill="#041e42"/>
+<text x="366.0" y="169" font-size="34" font-weight="700" fill="#ffffff" text-anchor="end">10</text>
+<text x="10" y="224" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Competition law</text>
+<rect x="10" y="236" width="370.0" height="44" fill="#041e42"/>
+<text x="394.0" y="269" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">10</text>
+<text x="10" y="324" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">AI Act</text>
+<rect x="10" y="336" width="259.0" height="44" fill="#041e42"/>
+<text x="283.0" y="369" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">7</text>
+<text x="10" y="424" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">Digital Services Act</text>
+<rect x="10" y="436" width="222.0" height="44" fill="#041e42"/>
+<text x="246.0" y="469" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">6</text>
+<text x="10" y="524" font-size="32" font-weight="400" fill="#041e42" text-anchor="start">GDPR (privacy)</text>
+<rect x="10" y="536" width="148.0" height="44" fill="#041e42"/>
+<text x="172.0" y="569" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">4</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Hourly compensation costs in manufacturing, 2008, US dollars</title>
+<desc id="desc">Horizontal bars from Germany at $48.22 down to China at $1.36 and India at $0.91 in 2005.</desc>
+<rect width="1600" height="600" fill="#ffffff"/>
+<text x="360" y="42" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">US DOLLARS PER HOUR, ALL EMPLOYEES IN MANUFACTURING, 2008</text>
+<text x="344" y="97.36" text-anchor="end" font-size="34" fill="#041e42">Germany</text>
+<rect x="360" y="70" width="1050.0" height="38" fill="#041e42"/>
+<text x="1422.0" y="97.36" font-size="34" fill="#5b6672">$48.22</text>
+<text x="344" y="146.36" text-anchor="end" font-size="34" fill="#041e42">United States</text>
+<rect x="360" y="119" width="702.5" height="38" fill="#041e42"/>
+<text x="1074.5" y="146.36" font-size="34" fill="#5b6672">$32.26</text>
+<text x="344" y="195.36" text-anchor="end" font-size="34" fill="#041e42">Japan</text>
+<rect x="360" y="168" width="605.4" height="38" fill="#041e42"/>
+<text x="977.4" y="195.36" font-size="34" fill="#5b6672">$27.80</text>
+<text x="344" y="244.36" text-anchor="end" font-size="34" fill="#041e42">Korea</text>
+<rect x="360" y="217" width="354.3" height="38" fill="#041e42"/>
+<text x="726.3" y="244.36" font-size="34" fill="#5b6672">$16.27</text>
+<text x="344" y="293.36" text-anchor="end" font-size="34" fill="#041e42">Taiwan</text>
+<rect x="360" y="266" width="189.0" height="38" fill="#041e42"/>
+<text x="561.0" y="293.36" font-size="34" fill="#5b6672">$8.68</text>
+<text x="344" y="342.36" text-anchor="end" font-size="34" fill="#041e42">Brazil</text>
+<rect x="360" y="315" width="180.3" height="38" fill="#041e42"/>
+<text x="552.3" y="342.36" font-size="34" fill="#5b6672">$8.28</text>
+<text x="344" y="391.36" text-anchor="end" font-size="34" fill="#041e42">Mexico</text>
+<rect x="360" y="364" width="88.0" height="38" fill="#041e42"/>
+<text x="460.0" y="391.36" font-size="34" fill="#5b6672">$4.04</text>
+<text x="344" y="440.36" text-anchor="end" font-size="34" fill="#041e42">Philippines</text>
+<rect x="360" y="413" width="36.6" height="38" fill="#041e42"/>
+<text x="408.6" y="440.36" font-size="34" fill="#5b6672">$1.68</text>
+<text x="344" y="489.36" text-anchor="end" font-size="34" fill="#041e42">China</text>
+<rect x="360" y="462" width="29.6" height="38" fill="#8a7a5c"/>
+<text x="401.6" y="489.36" font-size="34" fill="#5b6672">$1.36</text>
+<text x="344" y="538.36" text-anchor="end" font-size="34" fill="#041e42">India (2005)</text>
+<rect x="360" y="511" width="19.8" height="38" fill="#041e42"/>
+<text x="391.8" y="538.36" font-size="34" fill="#5b6672">$0.91</text>
+<line x1="360" y1="64" x2="360" y2="555" stroke="#5b6672" stroke-width="2"/>
+</svg>

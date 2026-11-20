@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Six steps from a click in Illinois to a doorstep 48 hours later</title>
+<desc id="desc">A vertical timeline: the customer clicks in the Illinois afternoon; seconds later the order prints in Shenzhen; the night shift packs it; a courier collects it at 9 a.m.; the flight leaves Hong Kong for Anchorage at 6 p.m.; the package arrives 48 hours after the click.</desc>
+<rect width="900" height="640" fill="#ffffff"/>
+<line x1="420" y1="70" x2="420" y2="590" stroke="#cdd9e6" stroke-width="6"/>
+<circle cx="420" cy="70.0" r="14" fill="#8a7a5c"/>
+<text x="390" y="80.0" text-anchor="end" font-size="30" fill="#5b6672">Afternoon, Illinois</text>
+<text x="454" y="82.0" font-size="36" fill="#041e42">Customer clicks</text>
+<circle cx="420" cy="174.0" r="14" fill="#041e42"/>
+<text x="390" y="184.0" text-anchor="end" font-size="30" fill="#5b6672">Seconds later, Shenzhen</text>
+<text x="454" y="186.0" font-size="36" fill="#041e42">Order prints</text>
+<circle cx="420" cy="278.0" r="14" fill="#041e42"/>
+<text x="390" y="288.0" text-anchor="end" font-size="30" fill="#5b6672">Night shift</text>
+<text x="454" y="290.0" font-size="36" fill="#041e42">Order packed</text>
+<circle cx="420" cy="382.0" r="14" fill="#041e42"/>
+<text x="390" y="392.0" text-anchor="end" font-size="30" fill="#5b6672">9 a.m.</text>
+<text x="454" y="394.0" font-size="36" fill="#041e42">Courier collects</text>
+<circle cx="420" cy="486.0" r="14" fill="#041e42"/>
+<text x="390" y="496.0" text-anchor="end" font-size="30" fill="#5b6672">6 p.m., Hong Kong</text>
+<text x="454" y="498.0" font-size="36" fill="#041e42">Flight departs for Anchorage</text>
+<circle cx="420" cy="590.0" r="14" fill="#8a7a5c"/>
+<text x="390" y="600.0" text-anchor="end" font-size="30" fill="#5b6672">48 hours after the click</text>
+<text x="454" y="602.0" font-size="36" fill="#041e42">Doorstep in Illinois</text>
+</svg>

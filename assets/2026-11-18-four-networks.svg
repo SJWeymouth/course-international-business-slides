@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Four global networks that converged on the United States</title>
+<desc id="desc">Diagram of four boxes. Internet cables: under 1 percent of bandwidth between world regions bypassed the United States in 2002. Bank messages: SWIFT is based in Belgium, with its records mirrored in Virginia in the 2000s. Dollar payments: foreign banks pay through U.S.-regulated banks. Chip design: chips are made in Asia, but key design and intellectual property stayed in the United States. Arrows from all four lead down to one bar labeled United States, highlighted.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<rect x="0.0" y="20" width="370" height="290" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="0.0" y="20" width="370" height="60" fill="#041e42"/>
+<text x="185.0" y="61" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Internet cables</text>
+<text x="185.0" y="132" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Under 1% of</text>
+<text x="185.0" y="178" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">bandwidth between</text>
+<text x="185.0" y="224" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">regions bypassed</text>
+<text x="185.0" y="270" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">the U.S. (2002)</text>
+<line x1="185.0" y1="316.0" x2="185.0" y2="402.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="185.0,420.0 172.4,402.0 197.6,402.0" fill="#5b6672"/>
+<rect x="410.0" y="20" width="370" height="290" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="410.0" y="20" width="370" height="60" fill="#041e42"/>
+<text x="595.0" y="61" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Bank messages</text>
+<text x="595.0" y="132" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">SWIFT, based in</text>
+<text x="595.0" y="178" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Belgium; records</text>
+<text x="595.0" y="224" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">mirrored in</text>
+<text x="595.0" y="270" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Virginia (2000s)</text>
+<line x1="595.0" y1="316.0" x2="595.0" y2="402.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="595.0,420.0 582.4,402.0 607.6,402.0" fill="#5b6672"/>
+<rect x="820.0" y="20" width="370" height="290" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="820.0" y="20" width="370" height="60" fill="#041e42"/>
+<text x="1005.0" y="61" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Dollar payments</text>
+<text x="1005.0" y="132" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Foreign banks</text>
+<text x="1005.0" y="178" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">pay through</text>
+<text x="1005.0" y="224" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">U.S.-regulated</text>
+<text x="1005.0" y="270" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">banks</text>
+<line x1="1005.0" y1="316.0" x2="1005.0" y2="402.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="1005.0,420.0 992.4,402.0 1017.6,402.0" fill="#5b6672"/>
+<rect x="1230.0" y="20" width="370" height="290" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1230.0" y="20" width="370" height="60" fill="#041e42"/>
+<text x="1415.0" y="61" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle">Chip design</text>
+<text x="1415.0" y="132" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Made in Asia;</text>
+<text x="1415.0" y="178" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">key design and</text>
+<text x="1415.0" y="224" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">intellectual property</text>
+<text x="1415.0" y="270" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">stayed in the U.S.</text>
+<line x1="1415.0" y1="316.0" x2="1415.0" y2="402.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="1415.0,420.0 1402.4,402.0 1427.6,402.0" fill="#5b6672"/>
+<rect x="0.0" y="424" width="1600" height="96" fill="#8a7a5c"/>
+<text x="800.0" y="486" font-size="44" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="3">UNITED STATES</text>
+</svg>

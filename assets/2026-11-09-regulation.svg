@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">U.S. financial laws, 1933 to 2000</title>
+<desc id="desc">A timeline, not to scale, with three laws: 1933, Glass-Steagall Act; 1999, Gramm-Leach-Bliley Act; 2000, Commodity Futures Modernization Act, highlighted. A break in the line marks the gap between 1933 and 1999.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<line x1="110" y1="300" x2="400" y2="300" stroke="#5b6672" stroke-width="4"/>
+<line x1="430" y1="300" x2="880" y2="300" stroke="#5b6672" stroke-width="4"/>
+<line x1="392" y1="318" x2="408" y2="282" stroke="#5b6672" stroke-width="4"/>
+<line x1="422" y1="318" x2="438" y2="282" stroke="#5b6672" stroke-width="4"/>
+<circle cx="200.0" cy="300" r="14" fill="#041e42"/>
+<line x1="200.0" y1="300" x2="200.0" y2="260" stroke="#041e42" stroke-width="3"/>
+<text x="200.0" y="220.0" text-anchor="middle" font-size="34" font-weight="700" fill="#041e42">1933</text>
+<text x="200.0" y="137.0" text-anchor="middle" font-size="30" fill="#041e42">Glass-Steagall</text>
+<text x="200.0" y="175.0" text-anchor="middle" font-size="30" fill="#041e42">Act</text>
+<circle cx="560.0" cy="300" r="14" fill="#041e42"/>
+<line x1="560.0" y1="300" x2="560.0" y2="340" stroke="#041e42" stroke-width="3"/>
+<text x="560.0" y="380.0" text-anchor="middle" font-size="34" font-weight="700" fill="#041e42">1999</text>
+<text x="560.0" y="425.0" text-anchor="middle" font-size="30" fill="#041e42">Gramm-Leach-</text>
+<text x="560.0" y="463.0" text-anchor="middle" font-size="30" fill="#041e42">Bliley Act</text>
+<circle cx="780.0" cy="300" r="14" fill="#8a7a5c"/>
+<line x1="780.0" y1="300" x2="780.0" y2="260" stroke="#8a7a5c" stroke-width="3"/>
+<text x="780.0" y="220.0" text-anchor="middle" font-size="34" font-weight="700" fill="#8a7a5c">2000</text>
+<text x="780.0" y="137.0" text-anchor="middle" font-size="30" fill="#041e42">Commodity Futures</text>
+<text x="780.0" y="175.0" text-anchor="middle" font-size="30" fill="#041e42">Modernization Act</text>
+</svg>

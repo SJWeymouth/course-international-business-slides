@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="350" viewBox="0 0 1600 350" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">U.S. limits on exports of advanced chips, 2022 to 2026</title>
+<desc id="desc">Timeline. October 2022, highlighted: first U.S. limits on advanced chips for China. July to September 2023: Japan and the Netherlands limit chip machines. January 2025: caps on chips for most countries. May 2025: caps dropped and deals with Gulf states. January 2026: some chips for China, with a 25 percent tariff.</desc>
+<rect width="1600" height="350" fill="#ffffff"/>
+<line x1="40" y1="100" x2="1560" y2="100" stroke="#5b6672" stroke-width="4"/>
+<circle cx="175.0" cy="100" r="18" fill="#8a7a5c"/>
+<text x="175.0" y="60" font-size="36" font-weight="700" fill="#8a7a5c" text-anchor="middle">2022</text>
+<text x="175.0" y="172" font-size="24" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1">OCTOBER</text>
+<text x="175.0" y="216" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">First U.S. limits</text>
+<text x="175.0" y="254" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">on advanced chips</text>
+<text x="175.0" y="292" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">for China</text>
+<circle cx="487.5" cy="100" r="18" fill="#041e42"/>
+<text x="487.5" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">2023</text>
+<text x="487.5" y="172" font-size="24" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">JULY TO SEPTEMBER</text>
+<text x="487.5" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Japan and the</text>
+<text x="487.5" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Netherlands limit</text>
+<text x="487.5" y="292" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">chip machines</text>
+<circle cx="800.0" cy="100" r="18" fill="#041e42"/>
+<text x="800.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">2025</text>
+<text x="800.0" y="172" font-size="24" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">JANUARY</text>
+<text x="800.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Caps on chips for</text>
+<text x="800.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">most countries</text>
+<circle cx="1112.5" cy="100" r="18" fill="#041e42"/>
+<text x="1112.5" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">2025</text>
+<text x="1112.5" y="172" font-size="24" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">MAY</text>
+<text x="1112.5" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Caps dropped;</text>
+<text x="1112.5" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">deals with Gulf</text>
+<text x="1112.5" y="292" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">states</text>
+<circle cx="1425.0" cy="100" r="18" fill="#041e42"/>
+<text x="1425.0" y="60" font-size="36" font-weight="700" fill="#041e42" text-anchor="middle">2026</text>
+<text x="1425.0" y="172" font-size="24" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">JANUARY</text>
+<text x="1425.0" y="216" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Some chips for</text>
+<text x="1425.0" y="254" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">China, with a 25%</text>
+<text x="1425.0" y="292" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">tariff</text>
+</svg>

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How the United States and China answered each other through different chokepoints, 2025</title>
+<desc id="desc">Diagram of four boxes in clockwise order. April 2025, United States: higher tariffs on Chinese goods. April 2025, China: licenses for rare-earth exports. September 2025, United States: export controls reach affiliates. October 2025, China: wider rare-earth controls. Arrows run from each box to the next, and a highlighted arrow runs from the last box to: last two steps paused, November 2025.</desc>
+<rect width="1000" height="640" fill="#ffffff"/>
+<rect x="20" y="16" width="420" height="214" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="20" y="16" width="420" height="56" fill="#041e42"/>
+<text x="230.0" y="54" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">UNITED STATES</text>
+<text x="230.0" y="112" font-size="25" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">APRIL 2025</text>
+<text x="230.0" y="156" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">Higher tariffs</text>
+<text x="230.0" y="194" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">on Chinese goods</text>
+<rect x="560" y="16" width="420" height="214" fill="#ffffff" stroke="#1f4e79" stroke-width="4"/>
+<rect x="560" y="16" width="420" height="56" fill="#1f4e79"/>
+<text x="770.0" y="54" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">CHINA</text>
+<text x="770.0" y="112" font-size="25" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">APRIL 2025</text>
+<text x="770.0" y="156" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">Licenses for</text>
+<text x="770.0" y="194" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">rare-earth exports</text>
+<rect x="560" y="410" width="420" height="214" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="560" y="410" width="420" height="56" fill="#041e42"/>
+<text x="770.0" y="448" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">UNITED STATES</text>
+<text x="770.0" y="506" font-size="25" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">SEPTEMBER 2025</text>
+<text x="770.0" y="550" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">Export controls</text>
+<text x="770.0" y="588" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">reach affiliates</text>
+<rect x="20" y="410" width="420" height="214" fill="#ffffff" stroke="#1f4e79" stroke-width="4"/>
+<rect x="20" y="410" width="420" height="56" fill="#1f4e79"/>
+<text x="230.0" y="448" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">CHINA</text>
+<text x="230.0" y="506" font-size="25" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">OCTOBER 2025</text>
+<text x="230.0" y="550" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">Wider</text>
+<text x="230.0" y="588" font-size="29" font-weight="400" fill="#041e42" text-anchor="middle">rare-earth controls</text>
+<line x1="448.0" y1="123.0" x2="532.0" y2="123.0" stroke="#5b6672" stroke-width="6"/>
+<polygon points="552.0,123.0 532.0,137.0 532.0,109.0" fill="#5b6672"/>
+<line x1="770.0" y1="238.0" x2="770.0" y2="382.0" stroke="#5b6672" stroke-width="6"/>
+<polygon points="770.0,402.0 756.0,382.0 784.0,382.0" fill="#5b6672"/>
+<line x1="552.0" y1="517.0" x2="468.0" y2="517.0" stroke="#5b6672" stroke-width="6"/>
+<polygon points="448.0,517.0 468.0,503.0 468.0,531.0" fill="#5b6672"/>
+<line x1="230.0" y1="402.0" x2="230.0" y2="388.0" stroke="#8a7a5c" stroke-width="6"/>
+<polygon points="230.0,368.0 244.0,388.0 216.0,388.0" fill="#8a7a5c"/>
+<text x="230.0" y="296" font-size="27" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1">LAST TWO STEPS PAUSED</text>
+<text x="230.0" y="336" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1">NOVEMBER 2025</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="480" viewBox="0 0 1000 480" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">China's share of world rare-earth output at each stage, 2024</title>
+<desc id="desc">A chart in percent of world output in 2024: mining of magnet rare earths 60; separation and refining 91, highlighted; magnet production 94.</desc>
+<rect width="1000" height="480" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">CHINA'S SHARE OF WORLD OUTPUT, 2024, PERCENT</text>
+<text x="10" y="126" font-size="34" font-weight="400" fill="#041e42" text-anchor="start">Mining (magnet rare earths)</text>
+<rect x="10" y="138" width="528.0" height="46" fill="#041e42"/>
+<text x="554.0" y="173.0" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">60</text>
+<text x="10" y="256" font-size="34" font-weight="400" fill="#041e42" text-anchor="start">Separation and refining</text>
+<rect x="10" y="268" width="800.8" height="46" fill="#8a7a5c"/>
+<text x="826.8" y="303.0" font-size="34" font-weight="700" fill="#8a7a5c" text-anchor="start">91</text>
+<text x="10" y="386" font-size="34" font-weight="400" fill="#041e42" text-anchor="start">Magnet production</text>
+<rect x="10" y="398" width="827.2" height="46" fill="#041e42"/>
+<text x="853.2" y="433.0" font-size="34" font-weight="400" fill="#5b6672" text-anchor="start">94</text>
+</svg>

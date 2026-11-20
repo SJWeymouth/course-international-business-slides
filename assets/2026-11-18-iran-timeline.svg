@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="640" viewBox="0 0 820 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How Iran lost access to dollar payments and SWIFT, 2006 to 2018</title>
+<desc id="desc">Timeline. 2006: Bank Saderat cut off from U.S. dollar clearing. 2008: all Iranian banks cut off from U.S. dollar clearing. 2012, highlighted: SWIFT disconnects Iran's banks under an EU rule. 2016: the nuclear deal takes effect and banks are reconnected. 2018: the United States leaves the deal and SWIFT suspends some banks again.</desc>
+<rect width="820" height="640" fill="#ffffff"/>
+<line x1="30" y1="50" x2="30" y2="562" stroke="#5b6672" stroke-width="4"/>
+<circle cx="30" cy="50" r="16" fill="#041e42"/>
+<text x="64" y="62" font-size="34" font-weight="700" fill="#041e42" text-anchor="start">2006</text>
+<text x="180" y="62" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">Bank Saderat cut off from U.S.</text>
+<text x="180" y="100" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">dollar clearing</text>
+<circle cx="30" cy="178" r="16" fill="#041e42"/>
+<text x="64" y="190" font-size="34" font-weight="700" fill="#041e42" text-anchor="start">2008</text>
+<text x="180" y="190" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">All Iranian banks cut off from</text>
+<text x="180" y="228" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">U.S. dollar clearing</text>
+<circle cx="30" cy="306" r="16" fill="#8a7a5c"/>
+<text x="64" y="318" font-size="34" font-weight="700" fill="#8a7a5c" text-anchor="start">2012</text>
+<text x="180" y="318" font-size="30" font-weight="700" fill="#8a7a5c" text-anchor="start">SWIFT disconnects Iran's banks</text>
+<text x="180" y="356" font-size="30" font-weight="700" fill="#8a7a5c" text-anchor="start">under an EU rule</text>
+<circle cx="30" cy="434" r="16" fill="#041e42"/>
+<text x="64" y="446" font-size="34" font-weight="700" fill="#041e42" text-anchor="start">2016</text>
+<text x="180" y="446" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">Nuclear deal takes effect; banks</text>
+<text x="180" y="484" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">reconnected</text>
+<circle cx="30" cy="562" r="16" fill="#041e42"/>
+<text x="64" y="574" font-size="34" font-weight="700" fill="#041e42" text-anchor="start">2018</text>
+<text x="180" y="574" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">U.S. leaves the deal; SWIFT</text>
+<text x="180" y="612" font-size="30" font-weight="400" fill="#041e42" text-anchor="start">suspends some banks again</text>
+</svg>

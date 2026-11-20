@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="495" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Cost of drilling and completing one well: an onshore Bakken shale well against deepwater Gulf of Mexico wells</title>
+<desc id="desc">Two horizontal bars in millions of dollars: a Bakken shale well in 2015, 5.9, highlighted; a deepwater Gulf of Mexico well, 120 to 230.</desc>
+<rect width="1000" height="330" fill="#ffffff"/>
+<text x="10" y="46" font-size="32" font-weight="600" letter-spacing="1.2" fill="#1f4e79">COST OF DRILLING AND COMPLETING ONE WELL</text>
+<text x="10" y="130" font-size="34" fill="#041e42">Bakken shale well, 2015</text>
+<rect x="10" y="144" width="24.9" height="50" fill="#8a7a5c"/>
+<text x="50.9" y="181.0" font-size="34" font-weight="700" fill="#8a7a5c">$5.9 million</text>
+<text x="10" y="255" font-size="34" fill="#041e42">Deepwater Gulf of Mexico well</text>
+<rect x="10" y="269" width="507.4" height="50" fill="#041e42"/>
+<text x="533.4" y="306.0" font-size="34" font-weight="400" fill="#5b6672">$120–230 million</text>
+</svg>

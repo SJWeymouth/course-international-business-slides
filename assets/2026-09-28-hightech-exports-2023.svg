@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">High-technology exports by economy, 2023, US dollars billions</title>
+<desc id="desc">Horizontal bars from China at 825 billion dollars down to Mexico at 84 billion; Germany is second at 260 billion.</desc>
+<rect width="1600" height="600" fill="#ffffff"/>
+<text x="360" y="42" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">HIGH-TECHNOLOGY EXPORTS, US$ BILLIONS, 2023</text>
+<text x="344" y="97.36" text-anchor="end" font-size="34" fill="#041e42">China</text>
+<rect x="360" y="70" width="1050.0" height="38" fill="#8a7a5c"/>
+<text x="1422.0" y="97.36" font-size="34" fill="#5b6672">$825</text>
+<text x="344" y="146.36" text-anchor="end" font-size="34" fill="#041e42">Germany</text>
+<rect x="360" y="119" width="330.9" height="38" fill="#041e42"/>
+<text x="702.9" y="146.36" font-size="34" fill="#5b6672">$260</text>
+<text x="344" y="195.36" text-anchor="end" font-size="34" fill="#041e42">United States</text>
+<rect x="360" y="168" width="265.4" height="38" fill="#041e42"/>
+<text x="637.4" y="195.36" font-size="34" fill="#5b6672">$208</text>
+<text x="344" y="244.36" text-anchor="end" font-size="34" fill="#041e42">Singapore</text>
+<rect x="360" y="217" width="251.2" height="38" fill="#041e42"/>
+<text x="623.2" y="244.36" font-size="34" fill="#5b6672">$197</text>
+<text x="344" y="293.36" text-anchor="end" font-size="34" fill="#041e42">Korea</text>
+<rect x="360" y="266" width="209.6" height="38" fill="#041e42"/>
+<text x="581.6" y="293.36" font-size="34" fill="#5b6672">$165</text>
+<text x="344" y="342.36" text-anchor="end" font-size="34" fill="#041e42">Vietnam</text>
+<rect x="360" y="315" width="169.0" height="38" fill="#041e42"/>
+<text x="541.0" y="342.36" font-size="34" fill="#5b6672">$133</text>
+<text x="344" y="391.36" text-anchor="end" font-size="34" fill="#041e42">Malaysia</text>
+<rect x="360" y="364" width="161.6" height="38" fill="#041e42"/>
+<text x="533.6" y="391.36" font-size="34" fill="#5b6672">$127</text>
+<text x="344" y="440.36" text-anchor="end" font-size="34" fill="#041e42">Netherlands</text>
+<rect x="360" y="413" width="137.2" height="38" fill="#041e42"/>
+<text x="509.2" y="440.36" font-size="34" fill="#5b6672">$108</text>
+<text x="344" y="489.36" text-anchor="end" font-size="34" fill="#041e42">Japan</text>
+<rect x="360" y="462" width="130.6" height="38" fill="#041e42"/>
+<text x="502.6" y="489.36" font-size="34" fill="#5b6672">$103</text>
+<text x="344" y="538.36" text-anchor="end" font-size="34" fill="#041e42">Mexico</text>
+<rect x="360" y="511" width="106.9" height="38" fill="#041e42"/>
+<text x="478.9" y="538.36" font-size="34" fill="#5b6672">$84</text>
+<line x1="360" y1="64" x2="360" y2="555" stroke="#5b6672" stroke-width="2"/>
+</svg>

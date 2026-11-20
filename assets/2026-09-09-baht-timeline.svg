@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="260" viewBox="0 0 1400 260" role="img" aria-labelledby="title desc">
+  <title id="title">Timeline of the baht crisis, 1997</title>
+  <desc id="desc">January short-selling begins; May 14 the central bank spends ten billion dollars in a day; May 15 foreigners barred from borrowing baht; June 19 the run at home begins; July 2 the baht floats.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M0,0 L12,6 L0,12 Z" fill="#52749a"/>
+    </marker>
+  </defs>
+  <rect width="1400" height="260" fill="#ffffff"/>
+  <line x1="60" y1="150" x2="1340" y2="150" stroke="#52749a" stroke-width="6" marker-end="url(#arrow)"/>
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <g transform="translate(170,150)"><circle r="18" fill="#7088a4" stroke="#ffffff" stroke-width="6"/><text y="-54" fill="#041e42" font-size="28" font-weight="700">SHORT-SELLING</text><text y="60" fill="#3d4b5b" font-size="26">January</text></g>
+    <g transform="translate(440,150)"><circle r="18" fill="#365f8a" stroke="#ffffff" stroke-width="6"/><text y="-54" fill="#041e42" font-size="28" font-weight="700">$10 BILLION</text><text y="60" fill="#3d4b5b" font-size="26">May 14</text></g>
+    <g transform="translate(700,150)"><circle r="18" fill="#041e42" stroke="#ffffff" stroke-width="6"/><text y="-54" fill="#041e42" font-size="28" font-weight="700">LOANS BANNED</text><text y="60" fill="#3d4b5b" font-size="26">May 15</text></g>
+    <g transform="translate(960,150)"><circle r="18" fill="#a28e7d" stroke="#ffffff" stroke-width="6"/><text y="-54" fill="#041e42" font-size="28" font-weight="700">THE RUN</text><text y="60" fill="#3d4b5b" font-size="26">June 19</text></g>
+    <g transform="translate(1200,150)"><circle r="18" fill="#9a4a42" stroke="#ffffff" stroke-width="6"/><text y="-54" fill="#041e42" font-size="28" font-weight="700">THE FLOAT</text><text y="60" fill="#3d4b5b" font-size="26">July 2</text></g>
+  </g>
+</svg>

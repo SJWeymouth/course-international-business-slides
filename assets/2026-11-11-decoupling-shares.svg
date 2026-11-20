@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">China's and Vietnam's shares of U.S. goods imports and the U.S. share of China's goods exports, 2015 to 2026</title>
+<desc id="desc">Three lines in percent. China's share of U.S. goods imports: 21.5 in 2015, 21.6 in 2017, 16.6 in 2022, 9.0 in 2025, and 7.7 in January to September 2026. The U.S. share of China's goods exports: 18.0 in 2015, 19.2 in 2018, 16.2 in 2022, 11.1 in 2025, and 10.2 in January to July 2026. Vietnam's share of U.S. goods imports, highlighted: 1.7 in 2015, 3.9 in 2022, 5.7 in 2025, and 7.4 in January to September 2026. The last segment of each line is dashed because 2026 is part of a year.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">PERCENT</text>
+<line x1="80" y1="530.0" x2="890" y2="530.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="542.0" text-anchor="end" font-size="34" fill="#5b6672">0</text>
+<line x1="80" y1="444.0" x2="890" y2="444.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="456.0" text-anchor="end" font-size="34" fill="#5b6672">5</text>
+<line x1="80" y1="358.0" x2="890" y2="358.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="370.0" text-anchor="end" font-size="34" fill="#5b6672">10</text>
+<line x1="80" y1="272.0" x2="890" y2="272.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="284.0" text-anchor="end" font-size="34" fill="#5b6672">15</text>
+<line x1="80" y1="186.0" x2="890" y2="186.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="198.0" text-anchor="end" font-size="34" fill="#5b6672">20</text>
+<line x1="80" y1="100.0" x2="890" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="66" y="112.0" text-anchor="end" font-size="34" fill="#5b6672">25</text>
+<text x="80.0" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2015</text>
+<text x="300.9" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2018</text>
+<text x="595.5" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2022</text>
+<text x="890.0" y="576" text-anchor="middle" font-size="34" fill="#5b6672">2026</text>
+<path d="M80.0 160.4 L153.6 166.3 L227.3 158.6 L300.9 164.8 L374.5 220.0 L448.2 210.9 L521.8 223.4 L595.5 245.3 L669.1 291.1 L742.7 298.0 L816.4 374.5" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round"/>
+<path d="M816.4 374.5 L890.0 396.9" fill="none" stroke="#041e42" stroke-width="6" stroke-dasharray="12 9"/>
+<circle cx="890.0" cy="396.9" r="9" fill="#041e42"/>
+<text x="88" y="136.1" font-size="30" font-weight="600" fill="#041e42">China's share of U.S. imports</text>
+<text x="906.0" y="400.9" font-size="34" font-weight="700" fill="#041e42">7.7</text>
+<path d="M80.0 220.2 L153.6 216.3 L227.3 202.8 L300.9 199.5 L374.5 241.8 L448.2 230.2 L521.8 235.0 L595.5 252.0 L669.1 275.2 L742.7 277.7 L816.4 338.2" fill="none" stroke="#5b6672" stroke-width="6" stroke-linejoin="round"/>
+<path d="M816.4 338.2 L890.0 353.9" fill="none" stroke="#5b6672" stroke-width="6" stroke-dasharray="12 9"/>
+<circle cx="890.0" cy="353.9" r="9" fill="#5b6672"/>
+<text x="88" y="282.3" font-size="30" font-weight="400" fill="#5b6672">U.S. share of China's exports</text>
+<text x="906.0" y="339.9" font-size="34" font-weight="400" fill="#5b6672">10.2</text>
+<path d="M80.0 500.9 L153.6 496.9 L227.3 495.8 L300.9 496.7 L374.5 484.1 L448.2 471.3 L521.8 468.0 L595.5 462.3 L669.1 466.1 L742.7 458.2 L816.4 432.3" fill="none" stroke="#8a7a5c" stroke-width="6" stroke-linejoin="round"/>
+<path d="M816.4 432.3 L890.0 403.2" fill="none" stroke="#8a7a5c" stroke-width="6" stroke-dasharray="12 9"/>
+<circle cx="890.0" cy="403.2" r="9" fill="#8a7a5c"/>
+<text x="88" y="444.0" font-size="30" font-weight="600" fill="#8a7a5c">Vietnam's share of U.S. imports</text>
+<text x="906.0" y="443.2" font-size="34" font-weight="700" fill="#8a7a5c">7.4</text>
+</svg>

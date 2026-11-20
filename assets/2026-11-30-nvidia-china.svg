@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">China's share of Nvidia's revenue, fiscal years 2024 to 2026</title>
+<desc id="desc">A column chart of the percent of Nvidia revenue from customers headquartered in China, including Hong Kong: fiscal 2024, 20.2; fiscal 2025, 19.2; fiscal 2026, 9.1, highlighted.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">CHINA'S SHARE OF NVIDIA'S REVENUE, PERCENT</text>
+<rect x="105.6" y="161.9" width="200" height="358.1" fill="#041e42"/>
+<text x="205.6" y="145.9" font-size="44" font-weight="700" fill="#041e42" text-anchor="middle">20.2</text>
+<text x="205.6" y="570" font-size="34" font-weight="400" fill="#041e42" text-anchor="middle">Fiscal 2024</text>
+<rect x="400.0" y="179.6" width="200" height="340.4" fill="#041e42"/>
+<text x="500.0" y="163.6" font-size="44" font-weight="700" fill="#041e42" text-anchor="middle">19.2</text>
+<text x="500.0" y="570" font-size="34" font-weight="400" fill="#041e42" text-anchor="middle">Fiscal 2025</text>
+<rect x="694.4" y="358.7" width="200" height="161.3" fill="#8a7a5c"/>
+<text x="794.4" y="342.7" font-size="44" font-weight="700" fill="#8a7a5c" text-anchor="middle">9.1</text>
+<text x="794.4" y="570" font-size="34" font-weight="400" fill="#041e42" text-anchor="middle">Fiscal 2026</text>
+<line x1="40" y1="520" x2="960" y2="520" stroke="#5b6672" stroke-width="2"/>
+</svg>

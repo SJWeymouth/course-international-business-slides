@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="540" viewBox="0 0 1000 540" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">What the United Arab Emirates gave and received in its May 2025 technology framework with the United States</title>
+<desc id="desc">Diagram of two columns. The UAE gives: U.S. security standards for its data centers, investment in U.S. data centers, and capital and low-cost energy. The UAE gets, highlighted: Nvidia's most advanced chips, a 5-gigawatt AI campus in Abu Dhabi, and U.S. cloud firms as operators. Arrows run between the columns in both directions.</desc>
+<rect width="1000" height="540" fill="#ffffff"/>
+<rect x="10.0" y="10" width="440" height="64" fill="#041e42"/>
+<text x="230" y="54" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">THE UAE GIVES</text>
+<rect x="10.0" y="104" width="440" height="120" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="230" y="156" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">U.S. security standards</text>
+<text x="230" y="196" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">for its data centers</text>
+<rect x="10.0" y="248" width="440" height="120" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="230" y="300" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">Investment in</text>
+<text x="230" y="340" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">U.S. data centers</text>
+<rect x="10.0" y="392" width="440" height="120" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="230" y="444" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">Capital and</text>
+<text x="230" y="484" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">low-cost energy</text>
+<rect x="550.0" y="10" width="440" height="64" fill="#8a7a5c"/>
+<text x="770" y="54" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">THE UAE GETS</text>
+<rect x="550.0" y="104" width="440" height="120" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<text x="770" y="156" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">Nvidia's most</text>
+<text x="770" y="196" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">advanced chips</text>
+<rect x="550.0" y="248" width="440" height="120" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<text x="770" y="300" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">A 5-gigawatt AI campus</text>
+<text x="770" y="340" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">in Abu Dhabi</text>
+<rect x="550.0" y="392" width="440" height="120" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<text x="770" y="444" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">U.S. cloud firms</text>
+<text x="770" y="484" font-size="31" font-weight="600" fill="#041e42" text-anchor="middle">as operators</text>
+<line x1="458.0" y1="236.0" x2="518.0" y2="236.0" stroke="#041e42" stroke-width="8"/>
+<polygon points="542.0,236.0 518.0,252.8 518.0,219.2" fill="#041e42"/>
+<line x1="542.0" y1="380.0" x2="482.0" y2="380.0" stroke="#8a7a5c" stroke-width="8"/>
+<polygon points="458.0,380.0 482.0,363.2 482.0,396.8" fill="#8a7a5c"/>
+</svg>

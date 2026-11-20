@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="640" viewBox="0 0 1000 640" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">An email from Rio de Janeiro to Fortaleza, by two routes</title>
+<desc id="desc">Simplified map. Rio de Janeiro at lower left and Fortaleza at upper left, both in Brazil; Miami at upper right. A thin dashed grey line runs directly from Rio to Fortaleza, labeled Brazil's network, slower. A thick highlighted line runs from Rio up to Miami and back down to Fortaleza, labeled fiber via Miami, faster.</desc>
+<rect width="1000" height="640" fill="#ffffff"/>
+<line x1="150" y1="534" x2="150" y2="226" stroke="#5b6672" stroke-width="4" stroke-dasharray="14 12"/>
+<text x="180" y="390" font-size="30" font-weight="400" fill="#5b6672" text-anchor="start">Brazil's network</text>
+<text x="180" y="428" font-size="30" font-weight="400" fill="#5b6672" text-anchor="start">slower</text>
+<line x1="172" y1="546" x2="830" y2="184" stroke="#8a7a5c" stroke-width="9"/>
+<line x1="824.0" y1="166.0" x2="206.0" y2="194.8" stroke="#8a7a5c" stroke-width="9"/>
+<polygon points="180.0,196.0 205.1,176.6 206.8,213.0" fill="#8a7a5c"/>
+<text x="600" y="430" font-size="32" font-weight="700" fill="#8a7a5c" text-anchor="start">Fiber via Miami</text>
+<text x="600" y="470" font-size="32" font-weight="700" fill="#8a7a5c" text-anchor="start">faster</text>
+<circle cx="150" cy="560" r="24" fill="#041e42"/>
+<circle cx="150" cy="200" r="24" fill="#041e42"/>
+<circle cx="850" cy="170" r="24" fill="#8a7a5c"/>
+<text x="130" y="624" font-size="30" font-weight="700" fill="#041e42" text-anchor="start">RIO DE JANEIRO</text>
+<text x="130" y="156" font-size="30" font-weight="700" fill="#041e42" text-anchor="start">FORTALEZA</text>
+<text x="850" y="126" font-size="30" font-weight="700" fill="#8a7a5c" text-anchor="middle">MIAMI</text>
+</svg>
