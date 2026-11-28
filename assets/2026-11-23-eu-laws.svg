@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="440" viewBox="0 0 1600 440" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Five EU laws that bind technology firms, with the year each was adopted, what it requires, and its maximum fine</title>
+<desc id="desc">Five cards, one for each EU law, with the year it was adopted, what it requires, and the maximum fine as a share of worldwide sales. Competition law, 1957: a dominant firm may not abuse its position, 10 percent. Privacy law, the GDPR, 2016: a firm needs a legal ground to use personal data, 4 percent. Digital Markets Act, 2022: the largest platforms may not favor their own services, 10 percent. Digital Services Act, 2022: platforms must act on illegal content and assess risks, 6 percent. AI Act, 2024: some uses of AI are banned, and risky ones carry duties, 7 percent.</desc>
+<rect width="1600" height="440" fill="#ffffff"/>
+<text x="20" y="46" font-size="28" font-weight="600" letter-spacing="1.2" fill="#1f4e79">FIVE EU LAWS AND THE MAXIMUM FINE UNDER EACH</text>
+<rect x="20.0" y="70" width="299.2" height="364" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<rect x="20.0" y="70" width="299.2" height="60" fill="#041e42"/>
+<text x="169.6" y="109" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">COMPETITION LAW</text>
+<text x="169.6" y="166" font-size="19" font-weight="600" fill="#5b6672" text-anchor="middle" letter-spacing="1">ADOPTED 1957</text>
+<text x="169.6" y="212" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">A dominant firm</text>
+<text x="169.6" y="244" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">may not abuse</text>
+<text x="169.6" y="276" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">its position.</text>
+<text x="169.6" y="376" font-size="62" font-weight="700" fill="#8a7a5c" text-anchor="middle">10%</text>
+<text x="169.6" y="410" font-size="20" font-weight="400" fill="#5b6672" text-anchor="middle">of worldwide sales</text>
+<rect x="335.2" y="70" width="299.2" height="364" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<rect x="335.2" y="70" width="299.2" height="60" fill="#041e42"/>
+<text x="484.8" y="109" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">PRIVACY LAW (GDPR)</text>
+<text x="484.8" y="166" font-size="19" font-weight="600" fill="#5b6672" text-anchor="middle" letter-spacing="1">ADOPTED 2016</text>
+<text x="484.8" y="212" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">A firm needs a legal</text>
+<text x="484.8" y="244" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">ground to use</text>
+<text x="484.8" y="276" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">personal data.</text>
+<text x="484.8" y="376" font-size="62" font-weight="700" fill="#8a7a5c" text-anchor="middle">4%</text>
+<text x="484.8" y="410" font-size="20" font-weight="400" fill="#5b6672" text-anchor="middle">of worldwide sales</text>
+<rect x="650.4" y="70" width="299.2" height="364" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<rect x="650.4" y="70" width="299.2" height="60" fill="#041e42"/>
+<text x="800.0" y="109" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">DIGITAL MARKETS ACT</text>
+<text x="800.0" y="166" font-size="19" font-weight="600" fill="#5b6672" text-anchor="middle" letter-spacing="1">ADOPTED 2022</text>
+<text x="800.0" y="212" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">The largest platforms</text>
+<text x="800.0" y="244" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">may not favor</text>
+<text x="800.0" y="276" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">their own services.</text>
+<text x="800.0" y="376" font-size="62" font-weight="700" fill="#8a7a5c" text-anchor="middle">10%</text>
+<text x="800.0" y="410" font-size="20" font-weight="400" fill="#5b6672" text-anchor="middle">of worldwide sales</text>
+<rect x="965.6" y="70" width="299.2" height="364" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<rect x="965.6" y="70" width="299.2" height="60" fill="#041e42"/>
+<text x="1115.2" y="109" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">DIGITAL SERVICES ACT</text>
+<text x="1115.2" y="166" font-size="19" font-weight="600" fill="#5b6672" text-anchor="middle" letter-spacing="1">ADOPTED 2022</text>
+<text x="1115.2" y="212" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">Platforms must act</text>
+<text x="1115.2" y="244" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">on illegal content</text>
+<text x="1115.2" y="276" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">and assess risks.</text>
+<text x="1115.2" y="376" font-size="62" font-weight="700" fill="#8a7a5c" text-anchor="middle">6%</text>
+<text x="1115.2" y="410" font-size="20" font-weight="400" fill="#5b6672" text-anchor="middle">of worldwide sales</text>
+<rect x="1280.8" y="70" width="299.2" height="364" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<rect x="1280.8" y="70" width="299.2" height="60" fill="#041e42"/>
+<text x="1430.4" y="109" font-size="21" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1">AI ACT</text>
+<text x="1430.4" y="166" font-size="19" font-weight="600" fill="#5b6672" text-anchor="middle" letter-spacing="1">ADOPTED 2024</text>
+<text x="1430.4" y="212" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">Some uses of AI</text>
+<text x="1430.4" y="244" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">are banned, and risky</text>
+<text x="1430.4" y="276" font-size="25" font-weight="400" fill="#041e42" text-anchor="middle">ones carry duties.</text>
+<text x="1430.4" y="376" font-size="62" font-weight="700" fill="#8a7a5c" text-anchor="middle">7%</text>
+<text x="1430.4" y="410" font-size="20" font-weight="400" fill="#5b6672" text-anchor="middle">of worldwide sales</text>
+</svg>

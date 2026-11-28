@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How INSTEX was meant to let European firms trade with Iran without cross-border payments</title>
+<desc id="desc">Diagram in two halves, Europe on the left and Iran on the right, divided by a dashed border. Goods cross the border in both directions: from an Iranian exporter to a European importer, and from a European exporter to an Iranian importer. Money stays on each side: the European importer pays the European exporter through INSTEX, highlighted, and the Iranian importer pays the Iranian exporter through Iran's counterpart, STFI, highlighted. At the bottom: no money crosses the border.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<text x="230" y="40" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="2">EUROPE</text>
+<text x="770" y="40" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="2">IRAN</text>
+<line x1="500" y1="60" x2="500" y2="540" stroke="#5b6672" stroke-width="3" stroke-dasharray="12 10"/>
+<rect x="80" y="80" width="300" height="90" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="230.0" y="136" font-size="30" font-weight="600" fill="#041e42" text-anchor="middle">European importer</text>
+<rect x="80" y="420" width="300" height="90" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="230.0" y="476" font-size="30" font-weight="600" fill="#041e42" text-anchor="middle">European exporter</text>
+<rect x="620" y="80" width="300" height="90" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="770.0" y="136" font-size="30" font-weight="600" fill="#041e42" text-anchor="middle">Iranian exporter</text>
+<rect x="620" y="420" width="300" height="90" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<text x="770.0" y="476" font-size="30" font-weight="600" fill="#041e42" text-anchor="middle">Iranian importer</text>
+<line x1="616.0" y1="125.0" x2="406.0" y2="125.0" stroke="#5b6672" stroke-width="6"/>
+<polygon points="386.0,125.0 406.0,111.0 406.0,139.0" fill="#5b6672"/>
+<rect x="452" y="88" width="96" height="32" fill="#ffffff"/>
+<text x="500" y="112" font-size="24" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">GOODS</text>
+<line x1="384.0" y1="465.0" x2="594.0" y2="465.0" stroke="#5b6672" stroke-width="6"/>
+<polygon points="614.0,465.0 594.0,479.0 594.0,451.0" fill="#5b6672"/>
+<rect x="452" y="428" width="96" height="32" fill="#ffffff"/>
+<text x="500" y="452" font-size="24" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1">GOODS</text>
+<rect x="140" y="265" width="180" height="70" fill="#8a7a5c"/>
+<text x="230" y="310" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">INSTEX</text>
+<line x1="230.0" y1="174.0" x2="230.0" y2="243.0" stroke="#8a7a5c" stroke-width="6"/>
+<polygon points="230.0,261.0 217.4,243.0 242.6,243.0" fill="#8a7a5c"/>
+<line x1="230.0" y1="339.0" x2="230.0" y2="398.0" stroke="#8a7a5c" stroke-width="6"/>
+<polygon points="230.0,416.0 217.4,398.0 242.6,398.0" fill="#8a7a5c"/>
+<text x="250" y="225" font-size="26" font-weight="700" fill="#8a7a5c" text-anchor="start">euros</text>
+<text x="250" y="385" font-size="26" font-weight="700" fill="#8a7a5c" text-anchor="start">euros</text>
+<rect x="680" y="265" width="180" height="70" fill="#8a7a5c"/>
+<text x="770" y="310" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">STFI</text>
+<line x1="770.0" y1="416.0" x2="770.0" y2="357.0" stroke="#8a7a5c" stroke-width="6"/>
+<polygon points="770.0,339.0 782.6,357.0 757.4,357.0" fill="#8a7a5c"/>
+<line x1="770.0" y1="261.0" x2="770.0" y2="192.0" stroke="#8a7a5c" stroke-width="6"/>
+<polygon points="770.0,174.0 782.6,192.0 757.4,192.0" fill="#8a7a5c"/>
+<text x="790" y="225" font-size="26" font-weight="700" fill="#8a7a5c" text-anchor="start">rials</text>
+<text x="790" y="385" font-size="26" font-weight="700" fill="#8a7a5c" text-anchor="start">rials</text>
+<text x="500" y="585" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1.5">NO MONEY CROSSES THE BORDER</text>
+</svg>

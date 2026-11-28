@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="590" viewBox="0 0 1600 590" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Why the three models differ: ideas, interests, and institutions in the United States, China, and the European Union</title>
+<desc id="desc">A grid with three columns, United States, China, and European Union, and three rows. Ideas and values: free speech and free markets; stability and sovereignty, with the state governing the internet inside its borders; privacy and dignity as rights. Firms' interests: home of the largest firms, which lobby against new rules; home firms behind the firewall, which the state needs for growth and control; few large firms of its own, so its largest fines fall on foreign firms. Political institutions: many veto points, with regulators who must win in court; one party, whose regulators act and whose firms seldom sue; a Commission that fines first, with court review afterward.</desc>
+<rect width="1600" height="590" fill="#ffffff"/>
+<rect x="270" y="6" width="430" height="56" fill="#041e42"/>
+<text x="485.0" y="44" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">UNITED STATES</text>
+<rect x="715" y="6" width="430" height="56" fill="#041e42"/>
+<text x="930.0" y="44" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">CHINA</text>
+<rect x="1160" y="6" width="430" height="56" fill="#041e42"/>
+<text x="1375.0" y="44" font-size="28" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">EUROPEAN UNION</text>
+<rect x="10" y="70" width="250" height="164" fill="#8a7a5c"/>
+<text x="135.0" y="144.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">IDEAS AND</text>
+<text x="135.0" y="180.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">VALUES</text>
+<rect x="270" y="70" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="485.0" y="124.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Free speech and free markets</text>
+<text x="485.0" y="162.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">The First Amendment and</text>
+<text x="485.0" y="200.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">the optimism of the 1990s</text>
+<rect x="715" y="70" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="930.0" y="124.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Stability and sovereignty</text>
+<text x="930.0" y="162.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">The state governs the internet</text>
+<text x="930.0" y="200.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">inside its borders</text>
+<rect x="1160" y="70" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="1375.0" y="124.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Privacy and dignity as rights</text>
+<text x="1375.0" y="162.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">The memory of states that</text>
+<text x="1375.0" y="200.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">watched their citizens</text>
+<rect x="10" y="244" width="250" height="164" fill="#8a7a5c"/>
+<text x="135.0" y="318.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">FIRMS'</text>
+<text x="135.0" y="354.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">INTERESTS</text>
+<rect x="270" y="244" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="485.0" y="298.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Home of the largest firms</text>
+<text x="485.0" y="336.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">They lobby against</text>
+<text x="485.0" y="374.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">new rules</text>
+<rect x="715" y="244" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="930.0" y="298.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Home firms behind the firewall</text>
+<text x="930.0" y="336.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">The state needs them for</text>
+<text x="930.0" y="374.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">growth and for control</text>
+<rect x="1160" y="244" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="1375.0" y="298.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Few large firms of its own</text>
+<text x="1375.0" y="336.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Its largest fines fall on</text>
+<text x="1375.0" y="374.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">foreign firms</text>
+<rect x="10" y="418" width="250" height="164" fill="#8a7a5c"/>
+<text x="135.0" y="492.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">POLITICAL</text>
+<text x="135.0" y="528.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">INSTITUTIONS</text>
+<rect x="270" y="418" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="485.0" y="472.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Many veto points</text>
+<text x="485.0" y="510.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Regulators must win in court,</text>
+<text x="485.0" y="548.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">and courts protect speech</text>
+<rect x="715" y="418" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="930.0" y="472.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">One party</text>
+<text x="930.0" y="510.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">Regulators act, and</text>
+<text x="930.0" y="548.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">firms seldom sue</text>
+<rect x="1160" y="418" width="430" height="164" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="1375.0" y="472.0" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">A Commission that fines</text>
+<text x="1375.0" y="510.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">It decides first, and courts</text>
+<text x="1375.0" y="548.0" font-size="28" font-weight="400" fill="#041e42" text-anchor="middle">review afterward</text>
+</svg>

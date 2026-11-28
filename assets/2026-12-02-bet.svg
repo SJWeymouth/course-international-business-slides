@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The choice in the activity: the promise or the voters</title>
+<desc id="desc">Diagram of two stacked boxes. The promise: a treaty, a ruling, or a currency that your firm relies on. The voters, highlighted: the people who pay to keep it and who can vote it out.</desc>
+<rect width="1000" height="400" fill="#ffffff"/>
+<rect x="6" y="4" width="988" height="182" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="6" y="4" width="988" height="60" fill="#041e42"/>
+<text x="500.0" y="46" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">THE PROMISE</text>
+<text x="500.0" y="112" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">A treaty, a ruling, or a currency</text>
+<text x="500.0" y="158" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">that your firm relies on</text>
+<rect x="6" y="208" width="988" height="182" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="6" y="208" width="988" height="60" fill="#8a7a5c"/>
+<text x="500.0" y="250" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">THE VOTERS</text>
+<text x="500.0" y="316" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">The people who pay to keep it</text>
+<text x="500.0" y="362" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">and who can vote it out</text>
+</svg>

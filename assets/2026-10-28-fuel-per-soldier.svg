@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="495" viewBox="0 0 1000 330" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Gallons of fuel used per soldier per day in World War II and in Iraq</title>
+<desc id="desc">Two horizontal bars: World War II, 1.7 gallons a day per soldier; Iraq, about 27 gallons, sixteen times as much, highlighted.</desc>
+<rect width="1000" height="330" fill="#ffffff"/>
+<text x="10" y="46" font-size="32" font-weight="600" letter-spacing="1.2" fill="#1f4e79">GALLONS OF FUEL PER SOLDIER PER DAY</text>
+<text x="10" y="130" font-size="34" fill="#041e42">World War II</text>
+<rect x="10" y="144" width="41.9" height="50" fill="#041e42"/>
+<text x="67.9" y="181.0" font-size="34" font-weight="400" fill="#5b6672">1.7</text>
+<text x="10" y="255" font-size="34" fill="#041e42">Iraq</text>
+<rect x="10" y="269" width="670.9" height="50" fill="#8a7a5c"/>
+<text x="696.9" y="306.0" font-size="34" font-weight="700" fill="#8a7a5c">about 27</text>
+</svg>

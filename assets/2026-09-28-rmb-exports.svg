@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The dollar value of the renminbi and China's merchandise exports, 2005 to 2015</title>
+<desc id="desc">Two panels. Left: one renminbi buys 12.2 U.S. cents in 2005 and 16.2 cents in 2014, so the renminbi appreciated. Right: China's merchandise exports rise from 762 billion dollars in 2005 to 2,342 billion in 2014.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<text x="140" y="50" font-size="26" font-weight="600" letter-spacing="1.2" fill="#1f4e79">U.S. CENTS PER RMB (UP = STRONGER RMB)</text>
+<line x1="140" y1="480.0" x2="740" y2="480.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="126" y="489.0" text-anchor="end" font-size="26" fill="#5b6672">10.0</text>
+<line x1="140" y1="385.0" x2="740" y2="385.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="126" y="394.0" text-anchor="end" font-size="26" fill="#5b6672">12.0</text>
+<line x1="140" y1="290.0" x2="740" y2="290.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="126" y="299.0" text-anchor="end" font-size="26" fill="#5b6672">14.0</text>
+<line x1="140" y1="195.0" x2="740" y2="195.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="126" y="204.0" text-anchor="end" font-size="26" fill="#5b6672">16.0</text>
+<line x1="140" y1="100.0" x2="740" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="126" y="109.0" text-anchor="end" font-size="26" fill="#5b6672">18.0</text>
+<text x="140.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2005</text>
+<text x="440.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2010</text>
+<text x="740.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2015</text>
+<path d="M140.0 375.3 L200.0 359.2 L260.0 330.5 L320.0 271.4 L380.0 259.6 L440.0 253.3 L500.0 220.1 L560.0 202.0 L620.0 182.4 L680.0 184.0 L740.0 199.0" fill="none" stroke="#041e42" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="140.0" cy="375.3" r="9" fill="#041e42"/>
+<text x="146.0" y="411.3" text-anchor="start" font-size="26" fill="#5b6672">12.2</text>
+<circle cx="740.0" cy="199.0" r="9" fill="#041e42"/>
+<text x="740.0" y="179.0" text-anchor="end" font-size="26" fill="#5b6672">15.9</text>
+<text x="940" y="50" font-size="26" font-weight="600" letter-spacing="1.2" fill="#1f4e79">CHINA'S EXPORTS, US$ BILLIONS</text>
+<line x1="940" y1="480.0" x2="1540" y2="480.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="489.0" text-anchor="end" font-size="26" fill="#5b6672">0</text>
+<line x1="940" y1="404.0" x2="1540" y2="404.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="413.0" text-anchor="end" font-size="26" fill="#5b6672">500</text>
+<line x1="940" y1="328.0" x2="1540" y2="328.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="337.0" text-anchor="end" font-size="26" fill="#5b6672">1,000</text>
+<line x1="940" y1="252.0" x2="1540" y2="252.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="261.0" text-anchor="end" font-size="26" fill="#5b6672">1,500</text>
+<line x1="940" y1="176.0" x2="1540" y2="176.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="185.0" text-anchor="end" font-size="26" fill="#5b6672">2,000</text>
+<line x1="940" y1="100.0" x2="1540" y2="100.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="926" y="109.0" text-anchor="end" font-size="26" fill="#5b6672">2,500</text>
+<text x="940.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2005</text>
+<text x="1240.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2010</text>
+<text x="1540.0" y="518" text-anchor="middle" font-size="26" fill="#5b6672">2015</text>
+<path d="M940.0 364.2 L1000.0 332.7 L1060.0 294.5 L1120.0 262.5 L1180.0 297.4 L1240.0 240.2 L1300.0 191.4 L1360.0 168.6 L1420.0 144.2 L1480.0 124.0 L1540.0 134.4" fill="none" stroke="#8a7a5c" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="940.0" cy="364.2" r="9" fill="#8a7a5c"/>
+<text x="946.0" y="400.2" text-anchor="start" font-size="26" fill="#5b6672">762</text>
+<circle cx="1540.0" cy="134.4" r="9" fill="#8a7a5c"/>
+<text x="1540.0" y="114.4" text-anchor="end" font-size="26" fill="#5b6672">2,274</text>
+</svg>

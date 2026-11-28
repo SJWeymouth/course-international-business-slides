@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The risk tiers of the EU's AI Act and when each applies</title>
+<desc id="desc">Diagram of a pyramid with four tiers of AI use beside a description of each. Banned: scoring people's social behavior, not allowed since February 2025. High risk, highlighted: screening job applicants and scoring credit, strict duties from December 2027. Limited risk: customer chatbots and AI-made images, must be labeled since August 2026. Minimal risk: spam filters and sales forecasts, no new rules.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<polygon points="130.0,14 270.0,14 299.7,149 100.3,149" fill="#041e42"/>
+<text x="200" y="90.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">BANNED</text>
+<text x="430" y="73.5" font-size="31" font-weight="600" fill="#041e42" text-anchor="start">Scoring people's social behavior</text>
+<text x="430" y="113.5" font-size="28" font-weight="400" fill="#5b6672" text-anchor="start">Not allowed since February 2025</text>
+<polygon points="98.5,157 301.5,157 331.2,292 68.8,292" fill="#8a7a5c"/>
+<text x="200" y="218.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">HIGH</text>
+<text x="200" y="248.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">RISK</text>
+<text x="430" y="216.5" font-size="31" font-weight="600" fill="#041e42" text-anchor="start">Hiring decisions, credit scoring</text>
+<text x="430" y="256.5" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="start">Strict duties from December 2027</text>
+<polygon points="67.0,300 333.0,300 362.7,435 37.3,435" fill="#041e42"/>
+<text x="200" y="361.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">LIMITED</text>
+<text x="200" y="391.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">RISK</text>
+<text x="430" y="359.5" font-size="31" font-weight="600" fill="#041e42" text-anchor="start">Customer chatbots, AI-made images</text>
+<text x="430" y="399.5" font-size="28" font-weight="400" fill="#5b6672" text-anchor="start">Must be labeled since August 2026</text>
+<polygon points="35.5,443 364.5,443 394.2,578 5.8,578" fill="#041e42"/>
+<text x="200" y="504.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">MINIMAL</text>
+<text x="200" y="534.5" font-size="25" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">RISK</text>
+<text x="430" y="502.5" font-size="31" font-weight="600" fill="#041e42" text-anchor="start">Spam filters, sales forecasts</text>
+<text x="430" y="542.5" font-size="28" font-weight="400" fill="#5b6672" text-anchor="start">No new rules</text>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="500" viewBox="0 0 1600 500" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How trade and tax rules bind states but neither the AI firms nor the states' responses to them</title>
+<desc id="desc">Diagram of three boxes in a row. Trade and tax rules sort trade into goods or services and tax profit where production is. An arrow from the rules to states is labeled rules bind states. A dashed arc from the rules to AI firms is crossed out and labeled 1, no hold on the firms, whose products are both goods and services and whose profits have no fixed location. A highlighted arrow from states to AI firms is labeled 2, states act on their own: export controls, platform bans, and digital taxes fall outside the rules. A line at the bottom reads: March 2026, the WTO's 1998 moratorium on digital tariffs lapsed.</desc>
+<rect width="1600" height="500" fill="#ffffff"/>
+<rect x="20" y="170" width="360" height="110" fill="#041e42"/>
+<text x="200.0" y="235.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">TRADE AND TAX RULES</text>
+<text x="200.0" y="330" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">Sort trade into goods</text>
+<text x="200.0" y="366" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">or services, and tax profit</text>
+<text x="200.0" y="402" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">where production is</text>
+<rect x="620" y="170" width="360" height="110" fill="#041e42"/>
+<text x="800.0" y="235.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">STATES</text>
+<text x="800.0" y="330" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">Export controls, platform</text>
+<text x="800.0" y="366" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">bans, and digital taxes</text>
+<text x="800.0" y="402" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">fall outside the rules</text>
+<rect x="1220" y="170" width="360" height="110" fill="#8a7a5c"/>
+<text x="1400.0" y="235.0" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.2">AI FIRMS</text>
+<text x="1400.0" y="330" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">Products are both goods</text>
+<text x="1400.0" y="366" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">and services, and profits</text>
+<text x="1400.0" y="402" font-size="27" font-weight="400" fill="#5b6672" text-anchor="middle">have no fixed location</text>
+<line x1="392.0" y1="225.0" x2="584.0" y2="225.0" stroke="#041e42" stroke-width="8"/>
+<polygon points="608.0,225.0 584.0,241.8 584.0,208.2" fill="#041e42"/>
+<line x1="992.0" y1="225.0" x2="1184.0" y2="225.0" stroke="#8a7a5c" stroke-width="8"/>
+<polygon points="1208.0,225.0 1184.0,241.8 1184.0,208.2" fill="#8a7a5c"/>
+<text x="500" y="167.0" font-size="21" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1.2">RULES BIND</text>
+<text x="500" y="195.0" font-size="21" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1.2">STATES</text>
+<text x="1100" y="167.0" font-size="21" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1.2">2  STATES ACT</text>
+<text x="1100" y="195.0" font-size="21" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1.2">ON THEIR OWN</text>
+<path d="M 200.0 164 C 200.0 40, 1400.0 40, 1400.0 140" fill="none" stroke="#5b6672" stroke-width="5" stroke-dasharray="16 12"/>
+<line x1="1400.0" y1="136.0" x2="1400.0" y2="144.0" stroke="#5b6672" stroke-width="5"/>
+<polygon points="1400.0,164.0 1386.0,144.0 1414.0,144.0" fill="#5b6672"/>
+<rect x="570.0" y="43" width="460" height="60" fill="#ffffff"/>
+<line x1="596.0" y1="59" x2="624.0" y2="87" stroke="#8a7a5c" stroke-width="7"/><line x1="596.0" y1="87" x2="624.0" y2="59" stroke="#8a7a5c" stroke-width="7"/>
+<text x="822.0" y="82" font-size="24" font-weight="700" fill="#5b6672" text-anchor="middle" letter-spacing="1.5">1  NO HOLD ON THE FIRMS</text>
+<text x="800.0" y="478" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle">March 2026: the WTO's 1998 moratorium on digital tariffs lapsed.</text>
+</svg>

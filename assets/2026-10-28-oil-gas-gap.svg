@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="702" viewBox="0 0 1000 702" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Oil and natural gas prices in the U.S., Europe, and Asia, 2025, U.S. price = 100</title>
+<desc id="desc">Six horizontal bars in two groups, U.S. price equals 100. Oil: U.S. (WTI, 65 dollars a barrel) 100; Europe (Brent, 68) 104; Middle East (Dubai, 69) 106. Gas: U.S. (Henry Hub, 3.63 dollars per million BTU) 100; Europe (11.91) 328, highlighted; Asia (LNG, 12.09) 333, highlighted.</desc>
+<rect width="1000" height="702" fill="#ffffff"/>
+<text x="10" y="46" font-size="32" font-weight="600" letter-spacing="1.2" fill="#1f4e79">PRICE IN 2025, U.S. PRICE = 100</text>
+<text x="10" y="124" font-size="30" fill="#041e42"><tspan font-weight="700">Oil</tspan>, U.S. (WTI), $65 a barrel</text>
+<rect x="10" y="136" width="241.7" height="44" fill="#5b6672"/>
+<text x="265.7" y="169.4" font-size="32" font-weight="400" fill="#5b6672">100</text>
+<text x="10" y="220" font-size="30" fill="#041e42"><tspan font-weight="700">Oil</tspan>, Europe (Brent), $68</text>
+<rect x="10" y="232" width="252.1" height="44" fill="#041e42"/>
+<text x="276.1" y="265.4" font-size="32" font-weight="400" fill="#5b6672">104</text>
+<text x="10" y="316" font-size="30" fill="#041e42"><tspan font-weight="700">Oil</tspan>, Middle East (Dubai), $69</text>
+<rect x="10" y="328" width="256.2" height="44" fill="#041e42"/>
+<text x="280.2" y="361.4" font-size="32" font-weight="400" fill="#5b6672">106</text>
+<text x="10" y="452" font-size="30" fill="#041e42"><tspan font-weight="700">Gas</tspan>, U.S. (Henry Hub), $3.63 per million BTU</text>
+<rect x="10" y="464" width="241.7" height="44" fill="#5b6672"/>
+<text x="265.7" y="497.4" font-size="32" font-weight="400" fill="#5b6672">100</text>
+<text x="10" y="548" font-size="30" fill="#041e42"><tspan font-weight="700">Gas</tspan>, Europe, $11.91</text>
+<rect x="10" y="560" width="792.9" height="44" fill="#8a7a5c"/>
+<text x="816.9" y="593.4" font-size="32" font-weight="700" fill="#8a7a5c">328</text>
+<text x="10" y="644" font-size="30" fill="#041e42"><tspan font-weight="700">Gas</tspan>, Asia (LNG), $12.09</text>
+<rect x="10" y="656" width="805.0" height="44" fill="#8a7a5c"/>
+<text x="829.0" y="689.4" font-size="32" font-weight="700" fill="#8a7a5c">333</text>
+</svg>

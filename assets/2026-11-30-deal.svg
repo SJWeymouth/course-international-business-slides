@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="456" viewBox="0 0 1000 456" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The offer in the activity: what the United States offers and what it asks in return</title>
+<desc id="desc">Diagram of two stacked boxes. The United States offers: Nvidia's most advanced chips and U.S. data center investment. In return, you, highlighted: enforce U.S. export controls on China, drop taxes and rules on U.S. tech firms, and invest in the United States.</desc>
+<rect width="1000" height="456" fill="#ffffff"/>
+<rect x="6" y="4" width="988" height="184" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="6" y="4" width="988" height="60" fill="#041e42"/>
+<text x="500.0" y="46" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">THE UNITED STATES OFFERS</text>
+<text x="500.0" y="112" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">Nvidia's most advanced chips</text>
+<text x="500.0" y="158" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">U.S. data center investment</text>
+<rect x="6" y="212" width="988" height="230" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="6" y="212" width="988" height="60" fill="#8a7a5c"/>
+<text x="500.0" y="254" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">IN RETURN, YOU</text>
+<text x="500.0" y="320" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">Enforce U.S. export controls on China</text>
+<text x="500.0" y="366" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">Drop taxes and rules on U.S. tech firms</text>
+<text x="500.0" y="412" font-size="34" font-weight="600" fill="#041e42" text-anchor="middle">Invest in the United States</text>
+</svg>

@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="566" viewBox="0 0 1600 566" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Where five cases ended up on the political trilemma</title>
+<desc id="desc">The trilemma triangle with five cases. Argentina in 2002 moved from the Golden Straitjacket side to the bottom side, national democracy, by ending its peg. Britain in 2021 moved from the global governance side to the bottom side by leaving the single market. South Africa in 2010 and the European Union in 1998 stayed on the bottom side, keeping their own rules. Greece in 2015, highlighted, stayed on the Golden Straitjacket side by keeping the euro.</desc>
+<rect width="1600" height="566" fill="#ffffff"/>
+<line x1="716" y1="82" x2="552" y2="396" stroke="#cdd9e6" stroke-width="10" stroke-linecap="round"/>
+<line x1="884" y1="82" x2="1048" y2="396" stroke="#cdd9e6" stroke-width="10" stroke-linecap="round"/>
+<line x1="644" y1="440" x2="956" y2="440" stroke="#041e42" stroke-width="14" stroke-linecap="round"/>
+<text x="622" y="212" font-size="24" font-weight="700" fill="#5b6672" text-anchor="end" letter-spacing="1">GOLDEN</text>
+<text x="608" y="242" font-size="24" font-weight="700" fill="#5b6672" text-anchor="end" letter-spacing="1">STRAITJACKET</text>
+<text x="1018" y="292" font-size="24" font-weight="700" fill="#5b6672" text-anchor="start" letter-spacing="1">GLOBAL</text>
+<text x="1032" y="322" font-size="24" font-weight="700" fill="#5b6672" text-anchor="start" letter-spacing="1">GOVERNANCE</text>
+<line x1="400" y1="68.0" x2="670.1" y2="169.9" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="16" width="380" height="104" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="20" y="16" width="380" height="46" fill="#8a7a5c"/>
+<text x="210.0" y="49" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">GREECE, 2015</text>
+<text x="210.0" y="100" font-size="31" font-weight="400" fill="#041e42" text-anchor="middle">Stayed in the euro</text>
+<line x1="400" y1="302.0" x2="601.2" y2="301.8" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="250" width="380" height="104" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="20" y="250" width="380" height="46" fill="#041e42"/>
+<text x="210.0" y="283" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">ARGENTINA, 2002</text>
+<text x="210.0" y="334" font-size="31" font-weight="400" fill="#041e42" text-anchor="middle">Ended the peg</text>
+<line x1="400" y1="510.0" x2="700.0" y2="510.0" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="20" y="458" width="380" height="104" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="20" y="458" width="380" height="46" fill="#041e42"/>
+<text x="210.0" y="491" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">EUROPEAN UNION, 1998</text>
+<text x="210.0" y="542" font-size="31" font-weight="400" fill="#041e42" text-anchor="middle">Kept its beef ban</text>
+<line x1="1200" y1="172.0" x2="949.6" y2="207.6" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="1200" y="120" width="380" height="104" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1200" y="120" width="380" height="46" fill="#041e42"/>
+<text x="1390.0" y="153" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">BRITAIN, 2021</text>
+<text x="1390.0" y="204" font-size="31" font-weight="400" fill="#041e42" text-anchor="middle">Left the single market</text>
+<line x1="1200" y1="510.0" x2="900.0" y2="510.0" stroke="#5b6672" stroke-width="2.5" stroke-dasharray="7 6"/>
+<rect x="1200" y="458" width="380" height="104" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1200" y="458" width="380" height="46" fill="#041e42"/>
+<text x="1390.0" y="491" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">SOUTH AFRICA, 2010</text>
+<text x="1390.0" y="542" font-size="31" font-weight="400" fill="#041e42" text-anchor="middle">Kept its ownership rules</text>
+<line x1="700" y1="448" x2="700" y2="510" stroke="#041e42" stroke-width="4"/>
+<line x1="900" y1="448" x2="900" y2="510" stroke="#041e42" stroke-width="4"/>
+<line x1="613.2" y1="315.8" x2="720.5" y2="403.4" stroke="#041e42" stroke-width="6"/>
+<polygon points="736.0,416.0 711.7,414.2 729.4,392.5" fill="#041e42"/>
+<line x1="939.6" y1="223.6" x2="871.3" y2="397.4" stroke="#041e42" stroke-width="6"/>
+<polygon points="864.0,416.0 858.3,392.3 884.3,402.5" fill="#041e42"/>
+<rect x="620.0" y="12.0" width="360" height="68" fill="#041e42"/>
+<text x="800" y="55" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">HYPERGLOBALIZATION</text>
+<rect x="402.0" y="398.0" width="236" height="84" fill="#041e42"/>
+<text x="520" y="433" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">NATION</text>
+<text x="520" y="465" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">STATE</text>
+<rect x="962.0" y="398.0" width="236" height="84" fill="#041e42"/>
+<text x="1080" y="433" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">DEMOCRATIC</text>
+<text x="1080" y="465" font-size="26" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">POLITICS</text>
+<circle cx="601.2" cy="301.8" r="13" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<circle cx="949.6" cy="207.6" r="13" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<circle cx="670.1" cy="169.9" r="15" fill="#8a7a5c" stroke="#ffffff" stroke-width="3"/>
+<circle cx="700.0" cy="510.0" r="11" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<circle cx="900.0" cy="510.0" r="11" fill="#041e42" stroke="#ffffff" stroke-width="3"/>
+<rect x="1200" y="30" width="26" height="26" fill="#041e42"/><text x="1238" y="52" font-size="28" font-weight="600" fill="#041e42" text-anchor="start">The voters won</text>
+<rect x="1200" y="72" width="26" height="26" fill="#8a7a5c"/><text x="1238" y="94" font-size="28" font-weight="600" fill="#8a7a5c" text-anchor="start">The promise held</text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Distribution of the iPhone 4 retail price by who captured it, 2010</title>
+<desc id="desc">Horizontal bars: Apple 58.5 percent, materials 21.9, unidentified profits 5.3, Korea 4.7, non-China labor 3.5, US suppliers 2.4, China labor 1.8, EU 1.1, Japan 0.5, Taiwan 0.5.</desc>
+<rect width="1600" height="600" fill="#ffffff"/>
+<text x="400" y="42" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">SHARE OF THE $549 IPHONE 4 PRICE, 2010</text>
+<text x="384" y="97.36" text-anchor="end" font-size="34" fill="#041e42">Apple</text>
+<rect x="400" y="70" width="1010.0" height="38" fill="#041e42"/>
+<text x="1422.0" y="97.36" font-size="34" fill="#5b6672">58.5%</text>
+<text x="384" y="146.36" text-anchor="end" font-size="34" fill="#041e42">Materials</text>
+<rect x="400" y="119" width="378.1" height="38" fill="#041e42"/>
+<text x="790.1" y="146.36" font-size="34" fill="#5b6672">21.9%</text>
+<text x="384" y="195.36" text-anchor="end" font-size="34" fill="#041e42">Unidentified profits</text>
+<rect x="400" y="168" width="91.5" height="38" fill="#041e42"/>
+<text x="503.5" y="195.36" font-size="34" fill="#5b6672">5.3%</text>
+<text x="384" y="244.36" text-anchor="end" font-size="34" fill="#041e42">Korea</text>
+<rect x="400" y="217" width="81.1" height="38" fill="#041e42"/>
+<text x="493.1" y="244.36" font-size="34" fill="#5b6672">4.7%</text>
+<text x="384" y="293.36" text-anchor="end" font-size="34" fill="#041e42">Non-China labor</text>
+<rect x="400" y="266" width="60.4" height="38" fill="#041e42"/>
+<text x="472.4" y="293.36" font-size="34" fill="#5b6672">3.5%</text>
+<text x="384" y="342.36" text-anchor="end" font-size="34" fill="#041e42">US suppliers</text>
+<rect x="400" y="315" width="41.4" height="38" fill="#041e42"/>
+<text x="453.4" y="342.36" font-size="34" fill="#5b6672">2.4%</text>
+<text x="384" y="391.36" text-anchor="end" font-size="34" fill="#041e42">China labor</text>
+<rect x="400" y="364" width="31.1" height="38" fill="#8a7a5c"/>
+<text x="443.1" y="391.36" font-size="34" fill="#5b6672">1.8%</text>
+<text x="384" y="440.36" text-anchor="end" font-size="34" fill="#041e42">EU suppliers</text>
+<rect x="400" y="413" width="19.0" height="38" fill="#041e42"/>
+<text x="431.0" y="440.36" font-size="34" fill="#5b6672">1.1%</text>
+<text x="384" y="489.36" text-anchor="end" font-size="34" fill="#041e42">Japan</text>
+<rect x="400" y="462" width="8.6" height="38" fill="#041e42"/>
+<text x="420.6" y="489.36" font-size="34" fill="#5b6672">0.5%</text>
+<text x="384" y="538.36" text-anchor="end" font-size="34" fill="#041e42">Taiwan</text>
+<rect x="400" y="511" width="8.6" height="38" fill="#041e42"/>
+<text x="420.6" y="538.36" font-size="34" fill="#5b6672">0.5%</text>
+<line x1="400" y1="64" x2="400" y2="555" stroke="#5b6672" stroke-width="2"/>
+</svg>

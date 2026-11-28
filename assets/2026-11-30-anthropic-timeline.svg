@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="330" viewBox="0 0 1600 330" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Anthropic and the U.S. government, February to June 2026</title>
+<desc id="desc">Timeline. February 2026: the Department of War names Anthropic a supply chain risk. March 2026: a federal court blocks the designation. June 12, 2026: Commerce orders foreign access to its top models cut off. June 30, 2026, highlighted: Commerce lifts the order after 18 days.</desc>
+<rect width="1600" height="330" fill="#ffffff"/>
+<line x1="40" y1="80" x2="1560" y2="80" stroke="#5b6672" stroke-width="4"/>
+<circle cx="210.0" cy="80" r="18" fill="#041e42"/>
+<text x="210.0" y="44" font-size="28" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">FEBRUARY 2026</text>
+<text x="210.0" y="154" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">Department of War</text>
+<text x="210.0" y="192" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">names Anthropic a</text>
+<text x="210.0" y="230" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">supply chain risk</text>
+<circle cx="603.3" cy="80" r="18" fill="#041e42"/>
+<text x="603.3" y="44" font-size="28" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">MARCH 2026</text>
+<text x="603.3" y="154" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">A federal court blocks</text>
+<text x="603.3" y="192" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">the designation</text>
+<circle cx="996.7" cy="80" r="18" fill="#041e42"/>
+<text x="996.7" y="44" font-size="28" font-weight="700" fill="#041e42" text-anchor="middle" letter-spacing="1">JUNE 12</text>
+<text x="996.7" y="154" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">Commerce orders</text>
+<text x="996.7" y="192" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">foreign access to its</text>
+<text x="996.7" y="230" font-size="29" font-weight="400" fill="#5b6672" text-anchor="middle">top models cut off</text>
+<circle cx="1390.0" cy="80" r="18" fill="#8a7a5c"/>
+<text x="1390.0" y="44" font-size="28" font-weight="700" fill="#8a7a5c" text-anchor="middle" letter-spacing="1">JUNE 30</text>
+<text x="1390.0" y="154" font-size="29" font-weight="700" fill="#8a7a5c" text-anchor="middle">Commerce lifts the</text>
+<text x="1390.0" y="192" font-size="29" font-weight="700" fill="#8a7a5c" text-anchor="middle">order after 18 days</text>
+</svg>

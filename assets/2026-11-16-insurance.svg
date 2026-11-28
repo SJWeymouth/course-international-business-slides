@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="360" viewBox="0 0 1600 360" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Two insurance disputes over NotPetya losses</title>
+<desc id="desc">A table of two disputes. Mondelez, maker of Oreo and Cadbury, against Zurich, a Swiss insurer: Mondelez claimed about 100 million dollars; settled in 2022. Merck, a U.S. drugmaker, against Ace American and other insurers: Merck claimed about 1.4 billion dollars; a New Jersey appeals court ruled for Merck in 2023, highlighted; settled in 2024.</desc>
+<rect width="1600" height="360" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">FIRM</text>
+<text x="400" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">INSURER</text>
+<text x="790" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">FIRM'S CLAIM</text>
+<text x="1100" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">OUTCOME</text>
+<line x1="10" y1="70" x2="1590" y2="70" stroke="#041e42" stroke-width="3"/>
+<text x="10" y="130" font-size="32" fill="#041e42">Mondelez</text>
+<text x="10" y="168" font-size="26" fill="#5b6672">maker of Oreo and Cadbury</text>
+<text x="400" y="130" font-size="32" fill="#041e42">Zurich</text>
+<text x="400" y="168" font-size="26" fill="#5b6672">Swiss insurer</text>
+<text x="790" y="130" font-size="32" fill="#5b6672">about $100 million</text>
+<text x="1100" y="130" font-size="32" font-weight="400" fill="#041e42">Settled, 2022</text>
+<text x="10" y="262" font-size="32" fill="#041e42">Merck</text>
+<text x="10" y="300" font-size="26" fill="#5b6672">U.S. drugmaker</text>
+<text x="400" y="262" font-size="32" fill="#041e42">Ace American</text>
+<text x="400" y="300" font-size="26" fill="#5b6672">and other insurers</text>
+<text x="790" y="262" font-size="32" fill="#5b6672">about $1.4 billion</text>
+<text x="1100" y="262" font-size="32" font-weight="700" fill="#8a7a5c">Court ruled for Merck, 2023</text>
+<text x="1100" y="306" font-size="32" font-weight="400" fill="#041e42">Settled, 2024</text>
+<line x1="10" y1="200" x2="1590" y2="200" stroke="#cdd9e6" stroke-width="2"/>
+<line x1="10" y1="345" x2="1590" y2="345" stroke="#cdd9e6" stroke-width="2"/>
+</svg>

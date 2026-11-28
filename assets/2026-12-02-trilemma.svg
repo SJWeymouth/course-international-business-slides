@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="700" viewBox="0 0 1000 700" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The political trilemma of the world economy</title>
+<desc id="desc">Triangle diagram. Three corners: hyperglobalization at the top, the nation state at lower left, democratic politics at lower right. Three sides: the Golden Straitjacket joins hyperglobalization and the nation state; global governance joins hyperglobalization and democratic politics; the Bretton Woods compromise joins the nation state and democratic politics.</desc>
+<rect width="1000" height="700" fill="#ffffff"/>
+<line x1="410" y1="118" x2="205" y2="516" stroke="#1f4e79" stroke-width="8" stroke-linecap="round"/>
+<text x="268" y="300" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="end" letter-spacing="1">GOLDEN</text>
+<text x="268" y="338" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="end" letter-spacing="1">STRAITJACKET</text>
+<line x1="590" y1="118" x2="795" y2="516" stroke="#1f4e79" stroke-width="8" stroke-linecap="round"/>
+<text x="732" y="300" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="start" letter-spacing="1">GLOBAL</text>
+<text x="732" y="338" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="start" letter-spacing="1">GOVERNANCE</text>
+<line x1="316" y1="562" x2="684" y2="562" stroke="#1f4e79" stroke-width="8" stroke-linecap="round"/>
+<text x="500" y="612" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="1">BRETTON WOODS</text>
+<text x="500" y="650" font-size="30" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="1">COMPROMISE</text>
+<rect x="290.0" y="28.0" width="420" height="84" fill="#041e42"/>
+<text x="500" y="81" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">HYPERGLOBALIZATION</text>
+<rect x="20.0" y="522.0" width="290" height="116" fill="#041e42"/>
+<text x="165" y="572" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">NATION</text>
+<text x="165" y="610" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">STATE</text>
+<rect x="690.0" y="522.0" width="290" height="116" fill="#041e42"/>
+<text x="835" y="572" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">DEMOCRATIC</text>
+<text x="835" y="610" font-size="31" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="1.5">POLITICS</text>
+</svg>

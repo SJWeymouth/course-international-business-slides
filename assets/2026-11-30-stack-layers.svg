@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">The AI stack as a value chain of four steps, with the main firms at each</title>
+<desc id="desc">Diagram of four cards in a row joined by arrows, each naming the main firms at one step of the AI value chain. Chips, the processors that do AI's arithmetic: Nvidia designs the chips in the United States, TSMC makes them in Taiwan, and ASML of the Netherlands builds the chip machines. Compute, data centers that run chips by the thousand: Amazon, Microsoft, and Google of the United States and Alibaba of China. Models, software trained on data to write, see, and plan: OpenAI and Anthropic of the United States and DeepSeek of China. Applications, the tools that people and firms use: ChatGPT, Copilot, and Waymo. A caption above recalls the Nespresso capsule: coffee and aluminum, capsule factory, boutiques, the cup.</desc>
+<rect width="1600" height="560" fill="#ffffff"/>
+<text x="12" y="40" font-size="24" fill="#5b6672"><tspan font-weight="700" fill="#1f4e79" letter-spacing="1.5">THE NESPRESSO CAPSULE, AUGUST 26:</tspan> coffee and aluminum  →  capsule factory  →  boutiques  →  the cup</text>
+<rect x="10" y="72" width="356" height="478" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="10" y="72" width="356" height="62" fill="#041e42"/>
+<text x="188.0" y="115" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">CHIPS</text>
+<text x="32" y="172" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">The processors that</text>
+<text x="32" y="203" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">do AI's arithmetic</text>
+<line x1="32" y1="228" x2="344" y2="228" stroke="#cdd9e6" stroke-width="2"/>
+<text x="32" y="284" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Nvidia</text>
+<text x="32" y="313" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">designs chips · United States</text>
+<text x="32" y="384" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">TSMC</text>
+<text x="32" y="413" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">makes chips · Taiwan</text>
+<text x="32" y="484" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">ASML</text>
+<text x="32" y="513" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">chip machines · Netherlands</text>
+<line x1="374.0" y1="311.0" x2="386.0" y2="311.0" stroke="#8a7a5c" stroke-width="9"/>
+<polygon points="410.0,311.0 386.0,327.8 386.0,294.2" fill="#8a7a5c"/>
+<rect x="418" y="72" width="356" height="478" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="418" y="72" width="356" height="62" fill="#041e42"/>
+<text x="596.0" y="115" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">COMPUTE</text>
+<text x="440" y="172" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">Data centers that run</text>
+<text x="440" y="203" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">chips by the thousand</text>
+<line x1="440" y1="228" x2="752" y2="228" stroke="#cdd9e6" stroke-width="2"/>
+<text x="440" y="274" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Amazon</text>
+<text x="440" y="303" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">AWS · United States</text>
+<text x="440" y="352" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Microsoft</text>
+<text x="440" y="381" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">Azure · United States</text>
+<text x="440" y="430" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Google</text>
+<text x="440" y="459" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">Google Cloud · United States</text>
+<text x="440" y="508" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Alibaba</text>
+<text x="440" y="537" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">Alibaba Cloud · China</text>
+<line x1="782.0" y1="311.0" x2="794.0" y2="311.0" stroke="#8a7a5c" stroke-width="9"/>
+<polygon points="818.0,311.0 794.0,327.8 794.0,294.2" fill="#8a7a5c"/>
+<rect x="826" y="72" width="356" height="478" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="826" y="72" width="356" height="62" fill="#041e42"/>
+<text x="1004.0" y="115" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">MODELS</text>
+<text x="848" y="172" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">Software trained on data</text>
+<text x="848" y="203" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">to write, see, and plan</text>
+<line x1="848" y1="228" x2="1160" y2="228" stroke="#cdd9e6" stroke-width="2"/>
+<text x="848" y="284" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">OpenAI</text>
+<text x="848" y="313" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">GPT · United States</text>
+<text x="848" y="384" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Anthropic</text>
+<text x="848" y="413" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">Claude · United States</text>
+<text x="848" y="484" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">DeepSeek</text>
+<text x="848" y="513" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">DeepSeek · China</text>
+<line x1="1190.0" y1="311.0" x2="1202.0" y2="311.0" stroke="#8a7a5c" stroke-width="9"/>
+<polygon points="1226.0,311.0 1202.0,327.8 1202.0,294.2" fill="#8a7a5c"/>
+<rect x="1234" y="72" width="356" height="478" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1234" y="72" width="356" height="62" fill="#041e42"/>
+<text x="1412.0" y="115" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2.5">APPLICATIONS</text>
+<text x="1256" y="172" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">The tools that people</text>
+<text x="1256" y="203" font-size="24" font-weight="400" fill="#5b6672" text-anchor="start">and firms use</text>
+<line x1="1256" y1="228" x2="1568" y2="228" stroke="#cdd9e6" stroke-width="2"/>
+<text x="1256" y="284" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">ChatGPT</text>
+<text x="1256" y="313" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">chatbot · OpenAI</text>
+<text x="1256" y="384" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Copilot</text>
+<text x="1256" y="413" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">work assistant · Microsoft</text>
+<text x="1256" y="484" font-size="38" font-weight="700" fill="#041e42" text-anchor="start">Waymo</text>
+<text x="1256" y="513" font-size="19.5" font-weight="600" fill="#8a7a5c" text-anchor="start">driverless taxis · Alphabet</text>
+</svg>

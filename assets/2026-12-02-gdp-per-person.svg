@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Argentina's real GDP per person, 1990 to 2002, as an index</title>
+<desc id="desc">A line chart of Argentina's real GDP per person with 1990 set to 100. The line rises to 128 in 1994, dips in 1995, peaks at 140 in 1998, highlighted, and falls to 109 in 2002.</desc>
+<rect width="1000" height="620" fill="#ffffff"/>
+<text x="10" y="46" font-size="30" font-weight="600" letter-spacing="1.2" fill="#1f4e79">ARGENTINA'S GDP PER PERSON, 1990 = 100</text>
+<line x1="84" y1="480.0" x2="960" y2="480.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="70" y="489.0" font-size="26" font-weight="400" fill="#5b6672" text-anchor="end">100</text>
+<line x1="84" y1="324.0" x2="960" y2="324.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="70" y="333.0" font-size="26" font-weight="400" fill="#5b6672" text-anchor="end">120</text>
+<line x1="84" y1="168.0" x2="960" y2="168.0" stroke="#cdd9e6" stroke-width="2"/>
+<text x="70" y="177.0" font-size="26" font-weight="400" fill="#5b6672" text-anchor="end">140</text>
+<line x1="84" y1="558" x2="960" y2="558" stroke="#5b6672" stroke-width="2"/>
+<line x1="84.0" y1="558" x2="84.0" y2="568" stroke="#5b6672" stroke-width="2"/>
+<text x="84.0" y="600" font-size="26" font-weight="400" fill="#5b6672" text-anchor="middle">1990</text>
+<line x1="376.0" y1="558" x2="376.0" y2="568" stroke="#5b6672" stroke-width="2"/>
+<text x="376.0" y="600" font-size="26" font-weight="400" fill="#5b6672" text-anchor="middle">1994</text>
+<line x1="668.0" y1="558" x2="668.0" y2="568" stroke="#5b6672" stroke-width="2"/>
+<text x="668.0" y="600" font-size="26" font-weight="400" fill="#5b6672" text-anchor="middle">1998</text>
+<line x1="960.0" y1="558" x2="960.0" y2="568" stroke="#5b6672" stroke-width="2"/>
+<text x="960.0" y="600" font-size="26" font-weight="400" fill="#5b6672" text-anchor="middle">2002</text>
+<polyline points="84.0,480.0 157.0,420.7 230.0,366.9 303.0,306.8 376.0,263.9 449.0,305.3 522.0,264.7 595.0,197.6 668.0,169.6 741.0,217.9 814.0,238.2 887.0,293.6 960.0,408.2" fill="none" stroke="#041e42" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="84.0" cy="480.0" r="10" fill="#041e42"/>
+<text x="98.0" y="526.0" font-size="32" font-weight="700" fill="#041e42" text-anchor="start">100</text>
+<circle cx="668.0" cy="169.6" r="13" fill="#8a7a5c"/>
+<text x="668.0" y="143.6" font-size="32" font-weight="700" fill="#8a7a5c" text-anchor="middle">140</text>
+<circle cx="960.0" cy="408.2" r="10" fill="#041e42"/>
+<text x="956.0" y="460.2" font-size="32" font-weight="700" fill="#041e42" text-anchor="end">109</text>
+</svg>

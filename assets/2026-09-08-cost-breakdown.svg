@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Cost of shipping a truckload of medicine from Chicago to Nancy around 1960</title>
+  <desc id="desc">A stacked bar highlights that port handling accounted for 48.7 percent of the total shipping cost.</desc>
+  <rect width="1600" height="560" fill="#ffffff"/>
+  <text x="800" y="65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#041e42">Share of total shipping cost</text>
+  <g transform="translate(85 155)">
+    <rect x="0" y="0" width="204" height="150" fill="#7f95b2"/>
+    <rect x="204" y="0" width="57" height="150" fill="#b9c5d4"/>
+    <rect x="261" y="0" width="696" height="150" fill="#041e42"/>
+    <rect x="957" y="0" width="349" height="150" fill="#365f91"/>
+    <rect x="1306" y="0" width="123" height="150" fill="#b3a394"/>
+    <text x="102" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff">14.3%</text>
+    <text x="102" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#ffffff">US inland</text>
+    <text x="232" y="88" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" fill="#041e42">4%</text>
+    <text x="609" y="60" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#ffffff">48.7%</text>
+    <text x="609" y="108" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#ffffff">PORT COSTS</text>
+    <text x="1132" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" fill="#ffffff">24.4%</text>
+    <text x="1132" y="104" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#ffffff">ocean shipping</text>
+    <text x="1368" y="62" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700" fill="#ffffff">8.6%</text>
+    <text x="1368" y="102" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#ffffff">Europe</text>
+    <path d="M232 158 V205" stroke="#708090" stroke-width="3"/>
+    <text x="232" y="240" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#34414e">local freight near port</text>
+  </g>
+  <line x1="346" y1="365" x2="1042" y2="365" stroke="#041e42" stroke-width="4"/>
+  <line x1="346" y1="350" x2="346" y2="380" stroke="#041e42" stroke-width="4"/>
+  <line x1="1042" y1="350" x2="1042" y2="380" stroke="#041e42" stroke-width="4"/>
+  <text x="694" y="415" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#041e42">$1,163 spent inside two ports</text>
+  <text x="800" y="505" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" fill="#5b6672">Total shipment cost: $2,386</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">How the January 2025 U.S. rule sorted countries into three tiers for advanced AI chips</title>
+<desc id="desc">Diagram of three boxes. Eighteen allies, including Japan, Britain, Germany, South Korea, and Taiwan: no cap. Most countries, including the UAE, Saudi Arabia, India, Israel, Poland, and Malaysia, highlighted: about 50,000 chips through 2027. Arms-embargoed countries, including China, Russia, Iran, and about 20 more: none.</desc>
+<rect width="1600" height="430" fill="#ffffff"/>
+<rect x="40.0" y="20" width="470" height="390" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="40.0" y="20" width="470" height="66" fill="#041e42"/>
+<text x="275.0" y="65" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">18 ALLIES</text>
+<text x="275.0" y="182" font-size="40" font-weight="700" fill="#041e42" text-anchor="middle">No cap</text>
+<text x="275.0" y="288" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Japan, Britain,</text>
+<text x="275.0" y="326" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Germany, South Korea,</text>
+<text x="275.0" y="364" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Taiwan, and 13 more</text>
+<rect x="565.0" y="20" width="470" height="390" fill="#ffffff" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="565.0" y="20" width="470" height="66" fill="#8a7a5c"/>
+<text x="800.0" y="65" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">MOST COUNTRIES</text>
+<text x="800.0" y="160" font-size="40" font-weight="700" fill="#8a7a5c" text-anchor="middle">About 50,000 chips</text>
+<text x="800.0" y="208" font-size="40" font-weight="700" fill="#8a7a5c" text-anchor="middle">through 2027</text>
+<text x="800.0" y="288" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">UAE, Saudi Arabia,</text>
+<text x="800.0" y="326" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">India, Israel, Poland,</text>
+<text x="800.0" y="364" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Malaysia, and others</text>
+<rect x="1090.0" y="20" width="470" height="390" fill="#ffffff" stroke="#041e42" stroke-width="4"/>
+<rect x="1090.0" y="20" width="470" height="66" fill="#041e42"/>
+<text x="1325.0" y="65" font-size="30" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">ARMS-EMBARGOED</text>
+<text x="1325.0" y="182" font-size="40" font-weight="700" fill="#041e42" text-anchor="middle">None</text>
+<text x="1325.0" y="288" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">China, Russia,</text>
+<text x="1325.0" y="326" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">Iran, and</text>
+<text x="1325.0" y="364" font-size="28" font-weight="400" fill="#5b6672" text-anchor="middle">about 20 more</text>
+</svg>

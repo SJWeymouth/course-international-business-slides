@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">A blank grid for the activity: four problems by three capitals and the firm's move</title>
+<desc id="desc">A grid for the activity. Rows: 1, a 13-year-old watches five hours of video a day on one app; 2, a post that the government calls false reaches ten million people; 3, a platform wants to buy its fastest-growing rival; 4, a firm wants to store its users' data in another country. Columns: Washington, Beijing, Brussels, and the firm's move. Every cell holds a question mark.</desc>
+<rect width="1000" height="600" fill="#ffffff"/>
+<rect x="408" y="6" width="140" height="50" fill="#041e42"/>
+<text x="478.0" y="38" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">WASHINGTON</text>
+<rect x="556" y="6" width="140" height="50" fill="#041e42"/>
+<text x="626.0" y="38" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">BEIJING</text>
+<rect x="704" y="6" width="140" height="50" fill="#041e42"/>
+<text x="774.0" y="38" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">BRUSSELS</text>
+<rect x="852" y="6" width="140" height="50" fill="#8a7a5c"/>
+<text x="922.0" y="38" font-size="18" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="0.5">YOUR MOVE</text>
+<rect x="6" y="64" width="392" height="124" fill="#cdd9e6"/>
+<text x="26" y="142.0" font-size="46" font-weight="700" fill="#041e42" text-anchor="start">1</text>
+<text x="74" y="106.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">A 13-year-old watches five</text>
+<text x="74" y="134.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">hours of video a day</text>
+<text x="74" y="162.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">on one app.</text>
+<rect x="408" y="64" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="478.0" y="142.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="556" y="64" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="626.0" y="142.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="704" y="64" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="774.0" y="142.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="852" y="64" width="140" height="124" fill="#ffffff" stroke="#8a7a5c" stroke-width="3"/>
+<text x="922.0" y="142.0" font-size="46" font-weight="700" fill="#8a7a5c" text-anchor="middle">?</text>
+<rect x="6" y="196" width="392" height="124" fill="#cdd9e6"/>
+<text x="26" y="274.0" font-size="46" font-weight="700" fill="#041e42" text-anchor="start">2</text>
+<text x="74" y="238.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">A post that the government</text>
+<text x="74" y="266.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">calls false reaches</text>
+<text x="74" y="294.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">ten million people.</text>
+<rect x="408" y="196" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="478.0" y="274.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="556" y="196" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="626.0" y="274.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="704" y="196" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="774.0" y="274.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="852" y="196" width="140" height="124" fill="#ffffff" stroke="#8a7a5c" stroke-width="3"/>
+<text x="922.0" y="274.0" font-size="46" font-weight="700" fill="#8a7a5c" text-anchor="middle">?</text>
+<rect x="6" y="328" width="392" height="124" fill="#cdd9e6"/>
+<text x="26" y="406.0" font-size="46" font-weight="700" fill="#041e42" text-anchor="start">3</text>
+<text x="74" y="384.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">A platform wants to buy</text>
+<text x="74" y="412.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">its fastest-growing rival.</text>
+<rect x="408" y="328" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="478.0" y="406.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="556" y="328" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="626.0" y="406.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="704" y="328" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="774.0" y="406.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="852" y="328" width="140" height="124" fill="#ffffff" stroke="#8a7a5c" stroke-width="3"/>
+<text x="922.0" y="406.0" font-size="46" font-weight="700" fill="#8a7a5c" text-anchor="middle">?</text>
+<rect x="6" y="460" width="392" height="124" fill="#cdd9e6"/>
+<text x="26" y="538.0" font-size="46" font-weight="700" fill="#041e42" text-anchor="start">4</text>
+<text x="74" y="502.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">A firm wants to store</text>
+<text x="74" y="530.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">its users' data</text>
+<text x="74" y="558.0" font-size="22" font-weight="600" fill="#041e42" text-anchor="start">in another country.</text>
+<rect x="408" y="460" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="478.0" y="538.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="556" y="460" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="626.0" y="538.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="704" y="460" width="140" height="124" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="774.0" y="538.0" font-size="46" font-weight="700" fill="#cdd9e6" text-anchor="middle">?</text>
+<rect x="852" y="460" width="140" height="124" fill="#ffffff" stroke="#8a7a5c" stroke-width="3"/>
+<text x="922.0" y="538.0" font-size="46" font-weight="700" fill="#8a7a5c" text-anchor="middle">?</text>
+</svg>

@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="540" viewBox="0 0 1600 540" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">Schematic comparison of the liberal order and techno-blocs</title>
+<desc id="desc">Two schematic panels. The liberal order: twelve small circles, the states, in a ring, each joined to one central circle labeled rules; rules bind states, and any state may join. Techno-blocs: two separate clusters, each with a large circle, the lead state, joined to squares, the firms, and to small circles, the partner states, inside one boundary; four hollow circles sit outside both clusters; deals bind partners, firms sit inside, and others are shut out.</desc>
+<rect width="1600" height="540" fill="#ffffff"/>
+<text x="400" y="40" font-size="28" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="2.5">THE LIBERAL ORDER</text>
+<line x1="400" y1="260" x2="565.0" y2="260.0" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="565.0" cy="260.0" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="542.9" y2="342.5" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="542.9" cy="342.5" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="482.5" y2="402.9" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="482.5" cy="402.9" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="400.0" y2="425.0" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="400.0" cy="425.0" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="317.5" y2="402.9" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="317.5" cy="402.9" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="257.1" y2="342.5" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="257.1" cy="342.5" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="235.0" y2="260.0" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="235.0" cy="260.0" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="257.1" y2="177.5" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="257.1" cy="177.5" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="317.5" y2="117.1" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="317.5" cy="117.1" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="400.0" y2="95.0" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="400.0" cy="95.0" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="482.5" y2="117.1" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="482.5" cy="117.1" r="20" fill="#041e42"/>
+<line x1="400" y1="260" x2="542.9" y2="177.5" stroke="#cdd9e6" stroke-width="4"/>
+<circle cx="542.9" cy="177.5" r="20" fill="#041e42"/>
+<circle cx="400" cy="260" r="62" fill="#1f4e79"/>
+<text x="400" y="270" font-size="27" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="2">RULES</text>
+<text x="400" y="516" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Rules bind states, and any state may join.</text>
+<line x1="800" y1="20" x2="800" y2="530" stroke="#cdd9e6" stroke-width="3"/>
+<text x="1200" y="40" font-size="28" font-weight="700" fill="#1f4e79" text-anchor="middle" letter-spacing="2.5">TECHNO-BLOCS</text>
+<ellipse cx="1010" cy="240" rx="165" ry="150" fill="#f4f1ea" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1010" y1="230" x2="915" y2="190" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1010" y1="230" x2="1105" y2="190" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1010" y1="230" x2="910" y2="300" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1010" y1="230" x2="1010" y2="345" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1010" y1="230" x2="1110" y2="300" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="891" y="166" width="48" height="48" fill="#8a7a5c"/>
+<rect x="1081" y="166" width="48" height="48" fill="#8a7a5c"/>
+<circle cx="910" cy="300" r="20" fill="#041e42"/>
+<circle cx="1010" cy="345" r="20" fill="#041e42"/>
+<circle cx="1110" cy="300" r="20" fill="#041e42"/>
+<circle cx="1010" cy="230" r="44" fill="#041e42"/>
+<ellipse cx="1390" cy="240" rx="165" ry="150" fill="#f4f1ea" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1390" y1="230" x2="1295" y2="190" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1390" y1="230" x2="1485" y2="190" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1390" y1="230" x2="1290" y2="300" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1390" y1="230" x2="1390" y2="345" stroke="#8a7a5c" stroke-width="4"/>
+<line x1="1390" y1="230" x2="1490" y2="300" stroke="#8a7a5c" stroke-width="4"/>
+<rect x="1271" y="166" width="48" height="48" fill="#8a7a5c"/>
+<rect x="1461" y="166" width="48" height="48" fill="#8a7a5c"/>
+<circle cx="1290" cy="300" r="20" fill="#041e42"/>
+<circle cx="1390" cy="345" r="20" fill="#041e42"/>
+<circle cx="1490" cy="300" r="20" fill="#041e42"/>
+<circle cx="1390" cy="230" r="44" fill="#041e42"/>
+<circle cx="1200" cy="120" r="18" fill="#ffffff" stroke="#5b6672" stroke-width="4" stroke-dasharray="6 5"/>
+<circle cx="1200" cy="400" r="18" fill="#ffffff" stroke="#5b6672" stroke-width="4" stroke-dasharray="6 5"/>
+<circle cx="1175" cy="262" r="18" fill="#ffffff" stroke="#5b6672" stroke-width="4" stroke-dasharray="6 5"/>
+<circle cx="1225" cy="262" r="18" fill="#ffffff" stroke="#5b6672" stroke-width="4" stroke-dasharray="6 5"/>
+<text x="1200" y="516" font-size="28" font-weight="600" fill="#041e42" text-anchor="middle">Deals bind partners, and others are shut out.</text>
+<circle cx="836" cy="448" r="14" fill="#041e42"/><text x="860" y="456" font-size="22" font-weight="400" fill="#5b6672" text-anchor="start">state</text>
+<rect x="946" y="434" width="28" height="28" fill="#8a7a5c"/><text x="984" y="456" font-size="22" font-weight="400" fill="#5b6672" text-anchor="start">firm</text>
+<circle cx="1076" cy="448" r="14" fill="#ffffff" stroke="#5b6672" stroke-width="4" stroke-dasharray="6 5"/><text x="1100" y="456" font-size="22" font-weight="400" fill="#5b6672" text-anchor="start">shut out</text>
+</svg>

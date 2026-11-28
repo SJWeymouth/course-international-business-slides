@@ -1,0 +1,42 @@
+<svg viewBox="0 0 1400 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ct-title ct-desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+  <title id="ct-title">From chartered organization to permanent foreign presence, 1600 to 1603</title>
+  <desc id="ct-desc">Timeline in two phases. In 1600 the charter creates an exclusive English trade and internal company governance. Abroad, Lancaster negotiates a treaty at Aceh and seizes a Portuguese carrack in 1602, then establishes a permanent factory at Bantam in 1603.</desc>
+
+  <rect width="1400" height="300" fill="#ffffff"/>
+
+  <rect x="30" y="74" width="460" height="212" fill="#e6ecf3"/>
+  <rect x="492" y="74" width="878" height="212" fill="#f0ece3"/>
+
+  <text x="260" y="56" text-anchor="middle" font-size="21" font-weight="600" letter-spacing="1.5" fill="#1f4e79">CHARTERED ORGANIZATION</text>
+  <text x="931" y="56" text-anchor="middle" font-size="21" font-weight="600" letter-spacing="1.5" fill="#8a7a5c">EXERCISED ABROAD</text>
+
+  <line x1="58" y1="180" x2="1362" y2="180" stroke="#041e42" stroke-width="3"/>
+  <polygon points="1362,171 1388,180 1362,189" fill="#041e42"/>
+
+  <g text-anchor="middle">
+    <g>
+      <circle cx="260" cy="180" r="10" fill="#1f4e79"/>
+      <text x="260" y="148" font-size="23" font-weight="600" fill="#6b7280">1600</text>
+      <text x="260" y="220" font-size="22" fill="#041e42">English monopoly</text>
+      <text x="260" y="248" font-size="22" fill="#041e42">internal governance</text>
+    </g>
+    <g>
+      <circle cx="660" cy="180" r="10" fill="#8a7a5c"/>
+      <text x="660" y="148" font-size="23" font-weight="600" fill="#6b7280">1602</text>
+      <text x="660" y="220" font-size="22" fill="#041e42">Treaty at</text>
+      <text x="660" y="248" font-size="22" fill="#041e42">Aceh</text>
+    </g>
+    <g>
+      <circle cx="930" cy="180" r="10" fill="#8a7a5c"/>
+      <text x="930" y="148" font-size="23" font-weight="600" fill="#6b7280">1602</text>
+      <text x="930" y="220" font-size="22" fill="#041e42">Carrack</text>
+      <text x="930" y="248" font-size="22" fill="#041e42">seized</text>
+    </g>
+    <g>
+      <circle cx="1200" cy="180" r="10" fill="#8a7a5c"/>
+      <text x="1200" y="148" font-size="23" font-weight="600" fill="#6b7280">1603</text>
+      <text x="1200" y="220" font-size="22" fill="#041e42">Factory at</text>
+      <text x="1200" y="248" font-size="22" fill="#041e42">Bantam</text>
+    </g>
+  </g>
+</svg>

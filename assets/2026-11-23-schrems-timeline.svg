@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="476" viewBox="0 0 1000 476" role="img" aria-labelledby="title desc" font-family="'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif">
+<title id="title">From Max Schrems's complaint in 2013 to the fine on Meta in 2023</title>
+<desc id="desc">A timeline in four steps. 2013: Max Schrems, a law student in Vienna, complains that Facebook sends his data to the United States. 2015: the EU's top court cancels the Safe Harbor agreement on data transfers. 2020: the court cancels its successor, the Privacy Shield, which 5,300 firms used. 2023: Ireland's regulator fines Meta 1.2 billion euros for the same transfers.</desc>
+<rect width="1000" height="476" fill="#ffffff"/>
+<line x1="85" y1="30" x2="85" y2="446" stroke="#cdd9e6" stroke-width="6"/>
+<rect x="10" y="6" width="150" height="104" fill="#041e42"/>
+<text x="85" y="71.0" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2013</text>
+<rect x="172" y="6" width="818" height="104" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="196" y="50" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">Max Schrems, a law student in Vienna, complains</text>
+<text x="196" y="86" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">that Facebook sends his data to the United States.</text>
+<rect x="10" y="126" width="150" height="104" fill="#041e42"/>
+<text x="85" y="191.0" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2015</text>
+<rect x="172" y="126" width="818" height="104" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="196" y="170" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">The EU's top court cancels the Safe Harbor</text>
+<text x="196" y="206" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">agreement on data transfers.</text>
+<rect x="10" y="246" width="150" height="104" fill="#041e42"/>
+<text x="85" y="311.0" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2020</text>
+<rect x="172" y="246" width="818" height="104" fill="#ffffff" stroke="#cdd9e6" stroke-width="3"/>
+<text x="196" y="290" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">The court cancels its successor, the Privacy</text>
+<text x="196" y="326" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">Shield, which 5,300 firms used.</text>
+<rect x="10" y="366" width="150" height="104" fill="#8a7a5c"/>
+<text x="85" y="431.0" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">2023</text>
+<rect x="172" y="366" width="818" height="104" fill="#ffffff" stroke="#8a7a5c" stroke-width="3"/>
+<text x="196" y="410" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">Ireland's regulator fines Meta €1.2 billion</text>
+<text x="196" y="446" font-size="28" font-weight="400" fill="#041e42" text-anchor="start">for the same transfers.</text>
+</svg>
